@@ -150,3 +150,4 @@ for _ in range(1):
 	
 	veta = listToString(spravna_veta)
 	print(veta)
+	
