@@ -1,7 +1,7 @@
 import re
 import difflib
 
-filename="D:\programy\SIVT 2020\syn2015_word_utf8.tsv"
+filename="syn2015_word_utf8.tsv"
 file = open(filename, "r", encoding="utf8")
 voc=[]
 
