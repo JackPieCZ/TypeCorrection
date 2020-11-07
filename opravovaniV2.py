@@ -1,10 +1,8 @@
-### TODO list
-# 95,32 , 0,01 0,03 chyba
-
-
 import re
 import difflib
 import os
+import json
+import requests
 
 here = os.path.dirname(os.path.abspath(__file__)) #set the current file path
 
@@ -36,7 +34,7 @@ voc_words = list(dict.fromkeys(voc_words)) #removing duplicates
 for i in range(20000):
     voc_words.append(str(i))
 
-file2=os.path.join(here,"voda_errors.txt") #path for file to correct
+file2=os.path.join(here,"voda.txt") #path for file to correct
 file_chyby = open(file2, "r", encoding="utf8")
 na_opravu=[]
 raw_line = file_chyby.readline()
@@ -44,9 +42,9 @@ while raw_line: #adding every line to list
 	na_opravu.append(raw_line)
 	raw_line=file_chyby.readline()
 
-user_slovnik = ['abode', 'aquifer', 'aquiferů', 'argyre', 'anody','bazaltovém', 
-'canali', 'canals', 'celoplanetárním', 'cerberus',  'crism', "čepiček", 'erodovaných', 'erozivní', 'evaporaci', 'fossae', 'gusev', 
-'hesperianu', 'hydrosféry', 'impaktních', 'impaktů', 'kryosféry', 'kryosféře', "m3.s−1", "ma'adim", 'mariner', 'marineris', 
+user_slovnik = ["3d",'abode', 'aquifer', 'aquiferů', 'argyre', 'anody','bazaltovém', 
+'canali', 'canals', 'celoplanetárním', 'cerberus',  'crism', "čepiček", "co2",'erodovaných', 'erozivní', 'evaporaci', 'fossae', 'gusev', 
+'hesperianu', 'hydrosféry', 'impaktních', 'impaktů', 'km3','kryosféry', 'kryosféře', "m3", "m3.s−1", "ma'adim", 'mariner', 'marineris', 
 'marsovské', "marsovský",'marsovského', 'meridiani', 'mola', 'montes', 'napovídající', 'nasa', 'naskytuje', 'neutronovým', 'noachianu', 
 'noachis', 'oceanus', 'painted', 'palagonit', 'permafrostem', 'planitia', 'polotekuté', 'reconnaissance', 'regolitu', 'roztáním', 
 'sedimentovat', 'sesutím', 'sezónního', 'skupenstvích', 'sonda','sojourner', 'spektrometrem', 'spektrometrických', 'spektroskopické', 'sublimoval', 
@@ -70,7 +68,18 @@ file_out = open(file4, "w", encoding="utf8")
 veta_now = 0
 veta_all = len(na_opravu)
 
+na_opravu2 = []
 for veta in na_opravu:
+    veta_now +=1
+    print(str(veta_now)+"/"+str(veta_all), end="\r")
+    response = requests.get("http://lindat.mff.cuni.cz/services/korektor/api/correct?data="+veta)
+    res_json = response.json()
+    na_opravu2.append(res_json.get("result"))
+
+veta_now = 0
+veta_all = len(na_opravu)
+
+for veta in na_opravu2:
     veta_now +=1 #current phrase
     print(str(veta_now)+"/"+str(veta_all), end="\r")
     spravna_veta=[] 
@@ -81,13 +90,18 @@ for veta in na_opravu:
         index_cap = 0
         prefix = ""
         sufix = ""
-        spec_znaky = "().,?!;:…„“–-×%=~°'"
+        spec_znaky = "().,?!;:…„“–-×%=~°'−"
         slovo_raw = slovo
         for ch in slovo:
             if ch in spec_znaky:
                 prefix=prefix+ch
             else:
                 break
+        if slovo == prefix:
+            prefix == ""
+        if prefix != "":
+            print("prefix: "+prefix, file=file_out)
+        slovo = slovo.replace(prefix,"")
         if len(slovo)>1:
             for ch in slovo[::-1]:
                 if ch in spec_znaky:
@@ -95,50 +109,49 @@ for veta in na_opravu:
                 else:
                     break
             sufix = sufix[::-1]
-        slovo = slovo.replace(prefix,"").replace(sufix,"")
+        if slovo == sufix:
+            sufix == ""
+        if sufix != "":
+            print("sufix: "+sufix, file=file_out)
+        slovo = slovo.replace(sufix,"")
         
         for ch in slovo:
             if ch.istitle():
                 capitals.append(index_cap)
             index_cap+=1
         slovo = slovo.lower()
+        print("Capitals: "+str(capitals), file=file_out)
         
         if slovo not in voc_words:
             if (slovo.isnumeric() is False) and ("×" not in slovo):
-                if len(slovo)==0:
-                    slovo=""
-                else:
-                    print("Chyba: "+slovo, file=file_out)
-                    oprava = difflib.get_close_matches(slovo, voc_words, n=2)
-                    slovo=oprava[0]
-                    try:
-                        print(oprava[0]+": "+ voc_freq.get(oprava[0]), file=file_out)
-                        print(oprava[1]+": "+ voc_freq.get(oprava[1]), file=file_out)
-                        """if int(voc_freq.get(oprava[1])) > int(voc_freq.get(oprava[0])):
-                            print("Slovo změněno z "+oprava[0]+" na "+oprava[1], file=file_out)
-                            slovo = oprava[1]"""
-                    except TypeError:
-                        print(oprava[0]+" not in voc_words", file=file_out)
-                    except IndexError:
-                        pass
-                    print("opraveno: "+slovo, file=file_out)
-        
-        slovo = prefix + slovo + sufix
-
+                slovo_test = slovo.replace(",","")
+                if slovo_test.isnumeric() is False:
+                    if len(slovo)==0:
+                        slovo=""
+                    else:
+                        print("Chyba: "+slovo, file=file_out)
+                        oprava = difflib.get_close_matches(slovo, voc_words, n=2)
+                        slovo=oprava[0]
+                        try:
+                            print(oprava[0]+": "+ voc_freq.get(oprava[0]), file=file_out)
+                            print(oprava[1]+": "+ voc_freq.get(oprava[1]), file=file_out)
+                            """if int(voc_freq.get(oprava[1])) > int(voc_freq.get(oprava[0])):
+                                print("Slovo změněno z "+oprava[0]+" na "+oprava[1], file=file_out)
+                                slovo = oprava[1]"""
+                        except TypeError:
+                            print(oprava[0]+" not in voc_words", file=file_out)
+                        except IndexError:
+                            pass
+                        print("opraveno: "+slovo, file=file_out)
         if capitals != []:
             for i in capitals:
                 if i == 0:
-                    slovo = slovo.title()
+                    slovo = slovo[0].upper() +slovo[1:]
                 else:
                     if len(slovo)>1:
                         slovo = slovo[:i] + slovo[i].upper() + slovo[i+1:]
-        if len(slovo)>=2:
-            if slovo_raw[-2] in spec_znaky and slovo_raw[-1].isnumeric():
-                slovo = slovo[:-2] + slovo_raw[-2] + slovo[-1]
-            if slovo_raw[-2] == ".":
-                slovo+="."
-            if slovo_raw[-2] == ",":
-                slovo+=","
+
+        slovo = prefix + slovo + sufix
 
         print(slovo, file=file_out)
         print("", file=file_out)
@@ -147,6 +160,10 @@ for veta in na_opravu:
     veta = listToString(spravna_veta)
     print(split_veta, file=file_out)
     print(veta, file=file_out)
-    file_opraveno.write(veta+"\n")
+
+    if veta_now < veta_all:
+        file_opraveno.write(veta+"\n")
+    else:
+        file_opraveno.write(veta+" ")
 file_opraveno.close()
 print("done")
