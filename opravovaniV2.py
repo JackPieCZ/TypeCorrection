@@ -34,7 +34,7 @@ voc_words = list(dict.fromkeys(voc_words)) #removing duplicates
 for i in range(20000):
     voc_words.append(str(i))
 
-file2=os.path.join(here,"voda.txt") #path for file to correct
+file2=os.path.join(here,"voda_errors.txt") #path for file to correct
 file_chyby = open(file2, "r", encoding="utf8")
 na_opravu=[]
 raw_line = file_chyby.readline()
@@ -67,19 +67,25 @@ file_out = open(file4, "w", encoding="utf8")
 
 veta_now = 0
 veta_all = len(na_opravu)
-
+"""
 na_opravu2 = []
 for veta in na_opravu:
     veta_now +=1
     print(str(veta_now)+"/"+str(veta_all), end="\r")
     response = requests.get("http://lindat.mff.cuni.cz/services/korektor/api/correct?data="+veta)
     res_json = response.json()
-    na_opravu2.append(res_json.get("result"))
-
+    veta = (res_json.get("result"))
+    if veta_now < veta_all:
+        file_opraveno.write(veta+"\n")
+    else:
+        file_opraveno.write(veta+" ")
+file_opraveno.close()
+print("done")
+"""
 veta_now = 0
 veta_all = len(na_opravu)
 
-for veta in na_opravu2:
+for veta in na_opravu:
     veta_now +=1 #current phrase
     print(str(veta_now)+"/"+str(veta_all), end="\r")
     spravna_veta=[] 
@@ -131,13 +137,13 @@ for veta in na_opravu2:
                     else:
                         print("Chyba: "+slovo, file=file_out)
                         oprava = difflib.get_close_matches(slovo, voc_words, n=2)
-                        slovo=oprava[0]
                         try:
+                            slovo=oprava[0]
                             print(oprava[0]+": "+ voc_freq.get(oprava[0]), file=file_out)
                             print(oprava[1]+": "+ voc_freq.get(oprava[1]), file=file_out)
-                            """if int(voc_freq.get(oprava[1])) > int(voc_freq.get(oprava[0])):
-                                print("Slovo změněno z "+oprava[0]+" na "+oprava[1], file=file_out)
-                                slovo = oprava[1]"""
+                            #if int(voc_freq.get(oprava[1])) > int(voc_freq.get(oprava[0])):
+                                #print("Slovo změněno z "+oprava[0]+" na "+oprava[1], file=file_out)
+                                #slovo = oprava[1]
                         except TypeError:
                             print(oprava[0]+" not in voc_words", file=file_out)
                         except IndexError:
