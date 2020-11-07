@@ -18,6 +18,8 @@ označení
 
 veškeuré
 Chyba: veškeuré
+veškeré: 5299
+veškerém: 49
 opraveno: veškeré
 veškeré
 
@@ -53,6 +55,8 @@ Zemi
 
 vnak
 Chyba: vnak
+vak: 325
+vaniak: 31
 opraveno: vak
 vak
 
@@ -88,6 +92,8 @@ množství
 
 odobném
 Chyba: odobném
+podobném: 700
+ozdobném: 15
 opraveno: podobném
 podobném
 
@@ -105,6 +111,8 @@ neexistují
 
 ossáhlé
 Chyba: ossáhlé
+obsáhlé: 213
+rozsáhlé: 1997
 opraveno: obsáhlé
 obsáhlé
 
@@ -116,6 +124,8 @@ kapalné
 
 vohdy
 Chyba: vohdy
+vody: 23666
+úvody: 23
 opraveno: vody
 vody
 
@@ -221,6 +231,8 @@ dlouhodobou
 
 exisítenci
 Chyba: exisítenci
+existenci: 3479
+neexistenci: 125
 opraveno: existenci
 existenci
 
@@ -316,6 +328,8 @@ povrchu
 
 Manrsu
 Chyba: manrsu
+marsu: 590
+mansu: 13
 opraveno: marsu
 Marsu
 
@@ -333,16 +347,22 @@ minulosti
 
 vyskyovala,
 Chyba: vyskyovala
+vyskytovala: 128
+vyskytoval: 164
 opraveno: vyskytovala
 vyskytovala,
 
 tvořeila
 Chyba: tvořeila
+tvořila: 735
+utvořila: 90
 opraveno: tvořila
 tvořila
 
 ouvislěé
 Chyba: ouvislěé
+souvislé: 229
+souvislém: 28
 opraveno: souvislé
 souvislé
 
@@ -394,6 +414,8 @@ výskytu
 
 vodzy
 Chyba: vodzy
+vozy: 2446
+vody: 23666
 opraveno: vozy
 vozy
 
@@ -417,6 +439,8 @@ povrchem
 
 existje
 Chyba: existje
+existuje: 8599
+existuješ: 28
 opraveno: existuje
 existuje
 
@@ -434,6 +458,8 @@ i
 
 nepřmých
 Chyba: nepřmých
+nepřímých: 165
+přímých: 639
 opraveno: nepřímých
 nepřímých
 
@@ -466,6 +492,8 @@ spektrometrických
 
 měřcní,
 Chyba: měřcní
+měřicí: 433
+měření: 4491
 opraveno: měřicí
 měřicí,
 
@@ -474,6 +502,8 @@ erodovaných
 
 krátežrů,
 Chyba: krátežrů
+kráterů: 69
+kráter: 213
 opraveno: kráterů
 kráterů,
 
@@ -485,6 +515,8 @@ minerálů
 
 pťřímo
 Chyba: pťřímo
+přímo: 28866
+přímou: 1080
 opraveno: přímo
 přímo
 
@@ -502,11 +534,15 @@ kapalné
 
 vody.ě
 Chyba: vody.ě
+vodě: 6178
+vody: 23666
 opraveno: vodě
-vodě
+vodě.
 
 Díey
 Chyba: díey
+idey: 11
+díže: 16
 opraveno: idey
 Idey
 
@@ -524,6 +560,8 @@ je
 
 pravděpoobné,
 Chyba: pravděpoobné
+pravděpodobné: 2158
+pravděpodobném: 18
 opraveno: pravděpodobné
 pravděpodobné,
 
@@ -546,10 +584,16 @@ zásoby
 zásoby
 
 proc
-proc
+Chyba: proc
+roc: 13
+pro: 340094
+opraveno: roc
+roc
 
 budoucd
 Chyba: budoucd
+budoucí: 4396
+budou: 46865
 opraveno: budoucí
 budoucí
 
@@ -566,7 +610,7 @@ planetě.
 planetě.
 
 ['O', 'výskytu', 'vodzy', 'na', 'povrchu', 'či', 'pod', 'jeho', 'povrchem', 'existje', 'celá', 'řada', 'přímých', 'i', 'nepřmých', 'důkazů', 'jako', 'v', 'podobě', 'říčních', 'koryt,', 'polárních', 'oblastí,', 'spektrometrických', 'měřcní,', 'erodovaných', 'krátežrů,', 'či', 'minerálů', 'pťřímo', 'spojených', 's', 'existencí', 'kapalné', 'vody.ě', 'Díey', 'zásobám', 'kapalné', 'vody', 'je', 'pravděpoobné,', 'že', 'se', 'značně', 'zmenší', 'potřebné', 'zásoby', 'proc', 'budoucd', 'kosmické', 'mise', 'k', 'planetě.']
-O výskytu vozy na povrchu či pod jeho povrchem existuje celá řada přímých i nepřímých důkazů jako v podobě říčních koryt, polárních oblastí, spektrometrických měřicí, erodovaných kráterů, či minerálů přímo spojených s existencí kapalné vodě Idey zásobám kapalné vody je pravděpodobné, že se značně zmenší potřebné zásoby proc budoucí kosmické mise k planetě.
+O výskytu vozy na povrchu či pod jeho povrchem existuje celá řada přímých i nepřímých důkazů jako v podobě říčních koryt, polárních oblastí, spektrometrických měřicí, erodovaných kráterů, či minerálů přímo spojených s existencí kapalné vodě. Idey zásobám kapalné vody je pravděpodobné, že se značně zmenší potřebné zásoby roc budoucí kosmické mise k planetě.
 []
 
 Historie
@@ -650,6 +694,8 @@ canali),
 
 ktré
 Chyba: ktré
+které: 231755
+kté: 25
 opraveno: které
 které
 
@@ -661,6 +707,8 @@ sám
 
 ejprře
 Chyba: ejprře
+nejprve: 7319
+vepře: 101
 opraveno: nejprve
 nejprve
 
@@ -684,6 +732,8 @@ Vlivem
 
 přeďkladu,
 Chyba: přeďkladu
+překladu: 1373
+překlad: 1171
 opraveno: překladu
 překladu,
 
@@ -701,6 +751,8 @@ záměně
 
 příuodníckh
 Chyba: příuodníckh
+přívodních: 30
+přírodních: 2811
 opraveno: přívodních
 přívodních
 
@@ -712,11 +764,15 @@ za
 
 uměple
 Chyba: uměple
+uměle: 1121
+umělec: 1282
 opraveno: uměle
 uměle
 
 vytvýořené,
 Chyba: vytvýořené
+vytvořené: 820
+vytvořeném: 59
 opraveno: vytvořené
 vytvořené,
 
@@ -725,6 +781,8 @@ se
 
 zaaly
 Chyba: zaaly
+zaťaly: 14
+začaly: 6389
 opraveno: zaťaly
 zaťaly
 
@@ -733,6 +791,8 @@ kolem
 
 Magrsu
 Chyba: magrsu
+marsu: 590
+masu: 496
 opraveno: marsu
 Marsu
 
@@ -762,6 +822,8 @@ snaží
 
 přvvádět
 Chyba: přvvádět
+přivádět: 118
+převádět: 170
 opraveno: přivádět
 přivádět
 
@@ -770,6 +832,8 @@ z
 
 polárníóh
 Chyba: polárníóh
+polárního: 113
+polárních: 199
 opraveno: polárního
 polárního
 
@@ -784,6 +848,7 @@ do
 
 vysóychajících
 Chyba: vysóychajících
+vysychajících not in voc_words
 opraveno: vysychajících
 vysychajících
 
@@ -795,6 +860,8 @@ kolem
 
 rovzníku.
 Chyba: rovzníku
+rovníku: 186
+rovník: 41
 opraveno: rovníku
 rovníku.
 
@@ -806,6 +873,8 @@ pozorování
 
 vyvrátilg
 Chyba: vyvrátilg
+vyvrátil: 156
+vyzvrátil: 17
 opraveno: vyvrátil
 vyvrátil
 
@@ -823,6 +892,8 @@ první
 
 fotografiké
 Chyba: fotografiké
+fotografické: 378
+fotografickém: 37
 opraveno: fotografické
 fotografické
 
@@ -837,6 +908,8 @@ i
 
 představuí
 Chyba: představuí
+představují: 3927
+představí: 2836
 opraveno: představují
 představují
 
@@ -851,6 +924,8 @@ na
 
 povúchu
 Chyba: povúchu
+povrchu: 6296
+povrch: 4839
 opraveno: povrchu
 povrchu
 
@@ -883,16 +958,22 @@ stav
 
 atmoféry
 Chyba: atmoféry
+atmosféry: 1410
+atmosfér: 42
 opraveno: atmosféry
 atmosféry
 
 louhodobější
 Chyba: louhodobější
+dlouhodobější: 264
+dlouhodobějším: 58
 opraveno: dlouhodobější
 dlouhodobější
 
 ýskyt
 Chyba: ýskyt
+výskyt: 1784
+výskytů: 107
 opraveno: výskyt
 výskyt
 
@@ -965,6 +1046,8 @@ oblastem,
 
 keré
 Chyba: keré
+které: 231755
+kerné: 12
 opraveno: které
 které
 
@@ -973,6 +1056,8 @@ vznikly
 
 vdní
 Chyba: vdní
+vědní: 303
+vídní: 125
 opraveno: vědní
 vědní
 
@@ -993,16 +1078,22 @@ rozsáhlá
 
 klryta,
 Chyba: klryta
+kryta: 75
+ukryta: 133
 opraveno: kryta
 kryta,
 
 huoké
 Chyba: huoké
+hluboké: 2479
+hořké: 441
 opraveno: hluboké
 hluboké
 
 kanxály,
 Chyba: kanxály
+kanály: 858
+kanálky: 140
 opraveno: kanály
 kanály,
 
@@ -1029,6 +1120,8 @@ starodávné
 
 pobřežwní
 Chyba: pobřežwní
+pobřežní: 490
+pobřežním: 45
 opraveno: pobřežní
 pobřežní
 
@@ -1037,11 +1130,15 @@ pobřežní
 
 Následujícít
 Chyba: následujícít
+následující: 5565
+následujícím: 1654
 opraveno: následující
 Následující
 
 sonde
 Chyba: sonde
+sond: 195
+onde: 87
 opraveno: sond
 sond
 
@@ -1056,6 +1153,8 @@ Mars
 
 Glčbal
 Chyba: glčbal
+global: 357
+líbal: 368
 opraveno: global
 Global
 
@@ -1073,11 +1172,15 @@ Express
 
 rvě
 Chyba: rvě
+révě: 28
+ervě: 10
 opraveno: révě
 révě
 
 povxrchová
 Chyba: povxrchová
+povrchová: 353
+povrchově: 133
 opraveno: povrchová
 povrchová
 
@@ -1089,6 +1192,8 @@ Mars
 
 Exploaation
 Chyba: exploaation
+exploration: 14
+exploataci: 24
 opraveno: exploration
 Exploration
 
@@ -1124,6 +1229,8 @@ projevech
 
 tekouc
 Chyba: tekouc
+tekoucí: 634
+tekoucím: 17
 opraveno: tekoucí
 tekoucí
 
@@ -1135,6 +1242,8 @@ na
 
 povrchó
 Chyba: povrchó
+povrch: 4839
+povrchů: 427
 opraveno: povrch
 povrch
 
@@ -1143,6 +1252,8 @@ planety.
 
 Nškteří
 Chyba: nškteří
+někteří: 7232
+kteří: 70238
 opraveno: někteří
 Někteří
 
@@ -1151,6 +1262,8 @@ vědci
 
 dokoúce
 Chyba: dokoúce
+dokonce: 38145
+doktorce: 111
 opraveno: dokonce
 dokonce
 
@@ -1180,6 +1293,7 @@ tekla
 
 000ť
 Chyba: 000ť
+9000 not in voc_words
 opraveno: 9000
 9000
 
@@ -1228,6 +1342,8 @@ kráteru
 
 sondhu
 Chyba: sondhu
+sondu: 223
+sondou: 223
 opraveno: sondu
 sondu
 
@@ -1254,6 +1370,8 @@ který
 
 naznčil,
 Chyba: naznčil
+naznačil: 1430
+naznačily: 66
 opraveno: naznačil
 naznačil,
 
@@ -1301,11 +1419,15 @@ stále
 
 nachúází.
 Chyba: nachúází
+nachází: 6779
+nadchází: 31
 opraveno: nachází
 nachází.
 
 Pozdějnší
 Chyba: pozdějnší
+pozdější: 1891
+pozdějším: 525
 opraveno: pozdější
 Pozdější
 
@@ -1313,7 +1435,11 @@ studie
 studie
 
 al
-al
+Chyba: al
+žal: 584
+ťal: 40
+opraveno: žal
+žal
 
 vyvrátily
 vyvrátily
@@ -1361,7 +1487,7 @@ materiálu.
 materiálu.
 
 ['V', 'červnu', 'roku', '2000', 'došlo', 'díky', 'opakovanému', 'snímkování', 'bezejmenného', 'kráteru', 'sondhu', 'Mars', 'Global', 'Surveyor', 'k', 'náhodnému', 'objevu,', 'který', 'naznčil,', 'že', 'se', 'tekoucí', 'voda', 'v', 'malém', 'množství', 'a', 'p', 'krátký', 'čas', 'na', 'povrchu', 'stále', 'nachúází.', 'Pozdějnší', 'studie', 'al', 'vyvrátily', 'účast', 'vody', 'na', 'vzniku', 'útvaru,', 'spíše', 'se', 'jedná', 'o', 'výsledek', 'svahového', 'sesuvu', 'jemnozrnného', 'materiálu.']
-V červnu roku 2000 došlo díky opakovanému snímkování bezejmenného kráteru sondu Mars Global Surveyor k náhodnému objevu, který naznačil, že se tekoucí voda v malém množství a p krátký čas na povrchu stále nachází. Pozdější studie al vyvrátily účast vody na vzniku útvaru, spíše se jedná o výsledek svahového sesuvu jemnozrnného materiálu.
+V červnu roku 2000 došlo díky opakovanému snímkování bezejmenného kráteru sondu Mars Global Surveyor k náhodnému objevu, který naznačil, že se tekoucí voda v malém množství a p krátký čas na povrchu stále nachází. Pozdější studie žal vyvrátily účast vody na vzniku útvaru, spíše se jedná o výsledek svahového sesuvu jemnozrnného materiálu.
 Metodika
 Metodika
 
@@ -1377,6 +1503,8 @@ Vědci
 
 využívjí
 Chyba: využívjí
+využívají: 2834
+vyžívají: 31
 opraveno: využívají
 využívají
 
@@ -1415,6 +1543,8 @@ fyzikálním
 
 zákadu.
 Chyba: zákadu
+základu: 1351
+základnu: 967
 opraveno: základu
 základu.
 
@@ -1441,6 +1571,8 @@ optické
 
 pozrování
 Chyba: pozrování
+pozorování: 2569
+pozorováním: 392
 opraveno: pozorování
 pozorování
 
@@ -1464,11 +1596,15 @@ století
 
 paineslo
 Chyba: paineslo
+přineslo: 1132
+zaneslo: 18
 opraveno: přineslo
 přineslo
 
 informce
 Chyba: informce
+informace: 15837
+inform: 10
 opraveno: informace
 informace
 
@@ -1477,6 +1613,8 @@ o
 
 existencz
 Chyba: existencz
+existencí: 442
+existenci: 3479
 opraveno: existencí
 existencí
 
@@ -1506,6 +1644,8 @@ odkázáni
 
 jenm
 Chyba: jenm
+jenom: 32422
+jen: 206709
 opraveno: jenom
 jenom
 
@@ -1547,6 +1687,8 @@ jsou
 
 loženy.
 Chyba: loženy
+vloženy: 94
+uloženy: 810
 opraveno: vloženy
 vloženy.
 
@@ -1640,6 +1782,8 @@ roce
 
 aómerixký
 Chyba: aómerixký
+americký: 3063
+amerik: 27
 opraveno: americký
 americký
 
@@ -1648,6 +1792,8 @@ astronom
 
 Percióval
 Chyba: percióval
+percival: 12
+special: 100
 opraveno: percival
 Percival
 
@@ -1665,6 +1811,8 @@ a
 
 pozdrji
 Chyba: pozdrji
+později: 29508
+pozdravuji: 16
 opraveno: později
 později
 
@@ -1679,11 +1827,15 @@ roce
 
 „Mxrs
 Chyba: mxrs
+mrs: 24
+mrsa: 11
 opraveno: mrs
 „Mrs
 
 ašnd
 Chyba: ašnd
+and: 2619
+sand: 31
 opraveno: and
 and
 
@@ -1734,6 +1886,8 @@ roce
 
 ačal
 Chyba: ačal
+začal: 23433
+načal: 72
 opraveno: začal
 začal
 
@@ -1748,6 +1902,8 @@ William
 
 Wýllaqe
 Chyba: wýllaqe
+wallace: 149
+williame: 207
 opraveno: wallace
 Wallace
 
@@ -1762,6 +1918,7 @@ první
 
 spektroskopiké
 Chyba: spektroskopiké
+spektroskopické not in voc_words
 opraveno: spektroskopické
 spektroskopické
 
@@ -1779,6 +1936,8 @@ které
 
 prďokázaly,
 Chyba: prďokázaly
+prokázaly: 458
+prokázal: 888
 opraveno: prokázaly
 prokázaly,
 
@@ -1787,11 +1946,15 @@ prokázaly,
 
 atmosféa
 Chyba: atmosféa
+atmosféra: 1996
+atmosfér: 42
 opraveno: atmosféra
 atmosféra
 
 nebsahujer
 Chyba: nebsahujer
+neobsahuje: 550
+nestahuje: 10
 opraveno: neobsahuje
 neobsahuje
 
@@ -1830,6 +1993,8 @@ Mars
 
 nacháep
 Chyba: nacháep
+nacházet: 643
+nacházel: 1107
 opraveno: nacházet
 nacházet
 
@@ -1871,6 +2036,8 @@ pomoci
 
 dokonálejšíc
 Chyba: dokonálejšíc
+dokonalejších: 25
+dokonalejší: 332
 opraveno: dokonalejších
 dokonalejších
 
@@ -1888,6 +2055,8 @@ důkazy,
 
 kmanály
 Chyba: kmanály
+kanály: 858
+manuály: 89
 opraveno: kanály
 kanály
 
@@ -1917,6 +2086,8 @@ se
 
 jnednalo
 Chyba: jnednalo
+jednalo: 2305
+nedalo: 2078
 opraveno: jednalo
 jednalo
 
@@ -1952,11 +2123,15 @@ až
 
 rvní
 Chyba: rvní
+rovní: 29
+první: 69640
 opraveno: rovní
 rovní
 
 globálnír
 Chyba: globálnír
+globální: 2313
+globálním: 525
 opraveno: globální
 globální
 
@@ -1965,11 +2140,15 @@ mapa
 
 planetyé
 Chyba: planetyé
+planety: 2265
+planetky: 63
 opraveno: planety
 planety
 
 pořízaná
 Chyba: pořízaná
+pořízená: 64
+pořezaná: 14
 opraveno: pořízená
 pořízená
 
@@ -2138,6 +2317,8 @@ pomocí
 
 fotografiín
 Chyba: fotografiín
+fotografií: 3179
+fotografiím: 98
 opraveno: fotografií
 fotografií
 
@@ -2173,11 +2354,15 @@ v
 
 solčasnsti
 Chyba: solčasnsti
+současnosti: 6586
+současnost: 507
 opraveno: současnosti
 současnosti
 
 nenacháí,
 Chyba: nenacháí
+nenachází: 226
+nenacházím: 66
 opraveno: nenachází
 nenachází,
 
@@ -2216,6 +2401,8 @@ byla
 
 sitóac
 Chyba: sitóac
+situací: 2925
+situaci: 15605
 opraveno: situací
 situací
 
@@ -2227,6 +2414,8 @@ Fotografie
 
 ukazlvaly
 Chyba: ukazlvaly
+ukazovaly: 419
+ukazoval: 1130
 opraveno: ukazovaly
 ukazovaly
 
@@ -2244,11 +2433,15 @@ oblasti
 
 připůmínající
 Chyba: připůmínající
+připomínající: 1540
+připomínajícím: 194
 opraveno: připomínající
 připomínající
 
 poďbřeží
 Chyba: poďbřeží
+pobřeží: 4306
+pobřežím: 132
 opraveno: pobřeží
 pobřeží
 
@@ -2269,6 +2462,8 @@ kterých
 
 erxistoval
 Chyba: erxistoval
+existoval: 702
+existovaly: 711
 opraveno: existoval
 existoval
 
@@ -2277,8 +2472,10 @@ velká
 
 pravděpodobnost,h
 Chyba: pravděpodobnost,h
+pravděpodobnost: 1740
+pravděpodobností: 1989
 opraveno: pravděpodobnost
-pravděpodobnost
+pravděpodobnost,
 
 že
 že
@@ -2297,6 +2494,8 @@ vody.
 
 Sokučasně
 Chyba: sokučasně
+současně: 7741
+současný: 2299
 opraveno: současně
 Současně
 
@@ -2323,6 +2522,8 @@ bylo
 
 pději
 Chyba: pději
+ději: 218
+později: 29508
 opraveno: ději
 ději
 
@@ -2346,6 +2547,8 @@ Viking,
 
 teré
 Chyba: teré
+terén: 933
+které: 231755
 opraveno: terén
 terén
 
@@ -2378,6 +2581,8 @@ prováděly
 
 porobná
 Chyba: porobná
+podrobná: 149
+porovná: 59
 opraveno: podrobná
 podrobná
 
@@ -2388,7 +2593,7 @@ pozorování.
 pozorování.
 
 ['S', 'rozvojem', 'technických', 'možností', 'lidstva', 'rostla', 'i', 'výzkumná', 'činnost', 'na', 'planetě', 'Mars.', 'Postupem', 'času', 'byly', 'k', 'Marsu', 'vyslány', 'první', 'sondy', '(např.', 'úspěšná', 'sonda', 'Mariner', '4', 'z', 'programu', 'Mariner),', 'které', 'pořídily', 'nejprve', 'hrubé', 'a', 'později', 'detailní', 'snímky', 'povrchu,', 'čímž', 'začala', 'další', 'fáze', 'v', 'hledání', 'vody', 'na', 'povrchu', 'pomocí', 'fotografiín', 'První', 'snímky', 'ukázaly,', 'že', 'se', 'na', 'povrchu', 'tekutá', 'voda', 'v', 'solčasnsti', 'nenacháí,', 'ale', 'současně', 'se', 'objevila', 'celá', 'řada', 'důkazů,', 'že', 'v', 'minulosti', 'byla', 'sitóac', 'jiná.', 'Fotografie', 'ukazlvaly', 'říční', 'sítě,', 'koryta,', 'oblasti', 'připůmínající', 'poďbřeží', 'a', 'další', 'útvary,', 'u', 'kterých', 'erxistoval', 'velká', 'pravděpodobnost,h', 'že', 'vznikly', 'vlivem', 'tekoucí', 'vody.', 'Sokučasně', 'došlo', 'k', 'objevení', 'sezónního', 'počasí,', 'které', 'bylo', 'pději', 'podrobně', 'pozorováno', 'v', 'rámci', 'sond', 'Viking,', 'teré', 'přistály', 'na', 'povrchu', 'Marsu', 'a', 'po', 'několik', 'let', 'prováděly', 'porobná', 'meteorologická', 'pozorování.']
-S rozvojem technických možností lidstva rostla i výzkumná činnost na planetě Mars. Postupem času byly k Marsu vyslány první sondy (např. úspěšná sonda Mariner 4 z programu Mariner), které pořídily nejprve hrubé a později detailní snímky povrchu, čímž začala další fáze v hledání vody na povrchu pomocí fotografií První snímky ukázaly, že se na povrchu tekutá voda v současnosti nenachází, ale současně se objevila celá řada důkazů, že v minulosti byla situací jiná. Fotografie ukazovaly říční sítě, koryta, oblasti připomínající pobřeží a další útvary, u kterých existoval velká pravděpodobnost že vznikly vlivem tekoucí vody. Současně došlo k objevení sezónního počasí, které bylo ději podrobně pozorováno v rámci sond Viking, terén přistály na povrchu Marsu a po několik let prováděly podrobná meteorologická pozorování.
+S rozvojem technických možností lidstva rostla i výzkumná činnost na planetě Mars. Postupem času byly k Marsu vyslány první sondy (např. úspěšná sonda Mariner 4 z programu Mariner), které pořídily nejprve hrubé a později detailní snímky povrchu, čímž začala další fáze v hledání vody na povrchu pomocí fotografií První snímky ukázaly, že se na povrchu tekutá voda v současnosti nenachází, ale současně se objevila celá řada důkazů, že v minulosti byla situací jiná. Fotografie ukazovaly říční sítě, koryta, oblasti připomínající pobřeží a další útvary, u kterých existoval velká pravděpodobnost, že vznikly vlivem tekoucí vody. Současně došlo k objevení sezónního počasí, které bylo ději podrobně pozorováno v rámci sond Viking, terén přistály na povrchu Marsu a po několik let prováděly podrobná meteorologická pozorování.
 []
 
 Mimo
@@ -2414,6 +2619,8 @@ se
 
 využéívají
 Chyba: využéívají
+využívají: 2834
+vyžívají: 31
 opraveno: využívají
 využívají
 
@@ -2452,6 +2659,8 @@ v
 
 mginulosti
 Chyba: mginulosti
+minulosti: 10167
+minulost: 2420
 opraveno: minulosti
 minulosti
 
@@ -2466,6 +2675,8 @@ t
 
 soíčasnosti,
 Chyba: soíčasnosti
+současnosti: 6586
+současnost: 507
 opraveno: současnosti
 současnosti,
 
@@ -2519,6 +2730,8 @@ Mars
 
 Globol
 Chyba: globol
+global: 357
+lobo: 21
 opraveno: global
 Global
 
@@ -2530,6 +2743,8 @@ Mars
 
 Expreós
 Chyba: expreós
+expres: 130
+expresí: 18
 opraveno: expres
 Expres
 
@@ -2550,6 +2765,8 @@ Mars
 
 Odssey,
 Chyba: odssey
+odyssey: 31
+odessy: 20
 opraveno: odyssey
 Odyssey,
 
@@ -2591,6 +2808,7 @@ neutronovým
 
 spektrometfem,
 Chyba: spektrometfem
+spektrometrem not in voc_words
 opraveno: spektrometrem
 spektrometrem,
 
@@ -2689,6 +2907,8 @@ velká
 
 kjncentrace
 Chyba: kjncentrace
+koncentrace: 1969
+koncentracemi: 28
 opraveno: koncentrace
 koncentrace
 
@@ -2751,11 +2971,15 @@ schopnost
 
 poniknout
 Chyba: poniknout
+proniknout: 1158
+podniknout: 627
 opraveno: proniknout
 proniknout
 
 řádvě
 Chyba: řádvě
+řádově: 762
+řádně: 1836
 opraveno: řádově
 řádově
 
@@ -2764,6 +2988,8 @@ jen
 
 několpik
 Chyba: několpik
+několik: 43038
+několika: 25060
 opraveno: několik
 několik
 
@@ -2775,6 +3001,8 @@ centimetrů
 
 péod
 Chyba: péod
+pod: 73838
+zpod: 1364
 opraveno: pod
 pod
 
@@ -2810,16 +3038,22 @@ v
 
 ráci
 Chyba: ráci
+rámci: 19554
+rájci: 32
 opraveno: rámci
 rámci
 
 cylé
 Chyba: cylé
+celé: 30032
+úchylné: 41
 opraveno: celé
 celé
 
 članety.
 Chyba: članety
+planety: 2265
+anety: 39
 opraveno: planety
 planety.
 
@@ -2829,6 +3063,8 @@ Mimo přímého pozorování povrchových projevů vody se využívají i dalš�
 
 Daším
 Chyba: daším
+dalším: 9148
+dražším: 73
 opraveno: dalším
 Dalším
 
@@ -2873,11 +3109,15 @@ sondy
 
 operujícg
 Chyba: operujícg
+operující: 61
+operují: 136
 opraveno: operující
 operující
 
 pfímo
 Chyba: pfímo
+přímo: 28866
+písmo: 741
 opraveno: přímo
 přímo
 
@@ -2889,6 +3129,8 @@ povrchu
 
 panety,
 Chyba: panety
+planety: 2265
+panty: 146
 opraveno: planety
 planety,
 
@@ -2933,6 +3175,8 @@ vzniklé
 
 působeoím
 Chyba: působeoím
+působením: 1143
+působím: 128
 opraveno: působením
 působením
 
@@ -2953,11 +3197,15 @@ povrchu
 
 barsu
 Chyba: barsu
+basu: 164
+baru: 2957
 opraveno: basu
 basu
 
 úpěšně
 Chyba: úpěšně
+úspěšně: 3664
+útěšně: 18
 opraveno: úspěšně
 úspěšně
 
@@ -3002,16 +3250,22 @@ Mars
 
 Pathfider,
 Chyba: pathfider
+pathfinder: 19
+panther: 29
 opraveno: pathfinder
 Pathfinder,
 
 kttré
 Chyba: kttré
+které: 231755
+kté: 25
 opraveno: které
 které
 
 zkozumal
 Chyba: zkozumal
+zkoumal: 762
+zkoumaly: 71
 opraveno: zkoumal
 zkoumal
 
@@ -3025,7 +3279,11 @@ Vallis.
 Vallis.
 
 Vz
-Vz
+Chyba: vz
+zvz: 10
+v–z: 31
+opraveno: zvz
+Zvz
 
 současnosti
 současnosti
@@ -3071,6 +3329,8 @@ a
 
 pportunity
 Chyba: pportunity
+opportunity: 33
+oportunisty: 11
 opraveno: opportunity
 opportunity
 
@@ -3121,6 +3381,8 @@ v
 
 seveení
 Chyba: seveení
+svezení: 137
+svedení: 46
 opraveno: svezení
 svezení
 
@@ -3132,6 +3394,8 @@ oblasti
 
 ralší
 Chyba: ralší
+raší: 72
+zralí: 71
 opraveno: raší
 raší
 
@@ -3161,6 +3425,8 @@ zkoumat
 
 složevní
 Chyba: složevní
+složení: 3644
+složením: 461
 opraveno: složení
 složení
 
@@ -3181,6 +3447,8 @@ historii
 
 ody
 Chyba: ody
+vody: 23666
+sody: 134
 opraveno: vody
 vody
 
@@ -3201,6 +3469,8 @@ planetě.
 
 onda
 Chyba: onda
+tonda: 209
+sonda: 386
 opraveno: tonda
 tonda
 
@@ -3218,6 +3488,8 @@ ve
 
 forě
 Chyba: forě
+formě: 4924
+for: 1163
 opraveno: formě
 formě
 
@@ -3232,6 +3504,8 @@ našla
 
 několk
 Chyba: několk
+několik: 43038
+několika: 25060
 opraveno: několik
 několik
 
@@ -3243,6 +3517,8 @@ pod
 
 poérchem
 Chyba: poérchem
+povrchem: 1606
+porche: 12
 opraveno: povrchem
 povrchem
 
@@ -3250,7 +3526,7 @@ Marsu.
 Marsu.
 
 ['Daším', 'prostředkem,', 'jak', 'se', 'voda', 'na', 'Marsu', 'hledá,', 'jsou', 'pojízdná', 'vozítka', 'či', 'nepohyblivé', 'sondy', 'operujícg', 'pfímo', 'na', 'povrchu', 'panety,', 'které', 'mohou', 'provádět', 'přímou', 'chemickou', 'analýzu', 'povrchových', 'hornin', 'a', 'tak', 'detekovat', 'minerály', 'vzniklé', 'působeoím', 'vody.', 'V', 'minulosti', 'na', 'povrchu', 'barsu', 'úpěšně', 'přistály', 'nepohyblivé', 'sondy', 'Viking,', 'dále', 'pak', 'pojízdné', 'vozítko', 'Sojourner', 'v', 'rámci', 'mise', 'Mars', 'Pathfider,', 'kttré', 'zkozumal', 'oblast', 'Ares', 'Vallis.', 'Vz', 'současnosti', 'se', 'na', 'povrchu', 'nacházejí', 'dvě', 'funkční', 'vozítka', 'Spirit', '(místo', 'přistání', 'kráter', 'Gusev)', 'a', 'pportunity', '(místo', 'přistání', 'pláň', 'Meridiani)', 'v', 'rámci', 'mise', 'Mars', 'Exploration', 'Rover.', 'V', 'race', '208', 'přistála', 'v', 'seveení', 'polární', 'oblasti', 'ralší', 'americká', 'sonda', 'Phoenix,', 'která', 'má', 'za', 'úkol', 'zkoumat', 'složevní', 'regolitu,', 'obsah', 'ledu', 'a', 'historii', 'ody', 'na', 'planetě.', '31.', 'července', '2008', 'onda', 'potvrdila', 'přítomnost', 'vody,', 've', 'forě', 'ledu,', 'který', 'našla', 'několk', 'centimetrů', 'pod', 'poérchem', 'Marsu.']
-Dalším prostředkem, jak se voda na Marsu hledá, jsou pojízdná vozítka či nepohyblivé sondy operující přímo na povrchu planety, které mohou provádět přímou chemickou analýzu povrchových hornin a tak detekovat minerály vzniklé působením vody. V minulosti na povrchu basu úspěšně přistály nepohyblivé sondy Viking, dále pak pojízdné vozítko Sojourner v rámci mise Mars Pathfinder, které zkoumal oblast Ares Vallis. Vz současnosti se na povrchu nacházejí dvě funkční vozítka Spirit (místo přistání kráter Gusev) a opportunity (místo přistání pláň Meridiani) v rámci mise Mars Exploration Rover. V race 208 přistála v svezení polární oblasti raší americká sonda Phoenix, která má za úkol zkoumat složení regolitu, obsah ledu a historii vody na planetě. 31. července 2008 tonda potvrdila přítomnost vody, ve formě ledu, který našla několik centimetrů pod povrchem Marsu.
+Dalším prostředkem, jak se voda na Marsu hledá, jsou pojízdná vozítka či nepohyblivé sondy operující přímo na povrchu planety, které mohou provádět přímou chemickou analýzu povrchových hornin a tak detekovat minerály vzniklé působením vody. V minulosti na povrchu basu úspěšně přistály nepohyblivé sondy Viking, dále pak pojízdné vozítko Sojourner v rámci mise Mars Pathfinder, které zkoumal oblast Ares Vallis. Zvz současnosti se na povrchu nacházejí dvě funkční vozítka Spirit (místo přistání kráter Gusev) a opportunity (místo přistání pláň Meridiani) v rámci mise Mars Exploration Rover. V race 208 přistála v svezení polární oblasti raší americká sonda Phoenix, která má za úkol zkoumat složení regolitu, obsah ledu a historii vody na planetě. 31. července 2008 tonda potvrdila přítomnost vody, ve formě ledu, který našla několik centimetrů pod povrchem Marsu.
 Minulost
 Minulost
 
@@ -3295,6 +3571,8 @@ V
 
 dnehní
 Chyba: dnehní
+nehoní: 22
+dnešní: 7824
 opraveno: nehoní
 nehoní
 
@@ -3306,6 +3584,8 @@ nepanuje
 
 jasřá
 Chyba: jasřá
+jasná: 1567
+jas: 609
 opraveno: jasná
 jasná
 
@@ -3353,8 +3633,10 @@ zastává
 
 tzrii,
 Chyba: tzrii
-opraveno: tri
-tri,
+torrii: 17
+tercii: 34
+opraveno: torrii
+torrii,
 
 že
 že
@@ -3412,6 +3694,8 @@ se
 
 objevovčla
 Chyba: objevovčla
+objevovala: 297
+objevovat: 1397
 opraveno: objevovala
 objevovala
 
@@ -3447,6 +3731,8 @@ byl
 
 hozpuštěn
 Chyba: hozpuštěn
+rozpuštěn: 45
+opuštěn: 113
 opraveno: rozpuštěn
 rozpuštěn
 
@@ -3461,6 +3747,8 @@ sopečnou
 
 čiností.
 Chyba: čiností
+činností: 3581
+činnostní: 14
 opraveno: činností
 činností.
 
@@ -3469,6 +3757,8 @@ Druhá
 
 čát
 Chyba: čát
+část: 24779
+čt: 1453
 opraveno: část
 část
 
@@ -3501,6 +3791,8 @@ s
 
 hčustší
 Chyba: hčustší
+hustší: 247
+hustším: 16
 opraveno: hustší
 hustší
 
@@ -3530,6 +3822,8 @@ po
 
 dlší
 Chyba: dlší
+delší: 6669
+další: 75741
 opraveno: delší
 delší
 
@@ -3540,7 +3834,7 @@ období.
 období.
 
 ['V', 'dnehní', 'době', 'nepanuje', 'jasřá', 'shoda', 'o', 'tom,', 'jak', 'Mars', 'v', 'dávné', 'minulosti', 'vypadal.', 'Jedna', 'část', 'vědecké', 'obce', 'zastává', 'tzrii,', 'že', 'Mars', 'vypadal', 'podobně', 'jako', 'dnes', '–', 'studený', 'a', 's', 'řídkou', 'atmosférou.', 'Tekutá', 'voda', 'na', 'jeho', 'povrchu', 'se', 'objevovčla', 'jen', 'dočasně,', 'když', 'se', 'uvolnila', 'z', 'napjaté', 'kůry', 'či', 'byl', 'hozpuštěn', 'půdní', 'led', 'sopečnou', 'čiností.', 'Druhá', 'čát', 'zastává', 'teorii,', 'že', 'Mars', 'byl', 'v', 'minulosti', 'teplejší', 's', 'hčustší', 'atmosférou,', 'která', 'umožňovala', 'výskyt', 'oceánu', 'tekuté', 'vody', 'po', 'dlší', 'časové', 'období.']
-V nehoní době nepanuje jasná shoda o tom, jak Mars v dávné minulosti vypadal. Jedna část vědecké obce zastává tri, že Mars vypadal podobně jako dnes – studený a s řídkou atmosférou. Tekutá voda na jeho povrchu se objevovala jen dočasně, když se uvolnila z napjaté kůry či byl rozpuštěn půdní led sopečnou činností. Druhá část zastává teorii, že Mars byl v minulosti teplejší s hustší atmosférou, která umožňovala výskyt oceánu tekuté vody po delší časové období.
+V nehoní době nepanuje jasná shoda o tom, jak Mars v dávné minulosti vypadal. Jedna část vědecké obce zastává torrii, že Mars vypadal podobně jako dnes – studený a s řídkou atmosférou. Tekutá voda na jeho povrchu se objevovala jen dočasně, když se uvolnila z napjaté kůry či byl rozpuštěn půdní led sopečnou činností. Druhá část zastává teorii, že Mars byl v minulosti teplejší s hustší atmosférou, která umožňovala výskyt oceánu tekuté vody po delší časové období.
 []
 
 Dle
@@ -3557,6 +3851,8 @@ se
 
 přepoklbá,
 Chyba: přepoklbá
+přepokládá: 11
+přepokládat: 18
 opraveno: přepokládá
 přepokládá,
 
@@ -3583,6 +3879,8 @@ zaplaven
 
 olceánem,
 Chyba: olceánem
+oceánem: 327
+volánem: 11
 opraveno: oceánem
 oceánem,
 
@@ -3657,6 +3955,8 @@ v
 
 obdobíi
 Chyba: obdobíi
+obdobími: 108
+období: 20401
 opraveno: obdobími
 obdobími
 
@@ -3674,6 +3974,8 @@ planety
 
 běheťm
 Chyba: běheťm
+během: 28013
+oběhem: 56
 opraveno: během
 během
 
@@ -3697,6 +3999,8 @@ Povrchová
 
 vroda
 Chyba: vroda
+voda: 9764
+roda: 21
 opraveno: voda
 voda
 
@@ -3705,6 +4009,8 @@ se
 
 přemnila
 Chyba: přemnila
+přeměnila: 87
+přeměnil: 100
 opraveno: přeměnila
 přeměnila
 
@@ -3740,6 +4046,8 @@ kosmického
 
 prostčr.
 Chyba: prostčr
+prostor: 14234
+prost: 72
 opraveno: prostor
 prostor.
 
@@ -3764,6 +4072,8 @@ pohřbily
 
 zmrzlpho
 Chyba: zmrzlpho
+zmrzlého: 60
+zmrzlo: 24
 opraveno: zmrzlého
 zmrzlého
 
@@ -3785,6 +4095,8 @@ Následné erozivní procesy pohřbily část zmrzlého ledu pod povrch Marsu
 
 Díy
 Chyba: díy
+díry: 1921
+díly: 2134
 opraveno: díry
 Díry
 
@@ -3805,6 +4117,8 @@ povrchu
 
 Mťarsu
 Chyba: mťarsu
+marsu: 590
+masu: 496
 opraveno: marsu
 Marsu
 
@@ -3852,11 +4166,15 @@ oblastí
 
 reikty
 Chyba: reikty
+relikty: 161
+relikt: 85
 opraveno: relikty
 relikty
 
 peo
 Chyba: peo
+peso: 26
+pero: 929
 opraveno: peso
 peso
 
@@ -3886,11 +4204,15 @@ vulkanické
 
 fktiviáy.
 Chyba: fktiviáy
+efektivity: 498
+aktivity: 5296
 opraveno: efektivity
 efektivity.
 
 Přeldpokldá
 Chyba: přeldpokldá
+předpokládá: 2226
+předpokládáš: 12
 opraveno: předpokládá
 Předpokládá
 
@@ -3905,11 +4227,15 @@ jeden
 
 poddobný
 Chyba: poddobný
+podobný: 3777
+podrobný: 389
 opraveno: podobný
 podobný
 
 onrovský
 Chyba: onrovský
+orlovský: 15
+obrovský: 3610
 opraveno: orlovský
 orlovský
 
@@ -3930,6 +4256,7 @@ Valles
 
 Mďarineris,
 Chyba: mďarineris
+marineris not in voc_words
 opraveno: marineris
 Marineris,
 
@@ -3944,6 +4271,8 @@ v
 
 dávé
 Chyba: dávé
+dávné: 903
+dvé: 13
 opraveno: dávné
 dávné
 
@@ -4015,6 +4344,8 @@ oblasti
 
 Elyium
 Chyba: elyium
+elysium: 13
+helium: 205
 opraveno: elysium
 Elysium
 
@@ -4029,11 +4360,15 @@ vytvořila
 
 lenové
 Chyba: lenové
+členové: 3997
+lednové: 146
 opraveno: členové
 členové
 
 mosře
 Chyba: mosře
+moře: 8516
+mose: 11
 opraveno: moře
 moře
 
@@ -4045,6 +4380,8 @@ do
 
 dneoních
 Chyba: dneoních
+dnešních: 1593
+nočních: 1034
 opraveno: dnešních
 dnešních
 
@@ -4069,6 +4406,8 @@ jaká
 
 zmďna
 Chyba: zmďna
+změna: 4357
+záměna: 246
 opraveno: změna
 změna
 
@@ -4083,6 +4422,8 @@ se
 
 klimatiké
 Chyba: klimatiké
+klimatické: 569
+klimatickém: 51
 opraveno: klimatické
 klimatické
 
@@ -4103,11 +4444,17 @@ radikálně
 
 zmůnily
 Chyba: zmůnily
+změnily: 993
+zmínily: 15
 opraveno: změnily
 změnily
 
 tk,
-tk,
+Chyba: tk
+čtk: 1575
+tžk: 32
+opraveno: čtk
+čtk,
 
 že
 že
@@ -4126,18 +4473,24 @@ jeho
 
 porchu
 Chyba: porchu
+povrchu: 6296
+poruchu: 511
 opraveno: povrchu
 povrchu
 
 přestaúla
 Chyba: přestaúla
+přestala: 2326
+přestal: 3018
 opraveno: přestala
 přestala
 
 existovat.q
 Chyba: existovat.q
+existovat: 2247
+neexistovat: 15
 opraveno: existovat
-existovat
+existovat.
 
 Dle
 Dle
@@ -4201,6 +4554,8 @@ předpokládají,
 
 žg
 Chyba: žg
+ž: 232
+g: 8821
 opraveno: ž
 ž
 
@@ -4212,6 +4567,8 @@ byl
 
 xnohem
 Chyba: xnohem
+mnohem: 21370
+rohem: 722
 opraveno: mnohem
 mnohem
 
@@ -4241,6 +4598,8 @@ sopečné
 
 aktiyvity,
 Chyba: aktiyvity
+aktivity: 5296
+aktivisty: 174
 opraveno: aktivity
 aktivity,
 
@@ -4282,6 +4641,8 @@ kosmického
 
 prostorup
 Chyba: prostorup
+prostoru: 13155
+prostoupí: 34
 opraveno: prostoru
 prostoru
 
@@ -4305,6 +4666,8 @@ V
 
 současnvsti
 Chyba: současnvsti
+současnosti: 6586
+současnost: 507
 opraveno: současnosti
 současnosti
 
@@ -4346,6 +4709,8 @@ stalo.
 
 becnější
 Chyba: becnější
+obecnější: 359
+obecnějším: 65
 opraveno: obecnější
 obecnější
 
@@ -4372,6 +4737,8 @@ na
 
 ďovrchu
 Chyba: ďovrchu
+povrchu: 6296
+vrchu: 1061
 opraveno: povrchu
 povrchu
 
@@ -4398,8 +4765,9 @@ až
 
 3,5
 Chyba: 3,5
+35 not in voc_words
 opraveno: 35
-,5
+,5,
 
 miliardami
 miliardami
@@ -4408,7 +4776,7 @@ let.
 let.
 
 ['Otevřenou', 'otázkou', 'zůstává,', 'jaká', 'zmďna', 'způsobila,', 'že', 'se', 'klimatiké', 'podmínky', 'na', 'povrchu', 'Marsu', 'radikálně', 'zmůnily', 'tk,', 'že', 'tekoucí', 'voda', 'na', 'jeho', 'porchu', 'přestaúla', 'existovat.q', 'Dle', 'některých', 'teorií', 'globální', 'změnu', 'způsobil', 'impakt', 'obrovského', 'tělesa,', 'které', 'změnilo', 'rotační', 'dobu', 'či', 'orientaci', 'rotační', 'osy.', 'Další', 'teorie', 'předpokládají,', 'žg', 'proces', 'byl', 'xnohem', 'pozvolnější', 'a', 'že', 'docházelo', 'k', 'postupnému', 'ustávání', 'sopečné', 'aktiyvity,', 'což', 'vedlo', 'k', 'ochlazování', 'planety.', 'Část', 'atmosféry', 'současně', 'unikala', 'do', 'okolního', 'kosmického', 'prostorup', 'což', 'celý', 'proces', 'zamrznutí', 'urychlilo.', 'V', 'současnvsti', 'se', 'ned', 'jasně', 'říci,', 'co', 'se', 'přesně', 'v', 'historii', 'na', 'Marsu', 'stalo.', 'becnější', 'shoda', 'panuje', 'v', 'tom,', 'že', 'se', 'na', 'ďovrchu', 'nacházela', 'tekoucí', 'voda', 'přibližně', 'před', '4', 'až', '3,5', 'miliardami', 'let.']
-Otevřenou otázkou zůstává, jaká změna způsobila, že se klimatické podmínky na povrchu Marsu radikálně změnily tk, že tekoucí voda na jeho povrchu přestala existovat Dle některých teorií globální změnu způsobil impakt obrovského tělesa, které změnilo rotační dobu či orientaci rotační osy. Další teorie předpokládají, ž proces byl mnohem pozvolnější a že docházelo k postupnému ustávání sopečné aktivity, což vedlo k ochlazování planety. Část atmosféry současně unikala do okolního kosmického prostoru což celý proces zamrznutí urychlilo. V současnosti se ned jasně říci, co se přesně v historii na Marsu stalo. obecnější shoda panuje v tom, že se na povrchu nacházela tekoucí voda přibližně před 4 až ,5 miliardami let.
+Otevřenou otázkou zůstává, jaká změna způsobila, že se klimatické podmínky na povrchu Marsu radikálně změnily čtk, že tekoucí voda na jeho povrchu přestala existovat. Dle některých teorií globální změnu způsobil impakt obrovského tělesa, které změnilo rotační dobu či orientaci rotační osy. Další teorie předpokládají, ž proces byl mnohem pozvolnější a že docházelo k postupnému ustávání sopečné aktivity, což vedlo k ochlazování planety. Část atmosféry současně unikala do okolního kosmického prostoru což celý proces zamrznutí urychlilo. V současnosti se ned jasně říci, co se přesně v historii na Marsu stalo. obecnější shoda panuje v tom, že se na povrchu nacházela tekoucí voda přibližně před 4 až ,5, miliardami let.
 Řeky
 Řeky
 
@@ -4416,6 +4784,7 @@ Otevřenou otázkou zůstává, jaká změna způsobila, že se klimatické podm
 Řeky
 Ma'aéim
 Chyba: ma'aéim
+ma'adim not in voc_words
 opraveno: ma'adim
 Ma'Adim
 
@@ -4442,6 +4811,8 @@ v
 
 obliasti
 Chyba: obliasti
+oblasti: 25304
+oblastmi: 355
 opraveno: oblasti
 oblasti
 
@@ -4456,6 +4827,8 @@ Gusev
 
 kráer,
 Chyba: kráer
+kráter: 213
+kráner: 86
 opraveno: kráter
 kráter,
 
@@ -4464,6 +4837,8 @@ který
 
 dosahujée
 Chyba: dosahujée
+dosahuje: 2509
+nedosahuje: 256
 opraveno: dosahuje
 dosahuje
 
@@ -4472,6 +4847,7 @@ průměru
 
 17h0
 Chyba: 17h0
+170 not in voc_words
 opraveno: 170
 170
 
@@ -4492,6 +4868,8 @@ Snad
 
 ejsnadněji
 Chyba: ejsnadněji
+nejsnadněji: 91
+snadněji: 826
 opraveno: nejsnadněji
 nejsnadněji
 
@@ -4506,6 +4884,8 @@ vzniklé
 
 tekoňcí
 Chyba: tekoňcí
+tekoucí: 634
+tekoucím: 17
 opraveno: tekoucí
 tekoucí
 
@@ -4523,6 +4903,8 @@ v
 
 minulsti
 Chyba: minulsti
+minulosti: 10167
+minulost: 2420
 opraveno: minulosti
 minulosti
 
@@ -4534,6 +4916,8 @@ vyschlé
 
 řníční
 Chyba: řníční
+říční: 643
+říčním: 126
 opraveno: říční
 říční
 
@@ -4563,6 +4947,8 @@ spádová
 
 oďlast,
 Chyba: oďlast
+oblast: 6122
+last: 126
 opraveno: oblast
 oblast,
 
@@ -4571,6 +4957,8 @@ ze
 
 keré
 Chyba: keré
+které: 231755
+kerné: 12
 opraveno: které
 které
 
@@ -4597,6 +4985,8 @@ do
 
 říek
 Chyba: říek
+říček: 50
+řízek: 217
 opraveno: říček
 říček
 
@@ -4608,6 +4998,8 @@ a
 
 řteré
 Chyba: řteré
+terén: 933
+které: 231755
 opraveno: terén
 terén
 
@@ -4634,6 +5026,8 @@ do
 
 severnígh
 Chyba: severnígh
+severního: 529
+severních: 596
 opraveno: severního
 severního
 
@@ -4645,6 +5039,8 @@ Vzniklá
 
 korytú
 Chyba: korytú
+koryt: 105
+korytě: 97
 opraveno: koryt
 koryt
 
@@ -4653,6 +5049,8 @@ mají
 
 shodn
 Chyba: shodn
+shodně: 615
+shodný: 325
 opraveno: shodně
 shodně
 
@@ -4700,6 +5098,8 @@ vzniklé
 
 ťedimenty
 Chyba: ťedimenty
+sedimenty: 440
+pedimenty: 87
 opraveno: sedimenty
 sedimenty
 
@@ -4741,6 +5141,8 @@ Marsu
 
 muwelo
 Chyba: muwelo
+muselo: 3786
+ujelo: 70
 opraveno: muselo
 muselo
 
@@ -4788,6 +5190,8 @@ napájena
 
 tekoucž
 Chyba: tekoucž
+tekoucí: 634
+tekoucím: 17
 opraveno: tekoucí
 tekoucí
 
@@ -4820,6 +5224,8 @@ Pro
 
 jejitch
 Chyba: jejitch
+jejich: 109717
+jejichž: 12502
 opraveno: jejich
 jejich
 
@@ -4849,6 +5255,8 @@ proměnlivým
 
 pqčasm
 Chyba: pqčasm
+počasím: 284
+časům: 78
 opraveno: počasím
 počasím
 
@@ -4884,6 +5292,8 @@ t
 
 teplejšíě
 Chyba: teplejšíě
+teplejší: 427
+teplejším: 61
 opraveno: teplejší
 teplejší
 
@@ -4910,6 +5320,8 @@ a
 
 řečisště
 Chyba: řečisště
+řečiště: 235
+řečištěm: 52
 opraveno: řečiště
 řečiště
 
@@ -4924,6 +5336,8 @@ pod
 
 leem
 Chyba: leem
+letem: 212
+lesem: 1100
 opraveno: letem
 letem
 
@@ -4945,6 +5359,8 @@ Snad nejsnadněji rozpoznatelné útvary vzniklé tekoucí vodou na povrchu v mi
 
 Předpoklád
 Chyba: předpoklád
+předpokládá: 2226
+předpokládáš: 12
 opraveno: předpokládá
 Předpokládá
 
@@ -4962,6 +5378,8 @@ z
 
 povrkhu
 Chyba: povrkhu
+povrchu: 6296
+podvrhu: 26
 opraveno: povrchu
 povrchu
 
@@ -4973,6 +5391,8 @@ zmizely
 
 přibltžnzě
 Chyba: přibltžnzě
+přibližně: 7729
+přibližný: 106
 opraveno: přibližně
 přibližně
 
@@ -4987,11 +5407,14 @@ před
 
 3u5
 Chyba: 3u5
+35 not in voc_words
 opraveno: 35
 35
 
 miliarúami
 Chyba: miliarúami
+miliardami: 331
+miliarda: 240
 opraveno: miliardami
 miliardami
 
@@ -5030,6 +5453,8 @@ potenciální
 
 řěíční
 Chyba: řěíční
+říční: 643
+říčním: 126
 opraveno: říční
 říční
 
@@ -5044,11 +5469,15 @@ na
 
 svémh
 Chyba: svémh
+svém: 23165
+svému: 10576
 opraveno: svém
 svém
 
 dě
 Chyba: dě
+ódě: 13
+idě: 23
 opraveno: ódě
 ódě
 
@@ -5063,6 +5492,8 @@ koryto
 
 ktetým
 Chyba: ktetým
+kterým: 16215
+tekutým: 82
 opraveno: kterým
 kterým
 
@@ -5119,6 +5550,8 @@ a
 
 násleným
 Chyba: násleným
+následným: 431
+následnými: 67
 opraveno: následným
 následným
 
@@ -5139,6 +5572,8 @@ vodního
 
 tunýelu.
 Chyba: tunýelu
+tunelu: 1922
+tunel: 924
 opraveno: tunelu
 tunelu.
 
@@ -5157,6 +5592,8 @@ jsou
 
 obrovhská
 Chyba: obrovhská
+obrovská: 2171
+obrovský: 3610
 opraveno: obrovská
 obrovská
 
@@ -5183,6 +5620,8 @@ mohou
 
 dosťhovat
 Chyba: dosťhovat
+dosahovat: 514
+dochovat: 13
 opraveno: dosahovat
 dosahovat
 
@@ -5203,6 +5642,8 @@ na
 
 šířvku
 Chyba: šířvku
+šířku: 743
+šířkou: 221
 opraveno: šířku
 šířku
 
@@ -5226,11 +5667,15 @@ na
 
 dcélku
 Chyba: dcélku
+délku: 1720
+délkou: 768
 opraveno: délku
 délku
 
 vyskytujííí
 Chyba: vyskytujííí
+vyskytující: 322
+vyskytují: 2373
 opraveno: vyskytující
 vyskytující
 
@@ -5245,6 +5690,8 @@ na
 
 sevčrní
 Chyba: sevčrní
+severní: 3727
+severním: 840
 opraveno: severní
 severní
 
@@ -5292,6 +5739,8 @@ n
 
 povrěchu
 Chyba: povrěchu
+povrchu: 6296
+povrch: 4839
 opraveno: povrchu
 povrchu
 
@@ -5303,6 +5752,8 @@ došlo.
 
 ýznikají
 Chyba: ýznikají
+zanikají: 187
+vznikají: 3063
 opraveno: zanikají
 zanikají
 
@@ -5326,6 +5777,8 @@ kůry
 
 vlivm
 Chyba: vlivm
+vlivům: 494
+vlivem: 3917
 opraveno: vlivům
 vlivům
 
@@ -5364,6 +5817,8 @@ a
 
 násqedným
 Chyba: násqedným
+následným: 431
+následnými: 67
 opraveno: následným
 následným
 
@@ -5375,11 +5830,15 @@ této
 
 aody
 Chyba: aody
+anody: 41
+ady: 46
 opraveno: anody
 anody
 
 dro
 Chyba: dro
+drop: 29
+dron: 34
 opraveno: drop
 drop
 
@@ -5409,6 +5868,8 @@ těmto
 
 udeálostem
 Chyba: udeálostem
+událostem: 429
+událostmi: 499
 opraveno: událostem
 událostem
 
@@ -5429,16 +5890,18 @@ mezi
 
 2,5
 Chyba: 2,5
+25 not in voc_words
 opraveno: 25
-,5
+,5,
 
 až
 až
 
 1,5
 Chyba: 1,5
+15 not in voc_words
 opraveno: 15
-,5
+,5,
 
 miliardami
 miliardami
@@ -5478,6 +5941,8 @@ být
 
 týak
 Chyba: týak
+tak: 323183
+týna: 153
 opraveno: tak
 tak
 
@@ -5489,6 +5954,8 @@ obrovské,
 
 moo
 Chyba: moo
+moto: 67
+moro: 26
 opraveno: moto
 moto
 
@@ -5502,7 +5969,7 @@ oceánu.
 oceánu.
 
 ['Zvláštní', 'skupinou', 'jsou', 'obrovhská', 'řečiště', 'vymykající', 'se', 'pozemským', 'srovnáním,', 'která', 'mohou', 'dosťhovat', '100', 'až', '200', 'km', 'na', 'šířvku', 'a', '1000', 'až', '2000', 'km', 'na', 'dcélku', 'vyskytujííí', 'se', 'převážně', 'na', 'sevčrní', 'polokouli.', 'Předpokládá', 'se,', 'že', 'tyto', 'útvary', 'jsou', 'výsledkem', 'obrovských', 'záplav,', 'ke', 'který', 'několikrát', 'n', 'povrěchu', 'Marsu', 'došlo.', 'ýznikají', 'nejspíše', 'jako', 'projev', 'porušení', 'marsovské', 'kůry', 'vlivm', 'impaktů', 'neo', 'zemětřesení,', 've', 'které', 'se', 'nachází', 'obrovské', 'vodní', 'rezervoáry', 'a', 'násqedným', 'únikem', 'této', 'aody', 'dro', 'okolí.', 'Dle', 'pozorování', 'e', 'zdá,', 'že', 'k', 'těmto', 'udeálostem', 'došlo', 'vícekrát', 'v', 'období', 'mezi', '2,5', 'až', '1,5', 'miliardami', 'let.', 'Přesný', 'mechanismus', 'není', 'doposud', 'znám.', 'Množství', 'vody', 'ale', 'mohlo', 'být', 'týak', 'obrovské,', 'že', 'moo', 'umožnit', 'vzniknout', 'oceánu.']
-Zvláštní skupinou jsou obrovská řečiště vymykající se pozemským srovnáním, která mohou dosahovat 100 až 200 km na šířku a 1000 až 2000 km na délku vyskytující se převážně na severní polokouli. Předpokládá se, že tyto útvary jsou výsledkem obrovských záplav, ke který několikrát n povrchu Marsu došlo. zanikají nejspíše jako projev porušení marsovské kůry vlivům impaktů neo zemětřesení, ve které se nachází obrovské vodní rezervoáry a následným únikem této anody drop okolí. Dle pozorování e zdá, že k těmto událostem došlo vícekrát v období mezi ,5 až ,5 miliardami let. Přesný mechanismus není doposud znám. Množství vody ale mohlo být tak obrovské, že moto umožnit vzniknout oceánu.
+Zvláštní skupinou jsou obrovská řečiště vymykající se pozemským srovnáním, která mohou dosahovat 100 až 200 km na šířku a 1000 až 2000 km na délku vyskytující se převážně na severní polokouli. Předpokládá se, že tyto útvary jsou výsledkem obrovských záplav, ke který několikrát n povrchu Marsu došlo. zanikají nejspíše jako projev porušení marsovské kůry vlivům impaktů neo zemětřesení, ve které se nachází obrovské vodní rezervoáry a následným únikem této anody drop okolí. Dle pozorování e zdá, že k těmto událostem došlo vícekrát v období mezi ,5, až ,5, miliardami let. Přesný mechanismus není doposud znám. Množství vody ale mohlo být tak obrovské, že moto umožnit vzniknout oceánu.
 Oceán
 Oceán
 
@@ -5518,6 +5985,8 @@ ze
 
 základzích
 Chyba: základzích
+základních: 5290
+základech: 591
 opraveno: základních
 základních
 
@@ -5529,6 +5998,8 @@ je,
 
 jestl
 Chyba: jestl
+jestli: 38404
+jest: 2308
 opraveno: jestli
 jestli
 
@@ -5540,11 +6011,15 @@ Marsu
 
 skutýčně
 Chyba: skutýčně
+skutečně: 19836
+uskutečněn: 56
 opraveno: skutečně
 skutečně
 
 existoal
 Chyba: existoal
+existoval: 702
+existovaly: 711
 opraveno: existoval
 existoval
 
@@ -5613,6 +6088,8 @@ jeho
 
 eěxistence
 Chyba: eěxistence
+existence: 4366
+neexistence: 156
 opraveno: existence
 existence
 
@@ -5624,6 +6101,8 @@ většinou
 
 áočítají
 Chyba: áočítají
+počítají: 653
+čítají: 42
 opraveno: počítají
 počítají
 
@@ -5638,11 +6117,15 @@ které
 
 zdálicvě
 Chyba: zdálicvě
+zdánlivě: 2573
+záliv: 227
 opraveno: zdánlivě
 zdánlivě
 
 připomínďjí
 Chyba: připomínďjí
+připomínají: 1480
+připomínající: 1540
 opraveno: připomínají
 připomínají
 
@@ -5696,11 +6179,15 @@ hladká,
 
 zdánliově
 Chyba: zdánliově
+zdánlivě: 2573
+zdánlivý: 129
 opraveno: zdánlivě
 zdánlivě
 
 vhlazená
 Chyba: vhlazená
+vyhlazená: 16
+vychlazená: 17
 opraveno: vyhlazená
 vyhlazená
 
@@ -5730,6 +6217,8 @@ tvořila
 
 oceenské
 Chyba: oceenské
+oceánské: 70
+mocenské: 412
 opraveno: oceánské
 oceánské
 
@@ -5760,6 +6249,8 @@ vyskytoval
 
 ceán
 Chyba: ceán
+oceán: 984
+cen: 3755
 opraveno: oceán
 oceán
 
@@ -5810,6 +6301,8 @@ Během
 
 ýzkumu
 Chyba: ýzkumu
+výzkumu: 5792
+výzkum: 4292
 opraveno: výzkumu
 výzkumu
 
@@ -5818,6 +6311,8 @@ se
 
 objevjily
 Chyba: objevjily
+objevily: 2740
+objevil: 7408
 opraveno: objevily
 objevily
 
@@ -5850,6 +6345,8 @@ dvou
 
 oblastecí:
 Chyba: oblastecí
+oblastech: 4645
+oblastí: 4546
 opraveno: oblastech
 oblastech:
 
@@ -5865,6 +6362,7 @@ oceán
 
 kOceanus
 Chyba: koceanus
+oceanus not in voc_words
 opraveno: oceanus
 oCeanus
 
@@ -5876,6 +6374,8 @@ Borealis)
 
 vodbní
 Chyba: vodbní
+vodní: 4999
+úvodní: 1772
 opraveno: vodní
 vodní
 
@@ -5917,6 +6417,8 @@ byl
 
 pedstaven
 Chyba: pedstaven
+představen: 286
+představený: 154
 opraveno: představen
 představen
 
@@ -5931,6 +6433,8 @@ roce
 
 Vanak
 Chyba: vanak
+vaniak: 31
+vana: 354
 opraveno: vaniak
 Vaniak
 
@@ -5939,6 +6443,8 @@ tohoto
 
 oeánu
 Chyba: oeánu
+oceánu: 1577
+ománu: 66
 opraveno: oceánu
 oceánu
 
@@ -5953,6 +6459,8 @@ výsledek
 
 ohromfné
 Chyba: ohromfné
+ohromné: 915
+ohromném: 102
 opraveno: ohromné
 ohromné
 
@@ -5982,6 +6490,8 @@ o
 
 cželkovém
 Chyba: cželkovém
+celkovém: 1035
+celkovému: 365
 opraveno: celkovém
 celkovém
 
@@ -5999,6 +6509,8 @@ až
 
 km3
 Chyba: km3
+km: 6257
+vkm: 15
 opraveno: km
 km
 
@@ -6034,6 +6546,8 @@ celoplanetárním
 
 ěřítku
 Chyba: ěřítku
+měřítku: 1369
+větříku: 45
 opraveno: měřítku
 měřítku
 
@@ -6048,6 +6562,8 @@ vesmírného
 
 tělusa
 Chyba: tělusa
+tělesa: 1872
+tělu: 1442
 opraveno: tělesa
 tělesa
 
@@ -6062,6 +6578,8 @@ nemohl
 
 zapříčinió
 Chyba: zapříčinió
+zapříčinit: 99
+zapříčinil: 90
 opraveno: zapříčinit
 zapříčinit
 
@@ -6070,6 +6588,8 @@ takto
 
 rozsáhl
 Chyba: rozsáhl
+rozsáhlý: 729
+rozsáhlé: 1997
 opraveno: rozsáhlý
 rozsáhlý
 
@@ -6099,11 +6619,15 @@ záplavy).
 
 Vypařovánlí
 Chyba: vypařovánlí
+vypařování: 55
+vypařováním: 11
 opraveno: vypařování
 Vypařování
 
 vdní
 Chyba: vdní
+vědní: 303
+vídní: 125
 opraveno: vědní
 vědní
 
@@ -6121,16 +6645,22 @@ oceánu
 
 obohtatýilo
 Chyba: obohtatýilo
+obohatilo: 39
+obohatil: 200
 opraveno: obohatilo
 obohatilo
 
 skeníkové
 Chyba: skeníkové
+skleníkové: 92
+skleníkovém: 13
 opraveno: skleníkové
 skleníkové
 
 plyy,
 Chyba: plyy
+plyny: 587
+polypy: 32
 opraveno: plyny
 plyny,
 
@@ -6186,6 +6716,8 @@ severních
 
 ížináci
 Chyba: ížináci
+nížinách: 179
+ignáci: 52
 opraveno: nížinách
 nížinách
 
@@ -6203,6 +6735,8 @@ je
 
 přepokládané
 Chyba: přepokládané
+předpokládané: 390
+předpokládaném: 72
 opraveno: předpokládané
 předpokládané
 
@@ -6220,6 +6754,8 @@ které
 
 vyplňovalso
 Chyba: vyplňovalso
+vyplňovalo: 37
+vyplňoval: 95
 opraveno: vyplňovalo
 vyplňovalo
 
@@ -6240,11 +6776,15 @@ které
 
 teoreticýy
 Chyba: teoreticýy
+teoretický: 263
+teoreticky: 1263
 opraveno: teoretický
 teoretický
 
 mřže
 Chyba: mřže
+mříže: 779
+mže: 60
 opraveno: mříže
 mříže
 
@@ -6253,6 +6793,8 @@ být
 
 pouz
 Chyba: pouz
+pouzí: 22
+pouze: 47696
 opraveno: pouzí
 pouzí
 
@@ -6264,6 +6806,8 @@ zlomkovou
 
 většíh
 Chyba: většíh
+většího: 1812
+větších: 2863
 opraveno: většího
 většího
 
@@ -6272,11 +6816,14 @@ oceánu
 
 Oceaus
 Chyba: oceaus
+oceanus not in voc_words
 opraveno: oceanus
 Oceanus
 
 Borelis.
 Chyba: borelis
+borealis: 14
+boris: 619
 opraveno: borealis
 Borealis.
 
@@ -6291,11 +6838,14 @@ oblasti
 
 Uopia
 Chyba: uopia
+utopia: 17
+opia: 79
 opraveno: utopia
 Utopia
 
 Plagitia
 Chyba: plagitia
+planitia not in voc_words
 opraveno: planitia
 Planitia
 
@@ -6310,6 +6860,8 @@ po
 
 přtomnosti
 Chyba: přtomnosti
+přítomnosti: 3463
+přítomnost: 4230
 opraveno: přítomnosti
 přítomnosti
 
@@ -6364,6 +6916,8 @@ polokouli.
 
 Velikos
 Chyba: velikos
+velikost: 4305
+velikostí: 1764
 opraveno: velikost
 Velikost
 
@@ -6396,6 +6950,8 @@ Surveyor)
 
 Průhzkumná
 Chyba: průhzkumná
+průzkumná: 42
+průzkumný: 45
 opraveno: průzkumná
 Průzkumná
 
@@ -6428,6 +6984,8 @@ sírany
 
 vzikající
 Chyba: vzikající
+vznikající: 927
+vznikajícím: 69
 opraveno: vznikající
 vznikající
 
@@ -6436,6 +6994,8 @@ během
 
 vypařovánín
 Chyba: vypařovánín
+vypařování: 55
+vypařováním: 11
 opraveno: vypařování
 vypařování
 
@@ -6453,6 +7013,8 @@ předchozí
 
 výsyt
 Chyba: výsyt
+výskyt: 1784
+výskytů: 107
 opraveno: výskyt
 výskyt
 
@@ -6470,6 +7032,8 @@ pro
 
 věce
 Chyba: věce
+věnce: 343
+vědce: 790
 opraveno: věnce
 věnce
 
@@ -6499,6 +7063,8 @@ Marsu.
 
 Jelizkož
 Chyba: jelizkož
+jelikož: 3540
+elizko: 25
 opraveno: jelikož
 Jelikož
 
@@ -6549,6 +7115,8 @@ Vysoký
 
 osah
 Chyba: osah
+osahá: 11
+obsah: 5893
 opraveno: osahá
 osahá
 
@@ -6620,6 +7188,8 @@ srážení
 
 karnbonátů
 Chyba: karnbonátů
+karbonátů: 28
+karbonát: 16
 opraveno: karbonátů
 karbonátů
 
@@ -6628,6 +7198,8 @@ z
 
 tmosférického
 Chyba: tmosférického
+atmosférického: 81
+atmosférické: 120
 opraveno: atmosférického
 atmosférického
 
@@ -6645,6 +7217,8 @@ je
 
 fobře
 Chyba: fobře
+oboře: 108
+fobie: 87
 opraveno: oboře
 oboře
 
@@ -6668,6 +7242,7 @@ v
 
 noacianu
 Chyba: noacianu
+noachianu not in voc_words
 opraveno: noachianu
 noachianu
 
@@ -6682,6 +7257,8 @@ atmosféry
 
 ůtále
 Chyba: ůtále
+táhle: 39
+stále: 46371
 opraveno: táhle
 táhle
 
@@ -6705,6 +7282,8 @@ podobě
 
 oxiduč
 Chyba: oxiduč
+oxidu: 1137
+oxid: 713
 opraveno: oxidu
 oxidu
 
@@ -6722,6 +7301,8 @@ jeho
 
 kencentraci
 Chyba: kencentraci
+koncentraci: 959
+koncentracemi: 28
 opraveno: koncentraci
 koncentraci
 
@@ -6736,6 +7317,8 @@ současný
 
 setav
 Chyba: setav
+sestav: 249
+stav: 10020
 opraveno: sestav
 sestav
 
@@ -6750,6 +7333,7 @@ tvoří
 
 95,32
 Chyba: 95,32
+9532 not in voc_words
 opraveno: 9532
 9532
 
@@ -6821,6 +7405,8 @@ které
 
 vznkly
 Chyba: vznkly
+vznikly: 2207
+vznikaly: 1004
 opraveno: vznikly
 vznikly
 
@@ -6832,6 +7418,8 @@ rané
 
 hiátorii
 Chyba: hiátorii
+historii: 6675
+historici: 321
 opraveno: historii
 historii
 
@@ -6846,6 +7434,8 @@ silné
 
 známk
 Chyba: známk
+známky: 2010
+známku: 588
 opraveno: známky
 známky
 
@@ -6878,6 +7468,8 @@ Krátery,
 
 kteáé
 Chyba: kteáé
+které: 231755
+která: 136824
 opraveno: které
 které
 
@@ -6898,6 +7490,8 @@ km,
 
 jsoě
 Chyba: jsoě
+sově: 12
+soně: 19
 opraveno: sově
 sově
 
@@ -6930,11 +7524,15 @@ detekují.
 
 Většíl
 Chyba: většíl
+větší: 28679
+zvětší: 289
 opraveno: větší
 Větší
 
 koátery
 Chyba: koátery
+krátery: 138
+kláštery: 189
 opraveno: krátery
 krátery
 
@@ -6961,6 +7559,8 @@ okrajích,
 
 coq
 Chyba: coq
+co: 246721
+lecoq: 12
 opraveno: co
 co
 
@@ -6975,6 +7575,8 @@ tomu,
 
 byy
 Chyba: byy
+byty: 1829
+byly: 65335
 opraveno: byty
 byty
 
@@ -6983,6 +7585,8 @@ vystaveny
 
 vlhíkému
 Chyba: vlhíkému
+vlhkému: 30
+vlhkém: 276
 opraveno: vlhkému
 vlhkému
 
@@ -7000,8 +7604,10 @@ srážkovou
 
 Krátery,i
 Chyba: krátery,i
+krátery: 138
+kráter: 213
 opraveno: krátery
-Krátery
+Krátery,
 
 které
 které
@@ -7014,8 +7620,9 @@ mladší
 
 3,5
 Chyba: 3,5
+35 not in voc_words
 opraveno: 35
-,5
+,5,
 
 miliard
 miliard
@@ -7055,6 +7662,8 @@ tedy
 
 mžné,
 Chyba: mžné
+mužné: 93
+možné: 32841
 opraveno: mužné
 mužné,
 
@@ -7066,6 +7675,8 @@ v
 
 tétor
 Chyba: tétor
+této: 42704
+tutor: 129
 opraveno: této
 této
 
@@ -7109,7 +7720,7 @@ suchou.
 suchou.
 
 ['Krátery,', 'které', 'vznkly', 'v', 'rané', 'hiátorii', 'Marsu,', 'jeví', 'silné', 'známk', 'eroze,', 'a', 'to', 'jak', 'větrné,', 'tak', 'i', 'vodní.', 'Krátery,', 'kteáé', 'byly', 'menší', 'než', '15', 'km,', 'jsoě', 'zcela', 'zarovnány', 'a', 'jen', 'velmi', 'obtížně', 'se', 'nyní', 'detekují.', 'Většíl', 'koátery', 'nesou', 'silné', 'známky', 'tekoucí', 'vody', 'na', 'okrajích,', 'coq', 'napovídá', 'tomu,', 'že', 'byy', 'vystaveny', 'vlhíkému', 'klimatu', 'se', 'srážkovou', 'činností.', 'Krátery,i', 'které', 'jsou', 'mladší', '3,5', 'miliard', 'let,', 'však', 'podobné', 'poškození', 'nenesou', 'či', 'je', 'mnohem', 'menší.', 'Je', 'tedy', 'mžné,', 'že', 'v', 'tétor', 'době', 'došlo', 'k', 'další', 'změně', 'klimatu', 'a', 'že', 'se', 'planeta', 'stala', 'opět', 'suchou.']
-Krátery, které vznikly v rané historii Marsu, jeví silné známky eroze, a to jak větrné, tak i vodní. Krátery, které byly menší než 15 km, sově zcela zarovnány a jen velmi obtížně se nyní detekují. Větší krátery nesou silné známky tekoucí vody na okrajích, co napovídá tomu, že byty vystaveny vlhkému klimatu se srážkovou činností. Krátery které jsou mladší ,5 miliard let, však podobné poškození nenesou či je mnohem menší. Je tedy mužné, že v této době došlo k další změně klimatu a že se planeta stala opět suchou.
+Krátery, které vznikly v rané historii Marsu, jeví silné známky eroze, a to jak větrné, tak i vodní. Krátery, které byly menší než 15 km, sově zcela zarovnány a jen velmi obtížně se nyní detekují. Větší krátery nesou silné známky tekoucí vody na okrajích, co napovídá tomu, že byty vystaveny vlhkému klimatu se srážkovou činností. Krátery, které jsou mladší ,5, miliard let, však podobné poškození nenesou či je mnohem menší. Je tedy mužné, že v této době došlo k další změně klimatu a že se planeta stala opět suchou.
 []
 
 Rychlost
@@ -7123,6 +7734,8 @@ kráterů
 
 jy
 Chyba: jy
+jpy: 56
+joy: 72
 opraveno: jpy
 jpy
 
@@ -7170,6 +7783,8 @@ měsíčních
 
 horni
 Chyba: horni
+hornin: 1189
+horn: 118
 opraveno: hornin
 hornin
 
@@ -7208,6 +7823,8 @@ mnohem
 
 silnějšd
 Chyba: silnějšd
+silnější: 3358
+silnějším: 264
 opraveno: silnější
 silnější
 
@@ -7246,6 +7863,8 @@ také
 
 způsobuejí,
 Chyba: způsobuejí
+způsobují: 992
+způsobující: 193
 opraveno: způsobují
 způsobují,
 
@@ -7263,6 +7882,8 @@ dostatečnou
 
 sílui
 Chyba: sílui
+sílu: 6716
+sílou: 76
 opraveno: sílu
 sílu
 
@@ -7277,6 +7898,8 @@ silnou
 
 eršozi.
 Chyba: eršozi
+erozi: 165
+verši: 201
 opraveno: erozi
 erozi.
 
@@ -7306,6 +7929,8 @@ na
 
 říyční
 Chyba: říyční
+říční: 643
+říčním: 126
 opraveno: říční
 říční
 
@@ -7326,6 +7951,8 @@ je
 
 vyplníěno
 Chyba: vyplníěno
+vyplněno: 48
+vyplněnou: 45
 opraveno: vyplněno
 vyplněno
 
@@ -7352,6 +7979,8 @@ nacházejí
 
 připěmínající
 Chyba: připěmínající
+připomínající: 1540
+připomínajícím: 194
 opraveno: připomínající
 připomínající
 
@@ -7387,6 +8016,8 @@ jsou
 
 povzorovny
 Chyba: povzorovny
+pozorovány: 108
+pozorován: 129
 opraveno: pozorovány
 pozorovány
 
@@ -7410,6 +8041,8 @@ vrstvy
 
 seěimentru,
 Chyba: seěimentru
+sedimentu: 91
+sentimentu: 86
 opraveno: sedimentu
 sedimentu,
 
@@ -7427,6 +8060,8 @@ vznikat
 
 součšsných
 Chyba: součšsných
+současných: 2371
+sloučených: 10
 opraveno: současných
 současných
 
@@ -7447,6 +8082,7 @@ Pomocí
 
 spektrometróckýhh
 Chyba: spektrometróckýhh
+spektrometrických not in voc_words
 opraveno: spektrometrických
 spektrometrických
 
@@ -7503,6 +8139,8 @@ při
 
 kontaktzu
 Chyba: kontaktzu
+kontaktu: 3172
+kontraktu: 365
 opraveno: kontaktu
 kontaktu
 
@@ -7529,6 +8167,8 @@ na
 
 přgvážně
 Chyba: přgvážně
+převážně: 4808
+vážně: 11299
 opraveno: převážně
 převážně
 
@@ -7597,6 +8237,8 @@ skupiny
 
 evapoiů
 Chyba: evapoiů
+evaporitů: 10
+evapority: 17
 opraveno: evaporitů
 evaporitů
 
@@ -7614,6 +8256,8 @@ Transportované
 
 čáti
 Chyba: čáti
+části: 25209
+čti: 161
 opraveno: části
 části
 
@@ -7622,6 +8266,8 @@ jsou
 
 dřenášeny
 Chyba: dřenášeny
+přenášeny: 79
+přenášen: 59
 opraveno: přenášeny
 přenášeny
 
@@ -7639,11 +8285,15 @@ kde
 
 zčačínďjí
 Chyba: zčačínďjí
+začínají: 3515
+začínaj: 34
 opraveno: začínají
 začínají
 
 postfpně
 Chyba: postfpně
+postupně: 13846
+potupně: 86
 opraveno: postupně
 postupně
 
@@ -7655,6 +8305,8 @@ a
 
 áytvářet
 Chyba: áytvářet
+vytvářet: 2380
+vyvářet: 16
 opraveno: vytvářet
 vytvářet
 
@@ -7708,11 +8360,15 @@ které
 
 byžy
 Chyba: byžy
+byty: 1829
+byly: 65335
 opraveno: byty
 byty
 
 unášehy
 Chyba: unášehy
+unášeny: 22
+unášely: 21
 opraveno: unášeny
 unášeny
 
@@ -7751,6 +8407,8 @@ někdy
 
 živtot
 Chyba: živtot
+život: 37900
+životů: 1149
 opraveno: život
 život
 
@@ -7802,11 +8460,15 @@ sedimenty
 
 vysyytují,
 Chyba: vysyytují
+vyskytují: 2373
+vyskytující: 322
 opraveno: vyskytují
 vyskytují,
 
 jsu
 Chyba: jsu
+jsou: 235362
+jesu: 41
 opraveno: jsou
 jsou
 
@@ -7839,6 +8501,8 @@ se
 
 vyskytupjí
 Chyba: vyskytupjí
+vyskytují: 2373
+vyskytující: 322
 opraveno: vyskytují
 vyskytují
 
@@ -7880,6 +8544,7 @@ Terra
 
 Meridiahi,
 Chyba: meridiahi
+meridiani not in voc_words
 opraveno: meridiani
 Meridiani,
 
@@ -7894,6 +8559,7 @@ Valles
 
 Marioeris
 Chyba: marioeris
+marineris not in voc_words
 opraveno: marineris
 Marineris
 
@@ -7908,6 +8574,8 @@ severovýchodní
 
 čsti
 Chyba: čsti
+čísti: 22
+části: 25209
 opraveno: čísti
 čísti
 
@@ -7916,11 +8584,15 @@ pánve
 
 Hellšs.
 Chyba: hellšs
+hells: 18
+helšus: 10
 opraveno: hells
 Hells.
 
 Některéu
 Chyba: některéu
+některému: 244
+některé: 18292
 opraveno: některému
 Některému
 
@@ -7987,6 +8659,8 @@ nejspíše
 
 naú
 Chyba: naú
+na: 1713721
+una: 39
 opraveno: na
 na
 
@@ -8001,6 +8675,8 @@ oceánu
 
 jeser,
 Chyba: jeser
+jesper: 255
+jespere: 18
 opraveno: jesper
 jesper,
 
@@ -8018,6 +8694,8 @@ a
 
 dúalší
 Chyba: dúalší
+další: 75741
+dalším: 9148
 opraveno: další
 další
 
@@ -8029,6 +8707,8 @@ na
 
 povrchuý
 Chyba: povrchuý
+povrchu: 6296
+povrch: 4839
 opraveno: povrchu
 povrchu
 
@@ -8076,6 +8756,8 @@ s
 
 nacházla
 Chyba: nacházla
+nacházela: 874
+naházela: 64
 opraveno: nacházela
 nacházela
 
@@ -8093,8 +8775,9 @@ před
 
 3,5
 Chyba: 3,5
+35 not in voc_words
 opraveno: 35
-,5
+,5,
 
 miliardami
 miliardami
@@ -8148,7 +8831,7 @@ superpozice.
 superpozice.
 
 ['Sedimenty', 'vznikaly', 'nejspíše', 'naú', 'dně', 'oceánu', 'či', 'jeser,', 'které', 'vyplňovaly', 'krátery', 'a', 'dúalší', 'deprese', 'na', 'povrchuý', 'Jejich', 'vznik', 'a', 'stáří', 'je', 'spojeno', 's', 'výskytem', 'kapalné', 'vody', 'na', 'povrchu,', 'která', 's', 'nacházla', 'na', 'povrchu', 'asi', 'před', '3,5', 'miliardami', 'let.', 'Obdobně', 'jako', 'na', 'Zemi', 'tvoří', 'vrstvy', 'podrobnou', 'dataci', 'jednotlivých', 'epoch', 'historie', 'Marsu', 'dle', 'pravidla', 'superpozice.']
-Sedimenty vznikaly nejspíše na dně oceánu či jesper, které vyplňovaly krátery a další deprese na povrchu Jejich vznik a stáří je spojeno s výskytem kapalné vody na povrchu, která s nacházela na povrchu asi před ,5 miliardami let. Obdobně jako na Zemi tvoří vrstvy podrobnou dataci jednotlivých epoch historie Marsu dle pravidla superpozice.
+Sedimenty vznikaly nejspíše na dně oceánu či jesper, které vyplňovaly krátery a další deprese na povrchu Jejich vznik a stáří je spojeno s výskytem kapalné vody na povrchu, která s nacházela na povrchu asi před ,5, miliardami let. Obdobně jako na Zemi tvoří vrstvy podrobnou dataci jednotlivých epoch historie Marsu dle pravidla superpozice.
 Současnost
 Současnost
 
@@ -8165,6 +8848,8 @@ stěně
 
 bezejmennéeho
 Chyba: bezejmennéeho
+bezejmenného: 50
+bezejmenné: 91
 opraveno: bezejmenného
 bezejmenného
 
@@ -8188,6 +8873,8 @@ jedné
 
 teoribe
 Chyba: teoribe
+teorie: 6627
+theorie: 14
 opraveno: teorie
 teorie
 
@@ -8220,6 +8907,8 @@ Aktuální
 
 podmíynky
 Chyba: podmíynky
+podmínky: 9685
+upomínky: 77
 opraveno: podmínky
 podmínky
 
@@ -8231,11 +8920,15 @@ povrchu
 
 Marsěu
 Chyba: marsěu
+marsu: 590
+masu: 496
 opraveno: marsu
 Marsu
 
 neuvožňují
 Chyba: neuvožňují
+neuvolňují: 10
+neumožňují: 186
 opraveno: neuvolňují
 neuvolňují
 
@@ -8259,6 +8952,8 @@ delším
 
 horiontu,
 Chyba: horiontu
+horizontu: 1328
+horizonu: 15
 opraveno: horizontu
 horizontu,
 
@@ -8330,6 +9025,8 @@ Po
 
 jejú
 Chyba: jejú
+jej: 27077
+jejž: 1012
 opraveno: jej
 jej
 
@@ -8341,6 +9038,8 @@ na
 
 povrcu
 Chyba: povrcu
+povrchu: 6296
+pověru: 29
 opraveno: povrchu
 povrchu
 
@@ -8391,6 +9090,8 @@ v
 
 součyasné
 Chyba: součyasné
+současné: 11432
+současném: 1103
 opraveno: současné
 současné
 
@@ -8435,6 +9136,8 @@ kdy
 
 americkž
 Chyba: americkž
+americký: 3063
+americké: 5151
 opraveno: americký
 americký
 
@@ -8446,6 +9149,8 @@ Mars
 
 Gploubal
 Chyba: gploubal
+global: 357
+hloubal: 37
 opraveno: global
 Global
 
@@ -8454,6 +9159,8 @@ Surveyor
 
 přnesla
 Chyba: přnesla
+přinesla: 2752
+přenesla: 273
 opraveno: přinesla
 přinesla
 
@@ -8498,6 +9205,8 @@ nacházet,
 
 ebo
 Chyba: ebo
+nebo: 231846
+lebo: 13
 opraveno: nebo
 nebo
 
@@ -8530,6 +9239,8 @@ hory
 
 Ceuntauri
 Chyba: ceuntauri
+centauri: 120
+centuri: 35
 opraveno: centauri
 Centauri
 
@@ -8553,6 +9264,8 @@ nová
 
 vréstvaá
 Chyba: vréstvaá
+vrstva: 1932
+vrstvám: 172
 opraveno: vrstva
 vrstva
 
@@ -8570,6 +9283,8 @@ zde
 
 dšlo
 Chyba: dšlo
+došlo: 14391
+šlo: 10990
 opraveno: došlo
 došlo
 
@@ -8593,6 +9308,8 @@ a
 
 óejímu
 Chyba: óejímu
+jejímu: 2764
+jejímuž: 88
 opraveno: jejímu
 jejímu
 
@@ -8619,6 +9336,8 @@ oživil
 
 spákulzce
 Chyba: spákulzce
+spekulace: 846
+pulzace: 32
 opraveno: spekulace
 spekulace
 
@@ -8627,6 +9346,8 @@ o
 
 přežúvím
 Chyba: přežúvím
+přeživším: 24
+přežíváním: 11
 opraveno: přeživším
 přeživším
 
@@ -8671,6 +9392,8 @@ Reconnaissance
 
 ěrbeiter
 Chyba: ěrbeiter
+reiter: 22
+orbiter: 12
 opraveno: reiter
 reiter
 
@@ -8697,6 +9420,8 @@ minerálů
 
 obsahujícrch
 Chyba: obsahujícrch
+obsahujících: 232
+obsahujícího: 99
 opraveno: obsahujících
 obsahujících
 
@@ -8729,6 +9454,8 @@ vrstva
 
 sedámentů
 Chyba: sedámentů
+sedimentů: 371
+segmentů: 291
 opraveno: sedimentů
 sedimentů
 
@@ -8740,6 +9467,8 @@ zbarvení
 
 vznila
 Chyba: vznila
+věznila: 18
+vznikla: 4812
 opraveno: věznila
 věznila
 
@@ -8766,6 +9495,8 @@ suché
 
 hornminy
 Chyba: hornminy
+horniny: 1110
+hornin: 1189
 opraveno: horniny
 horniny
 
@@ -8774,11 +9505,15 @@ jiného
 
 sftáří
 Chyba: sftáří
+stáří: 3087
+stářím: 271
 opraveno: stáří
 stáří
 
 poy
 Chyba: poy
+pony: 21
+poly: 15
 opraveno: pony
 pony
 
@@ -8818,6 +9553,8 @@ splněny
 
 některéc
 Chyba: některéc
+některé: 18292
+některém: 658
 opraveno: některé
 některé
 
@@ -8838,6 +9575,8 @@ a
 
 tkeploty
 Chyba: tkeploty
+teploty: 3920
+teplot: 1076
 opraveno: teploty
 teploty
 
@@ -8888,6 +9627,7 @@ nad
 
 0,01
 Chyba: 0,01
+9001 not in voc_words
 opraveno: 9001
 9001
 
@@ -8899,6 +9639,8 @@ dosahovat
 
 hodnjot
 Chyba: hodnjot
+hodnot: 3594
+hodnotě: 2851
 opraveno: hodnot
 hodnot
 
@@ -9004,6 +9746,8 @@ na
 
 atmosrférickou
 Chyba: atmosrférickou
+atmosférickou: 27
+atmosférického: 81
 opraveno: atmosférickou
 atmosférickou
 
@@ -9021,6 +9765,8 @@ nemuselo
 
 omu
 Chyba: omu
+tomu: 77285
+osmu: 13
 opraveno: tomu
 tomu
 
@@ -9029,6 +9775,8 @@ být
 
 vžndy
 Chyba: vžndy
+vždy: 29044
+vždyť: 8179
 opraveno: vždy
 vždy
 
@@ -9067,11 +9815,15 @@ okolního
 
 kosmickéhoq
 Chyba: kosmickéhoq
+kosmického: 323
+komického: 58
 opraveno: kosmického
 kosmického
 
 prastorub
 Chyba: prastorub
+prostoru: 13155
+rastru: 96
 opraveno: prostoru
 prostoru
 
@@ -9080,6 +9832,8 @@ jelikož
 
 Msrs
 Chyba: msrs
+srs: 27
+mss: 10
 opraveno: srs
 Srs
 
@@ -9097,6 +9851,8 @@ gravitační
 
 polne,
 Chyba: polne
+prolne: 16
+polkne: 92
 opraveno: prolne
 prolne,
 
@@ -9123,6 +9879,8 @@ okolního
 
 prostqředí.
 Chyba: prostqředí
+prostředí: 24203
+prostředím: 1259
 opraveno: prostředí
 prostředí.
 
@@ -9148,6 +9906,8 @@ Mars
 
 Pathfander
 Chyba: pathfander
+pathfinder: 19
+santander: 33
 opraveno: pathfinder
 Pathfinder
 
@@ -9163,6 +9923,8 @@ Související
 
 idformace
 Chyba: idformace
+informace: 15837
+deformace: 691
 opraveno: informace
 informace
 
@@ -9171,6 +9933,8 @@ naleznete
 
 takf
 Chyba: takf
+tak: 323183
+tlak: 5284
 opraveno: tak
 tak
 
@@ -9201,6 +9965,7 @@ vody
 
 (0,03
 Chyba: 0,03
+9003 not in voc_words
 opraveno: 9003
 (9003
 
@@ -9218,6 +9983,8 @@ t
 
 atmosfře
 Chyba: atmosfře
+atmosféře: 1384
+atmos: 15
 opraveno: atmosféře
 atmosféře
 
@@ -9235,6 +10002,8 @@ vodní
 
 ráry,
 Chyba: ráry
+čáry: 1171
+sáry: 83
 opraveno: čáry
 čáry,
 
@@ -9261,6 +10030,8 @@ na
 
 m3
 Chyba: m3
+m: 14307
+m not in voc_words
 opraveno: m
 m
 
@@ -9281,6 +10052,8 @@ podle
 
 fzikálních
 Chyba: fzikálních
+fyzikálních: 555
+fiskálních: 51
 opraveno: fyzikálních
 fyzikálních
 
@@ -9307,11 +10080,14 @@ před
 
 3,5
 Chyba: 3,5
+35 not in voc_words
 opraveno: 35
-,5
+,5,
 
 miliwrdami
 Chyba: miliwrdami
+miliardami: 331
+miliarda: 240
 opraveno: miliardami
 miliardami
 
@@ -9335,11 +10111,15 @@ vlhčí
 
 ahtmosféru,
 Chyba: ahtmosféru
+atmosféru: 2943
+atmosférou: 615
 opraveno: atmosféru
 atmosféru,
 
 terá
 Chyba: terá
+která: 136824
+ter: 13
 opraveno: která
 která
 
@@ -9368,7 +10148,7 @@ let.
 let.
 
 ['Malé', 'procento', 'vody', '(0,03', '%)', 'se', 'nachází', 't', 'atmosfře', 'Marsu', 've', 'formě', 'vodní', 'ráry,', 'což', 'odpovídá', '1', 'mg', 'vody', 'na', '1', 'm3', 'vzduchu.', 'V', 'minulosti', 'byl', 'podle', 'fzikálních', 'modelů', 'její', 'podíl', 'asi', 'větší.', 'Přibližně', 'před', '3,5', 'miliwrdami', 'let', 'měl', 'Mars', 'teplejší', 'a', 'vlhčí', 'ahtmosféru,', 'terá', 'existovala', 'po', 'dobu', 'asi', '104', 'až', '105', 'let.']
-Malé procento vody (9003 %)%) se nachází t atmosféře Marsu ve formě vodní čáry, což odpovídá 1 mg vody na 1 m vzduchu. V minulosti byl podle fyzikálních modelů její podíl asi větší. Přibližně před ,5 miliardami let měl Mars teplejší a vlhčí atmosféru, která existovala po dobu asi 104 až 105 let.
+Malé procento vody (9003 %)%) se nachází t atmosféře Marsu ve formě vodní čáry, což odpovídá 1 mg vody na 1 m vzduchu. V minulosti byl podle fyzikálních modelů její podíl asi větší. Přibližně před ,5, miliardami let měl Mars teplejší a vlhčí atmosféru, která existovala po dobu asi 104 až 105 let.
 []
 
 Oblačnost
@@ -9394,6 +10174,8 @@ krystalky
 
 uchého
 Chyba: uchého
+suchého: 478
+uschlého: 30
 opraveno: suchého
 suchého
 
@@ -9423,6 +10205,8 @@ Sureyor
 
 definitivsně
 Chyba: definitivsně
+definitivně: 2772
+definitivní: 1116
 opraveno: definitivně
 definitivně
 
@@ -9451,7 +10235,11 @@ vodou
 vodou
 
 vz
-vz
+Chyba: vz
+zvz: 10
+v–z: 31
+opraveno: zvz
+zvz
 
 pevném
 pevném
@@ -9488,6 +10276,8 @@ její
 
 výslgdky
 Chyba: výslgdky
+výsledky: 10005
+výstelky: 36
 opraveno: výsledky
 výsledky
 
@@ -9499,6 +10289,8 @@ daly
 
 interyretovat
 Chyba: interyretovat
+interpretovat: 687
+reinterpretovat: 19
 opraveno: interpretovat
 interpretovat
 
@@ -9510,6 +10302,8 @@ způsoby.
 
 znik
 Chyba: znik
+zánik: 539
+vznik: 3495
 opraveno: zánik
 zánik
 
@@ -9533,6 +10327,8 @@ se
 
 meverní
 Chyba: meverní
+severní: 3727
+severním: 840
 opraveno: severní
 severní
 
@@ -9571,6 +10367,7 @@ Během
 
 marsovskéwho
 Chyba: marsovskéwho
+marsovského not in voc_words
 opraveno: marsovského
 marsovského
 
@@ -9621,6 +10418,8 @@ do
 
 ovníkových
 Chyba: ovníkových
+rovníkových: 18
+slovníkových: 13
 opraveno: rovníkových
 rovníkových
 
@@ -9656,11 +10455,15 @@ podobě
 
 ledoxch
 Chyba: ledoxch
+ledových: 494
+lenoch: 78
 opraveno: ledových
 ledových
 
 krytalků,
 Chyba: krytalků
+krystalků: 101
+krystalů: 715
 opraveno: krystalků
 krystalků,
 
@@ -9681,6 +10484,8 @@ jinovatky
 
 tkořené
 Chyba: tkořené
+tvořené: 515
+třené: 22
 opraveno: tvořené
 tvořené
 
@@ -9698,6 +10503,8 @@ ledových
 
 maků
 Chyba: maků
+mraků: 712
+macků: 35
 opraveno: mraků
 mraků
 
@@ -9732,7 +10539,7 @@ až
 150.
 
 ['Oblačnost', 'na', 'Marsu', 'je', 'tvořena', 'většinou', 'krystalky', 'uchého', 'ledu', '(zmrzlý', 'oxid', 'uhličitý).', 'Sonda', 'Mars', 'Global', 'Sureyor', 'definitivsně', 'potvrdila,', 'že', 'některé', 'krystalky', 'jsou', 'tvořeny', 'i', 'vodou', 'vz', 'pevném', 'skupenství.', 'První', 'pozorování', 'uskutečnila', 'již', 'sonda', 'Mariner', '9,', 'ale', 'její', 'výslgdky', 'se', 'daly', 'interyretovat', 'více', 'způsoby.', 'znik', 'ledových', 'krystalků', 'je', 'spojen', 'převážně', 'se', 'meverní', 'polární', 'čepičkou,', 'která', 'je', 'z', 'větší', 'části', 'tvořena', 'vodním', 'ledem.', 'Během', 'marsovskéwho', 'jara', 'a', 'léta', 'dochází', 'k', 'evaporaci', 'nad', 'oblastí', 'čepičky,', 'vzniku', 'oblačnosti', 'a', 'jejímu', 'přesunu', 'do', 'ovníkových', 'oblastí,', 'kde', 'mraky', 'zmrznou', 'a', 'dopadnou', 'na', 'povrch', 'v', 'podobě', 'ledoxch', 'krytalků,', 'čímž', 'dochází', 'ke', 'vzniku', 'jinovatky', 'tkořené', 'zmrzlou', 'vodou.', 'Výskyt', 'ledových', 'maků', 'jk', 'sezónní,', 'největší', 'bývá', 'mezi', 'Ls', '=', '40', 'až', '150.']
-Oblačnost na Marsu je tvořena většinou krystalky suchého ledu (zmrzlý oxid uhličitý). Sonda Mars Global Sureyor definitivně potvrdila, že některé krystalky jsou tvořeny i vodou vz pevném skupenství. První pozorování uskutečnila již sonda Mariner 9, ale její výsledky se daly interpretovat více způsoby. zánik ledových krystalků je spojen převážně se severní polární čepičkou, která je z větší části tvořena vodním ledem. Během marsovského jara a léta dochází k evaporaci nad oblastí čepičky, vzniku oblačnosti a jejímu přesunu do rovníkových oblastí, kde mraky zmrznou a dopadnou na povrch v podobě ledových krystalků, čímž dochází ke vzniku jinovatky tvořené zmrzlou vodou. Výskyt ledových mraků jk sezónní, největší bývá mezi Ls = 40 až 150.
+Oblačnost na Marsu je tvořena většinou krystalky suchého ledu (zmrzlý oxid uhličitý). Sonda Mars Global Sureyor definitivně potvrdila, že některé krystalky jsou tvořeny i vodou zvz pevném skupenství. První pozorování uskutečnila již sonda Mariner 9, ale její výsledky se daly interpretovat více způsoby. zánik ledových krystalků je spojen převážně se severní polární čepičkou, která je z větší části tvořena vodním ledem. Během marsovského jara a léta dochází k evaporaci nad oblastí čepičky, vzniku oblačnosti a jejímu přesunu do rovníkových oblastí, kde mraky zmrznou a dopadnou na povrch v podobě ledových krystalků, čímž dochází ke vzniku jinovatky tvořené zmrzlou vodou. Výskyt ledových mraků jk sezónní, největší bývá mezi Ls = 40 až 150.
 Polární
 Polární
 
@@ -9743,6 +10550,8 @@ Polární
 Polární čepičky
 3D
 Chyba: 3d
+d: 4775
+d not in voc_words
 opraveno: d
 d
 
@@ -9757,6 +10566,8 @@ severní
 
 polárn
 Chyba: polárn
+polární: 539
+polárním: 116
 opraveno: polární
 polární
 
@@ -9771,6 +10582,8 @@ pomocí
 
 výsledbů
 Chyba: výsledbů
+výsledků: 4315
+výsledkům: 700
 opraveno: výsledků
 výsledků
 
@@ -9839,6 +10652,8 @@ těchto
 
 vodnach
 Chyba: vodnach
+vodnatých: 16
+vodných: 63
 opraveno: vodnatých
 vodnatých
 
@@ -9895,6 +10710,8 @@ suchým
 
 ledemf
 Chyba: ledemf
+ledem: 634
+sledem: 89
 opraveno: ledem
 ledem
 
@@ -9909,6 +10726,8 @@ jsou
 
 vájemně
 Chyba: vájemně
+vzájemně: 3814
+jemně: 3268
 opraveno: vzájemně
 vzájemně
 
@@ -9926,6 +10745,8 @@ složení.
 
 Jižníj
 Chyba: jižníj
+jižní: 4583
+jižním: 1013
 opraveno: jižní
 Jižní
 
@@ -9937,6 +10758,8 @@ je
 
 tvořea
 Chyba: tvořea
+tvořena: 673
+utvořena: 19
 opraveno: tvořena
 tvořena
 
@@ -9960,6 +10783,8 @@ oxid
 
 úhličitý)
 Chyba: úhličitý
+uhličitý: 388
+uhličitým: 111
 opraveno: uhličitý
 uhličitý)
 
@@ -10007,6 +10832,8 @@ zde
 
 nachůází
 Chyba: nachůází
+nachází: 6779
+nadchází: 31
 opraveno: nachází
 nachází
 
@@ -10018,14 +10845,17 @@ až
 
 1,6
 Chyba: 1,6
+16 not in voc_words
 opraveno: 16
-,6
+,6,
 
 miliónu
 miliónu
 
 km3
 Chyba: km3
+km: 6257
+vkm: 15
 opraveno: km
 km
 
@@ -10055,11 +10885,15 @@ obsahuje
 
 seerní
 Chyba: seerní
+severní: 3727
+severním: 840
 opraveno: severní
 severní
 
 epička).
 Chyba: epička
+čepička: 32
+epika: 20
 opraveno: čepička
 čepička).
 
@@ -10125,6 +10959,8 @@ mraky.
 
 Objeení
 Chyba: objeení
+objevení: 436
+objevením: 62
 opraveno: objevení
 Objevení
 
@@ -10157,6 +10993,8 @@ který
 
 byřl
 Chyba: byřl
+byl: 194660
+zbyl: 566
 opraveno: byl
 byl
 
@@ -10195,6 +11033,8 @@ se
 
 většiia
 Chyba: většiia
+většina: 11758
+zvětšili: 39
 opraveno: většina
 většina
 
@@ -10209,6 +11049,8 @@ w
 
 CO2.
 Chyba: co2
+co: 246721
+tco: 63
 opraveno: co
 CO.
 
@@ -10232,6 +11074,8 @@ složenou
 
 ondobně
 Chyba: ondobně
+podobně: 11325
+ozdobně: 58
 opraveno: podobně
 podobně
 
@@ -10270,6 +11114,8 @@ sice
 
 noé
 Chyba: noé
+nové: 32722
+né: 258
 opraveno: nové
 nové
 
@@ -10344,6 +11190,8 @@ na
 
 zákýladě
 Chyba: zákýladě
+základě: 12976
+základně: 575
 opraveno: základě
 základě
 
@@ -10361,6 +11209,8 @@ Mars
 
 Glohal
 Chyba: glohal
+global: 357
+lhal: 519
 opraveno: global
 Global
 
@@ -10384,11 +11234,15 @@ snímků
 
 vyšlóo
 Chyba: vyšlóo
+vyšlo: 2409
+vyšlou: 79
 opraveno: vyšlo
 vyšlo
 
 iajevo,
 Chyba: iajevo
+najevo: 5133
+jevo: 11
 opraveno: najevo
 najevo,
 
@@ -10403,6 +11257,8 @@ polární
 
 olast
 Chyba: olast
+oblast: 6122
+last: 126
 opraveno: oblast
 oblast
 
@@ -10438,6 +11294,8 @@ led
 
 exisovat,
 Chyba: exisovat
+existovat: 2247
+neexistovat: 15
 opraveno: existovat
 existovat,
 
@@ -10454,7 +11312,7 @@ vyloučilo.
 vyloučilo.
 
 ['Vedl', 'těchto', 'vodnach', 'zdrojů', 'se', 'na', 'pólech', 'nacházejí', 'dvě', 'polární', 'čepičky,', 'které', 'jsou', 'částečně', 'tvořeny', 'voním', 'ledem', 'a', 'částečně', 'suchým', 'ledemf', 'Polární', 'čepičky', 'jsou', 'vájemně', 'rozdílné', 'v', 'chemickém', 'složení.', 'Jižníj', 'čepička', 'je', 'tvořea', 'převážně', 'ze', 'suchého', 'ledu', '(zmrzlý', 'oxid', 'úhličitý)', 'a', 'malé', 'části', 'vody', '(i', 'když', 'výzkum', 'z', 'roku', '2007', 'ukázal,', 'že', 'se', 'zde', 'nachůází', 'možná', 'až', '1,6', 'miliónu', 'km3', 'vody,', 'což', 'by', 'bylo', 'věší', 'množství,', 'než', 'obsahuje', 'seerní', 'epička).', 'Oproti', 'tom', 'severní', 'polární', 'čepička', 'je', 'tvořena', 'převážně', 'z', 'vodního', 'ledu,', 'který', 'v', 'letních', 'měsících', 'sublimuje', 'a', 'zásobuje', 'vodní', 'mraky.', 'Objeení', 'vodního', 'ledu', 'v', 'severní', 'polární', 'čepičce', 'je', 'objev,', 'který', 'byřl', 'v', 'rozporu', 's', 'předpovědí', 'z', 'roku', '1966', 'po', 'zjištění,', 'že', 'se', 'většiia', 'atmosféry', 'skládá', 'w', 'CO2.', 'Tehdejší', 'model', 'počítal', 's', 'čepičkou', 'složenou', 'ondobně', 'jako', 'jižní', 'čepička', 'převážně', 'ze', 'suchého', 'ledu.', 'Sonda', 'Viking', 'přinesla', 'sice', 'noé', 'poznatky', 'o', 'vodním', 'ledu,', 'ale', 'vědci', 'stále', 'věřili,', 'že', 'je', 'pouze', 'minoritní', 'složkou.', 'Až', 'v', 'roce', '2003', 'došlo', 'k', 'revizi', 'tohoto', 'názoru', 'na', 'zákýladě', 'termálních', 'snímků', 'sondy', 'Mars', 'Glohal', 'Surveyor', 'a', 'Mars', 'Odyssey.', 'Ze', 'snímků', 'vyšlóo', 'iajevo,', 'že', 'se', 'polární', 'olast', 'zahřívá', 'na', 'vyšší', 'teplotu,', 'než', 'při', 'jaké', 'může', 'suchý', 'led', 'exisovat,', 'což', 'jeho', 'výskyt', 'vyloučilo.']
-Vedl těchto vodnatých zdrojů se na pólech nacházejí dvě polární čepičky, které jsou částečně tvořeny voním ledem a částečně suchým ledem Polární čepičky jsou vzájemně rozdílné v chemickém složení. Jižní čepička je tvořena převážně ze suchého ledu (zmrzlý oxid uhličitý) a malé části vody (i když výzkum z roku 2007 ukázal, že se zde nachází možná až ,6 miliónu km vody, což by bylo věší množství, než obsahuje severní čepička). Oproti tom severní polární čepička je tvořena převážně z vodního ledu, který v letních měsících sublimuje a zásobuje vodní mraky. Objevení vodního ledu v severní polární čepičce je objev, který byl v rozporu s předpovědí z roku 1966 po zjištění, že se většina atmosféry skládá w CO. Tehdejší model počítal s čepičkou složenou podobně jako jižní čepička převážně ze suchého ledu. Sonda Viking přinesla sice nové poznatky o vodním ledu, ale vědci stále věřili, že je pouze minoritní složkou. Až v roce 2003 došlo k revizi tohoto názoru na základě termálních snímků sondy Mars Global Surveyor a Mars Odyssey. Ze snímků vyšlo najevo, že se polární oblast zahřívá na vyšší teplotu, než při jaké může suchý led existovat, což jeho výskyt vyloučilo.
+Vedl těchto vodnatých zdrojů se na pólech nacházejí dvě polární čepičky, které jsou částečně tvořeny voním ledem a částečně suchým ledem Polární čepičky jsou vzájemně rozdílné v chemickém složení. Jižní čepička je tvořena převážně ze suchého ledu (zmrzlý oxid uhličitý) a malé části vody (i když výzkum z roku 2007 ukázal, že se zde nachází možná až ,6, miliónu km vody, což by bylo věší množství, než obsahuje severní čepička). Oproti tom severní polární čepička je tvořena převážně z vodního ledu, který v letních měsících sublimuje a zásobuje vodní mraky. Objevení vodního ledu v severní polární čepičce je objev, který byl v rozporu s předpovědí z roku 1966 po zjištění, že se většina atmosféry skládá w CO. Tehdejší model počítal s čepičkou složenou podobně jako jižní čepička převážně ze suchého ledu. Sonda Viking přinesla sice nové poznatky o vodním ledu, ale vědci stále věřili, že je pouze minoritní složkou. Až v roce 2003 došlo k revizi tohoto názoru na základě termálních snímků sondy Mars Global Surveyor a Mars Odyssey. Ze snímků vyšlo najevo, že se polární oblast zahřívá na vyšší teplotu, než při jaké může suchý led existovat, což jeho výskyt vyloučilo.
 []
 
 Severní
@@ -10462,11 +11320,15 @@ Severní
 
 olární
 Chyba: olární
+solární: 1151
+polární: 539
 opraveno: solární
 solární
 
 čepipka
 Chyba: čepipka
+čepička: 32
+epika: 20
 opraveno: čepička
 čepička
 
@@ -10484,6 +11346,8 @@ průměru
 
 přibliždně
 Chyba: přibliždně
+přibližně: 7729
+přibližný: 106
 opraveno: přibližně
 přibližně
 
@@ -10504,6 +11368,8 @@ průměrnou
 
 tlouťkou
 Chyba: tlouťkou
+tloušťkou: 190
+tloušťku: 320
 opraveno: tloušťkou
 tloušťkou
 
@@ -10512,6 +11378,7 @@ ledu
 
 1,0h
 Chyba: 1,0h
+10 not in voc_words
 opraveno: 10
 10
 
@@ -10532,6 +11399,8 @@ a
 
 ízkládá
 Chyba: ízkládá
+zakládá: 664
+zakládám: 22
 opraveno: zakládá
 zakládá
 
@@ -10555,8 +11424,9 @@ jako
 
 1,5
 Chyba: 1,5
+15 not in voc_words
 opraveno: 15
-,5
+,5,
 
 Texasu,
 Texasu,
@@ -10566,6 +11436,8 @@ což
 
 oadpcvídá
 Chyba: oadpcvídá
+odpovídá: 6033
+zodpovídá: 224
 opraveno: odpovídá
 odpovídá
 
@@ -10580,8 +11452,9 @@ přibližně
 
 13,2
 Chyba: 13,2
+132 not in voc_words
 opraveno: 132
-1,2
+1,2,
 
 násobku
 násobku
@@ -10636,11 +11509,15 @@ po
 
 rozttí
 Chyba: rozttí
+roztátí: 11
+roztát: 32
 opraveno: roztátí
 roztátí
 
 owbsahovala,
 Chyba: owbsahovala
+obsahovala: 538
+obsahoval: 514
 opraveno: obsahovala
 obsahovala,
 
@@ -10655,16 +11532,21 @@ na
 
 1,2
 Chyba: 1,2
+12 not in voc_words
 opraveno: 12
-,2
+,2,
 
 milióniů
 Chyba: milióniů
+miliónů: 3075
+miliónům: 35
 opraveno: miliónů
 miliónů
 
 km3,
 Chyba: km3
+km: 6257
+vkm: 15
 opraveno: km
 km,
 
@@ -10673,11 +11555,15 @@ což
 
 odpoídá
 Chyba: odpoídá
+odpovídá: 6033
+zodpovídá: 224
 opraveno: odpovídá
 odpovídá
 
 poloěině
 Chyba: poloěině
+polovině: 7207
+polovin: 38
 opraveno: polovině
 polovině
 
@@ -10731,6 +11617,8 @@ tyto
 
 obrovsk
 Chyba: obrovsk
+obrovský: 3610
+obrovské: 4563
 opraveno: obrovský
 obrovský
 
@@ -10738,7 +11626,11 @@ zásoby,
 zásoby,
 
 al
-al
+Chyba: al
+žal: 584
+ťal: 40
+opraveno: žal
+žal
 
 nemůže
 nemůže
@@ -10760,6 +11652,8 @@ dříve
 
 yvořilo
 Chyba: yvořilo
+vytvořilo: 465
+tvořilo: 390
 opraveno: vytvořilo
 vytvořilo
 
@@ -10768,6 +11662,8 @@ na
 
 áocvrcho
 Chyba: áocvrcho
+vrchol: 2239
+povrch: 4839
 opraveno: vrchol
 vrchol
 
@@ -10775,11 +11671,13 @@ oceán.
 oceán.
 
 ['Severní', 'olární', 'čepipka', 'zabírá', 'plochu', 'o', 'průměru', 'přibliždně', '1', '200', 'km', 's', 'průměrnou', 'tlouťkou', 'ledu', '1,0h', 'km', '(maximální', '3', 'km),', 'a', 'ízkládá', 'se', 'tak', 'na', 'území', 'velkém', 'jako', '1,5', 'Texasu,', 'což', 'oadpcvídá', 'po', 'přepočtu', 'přibližně', '13,2', 'násobku', 'rozlohy', 'Česka.', 'Její', 'povrch', 'je', 'značně', 'zbrázděn', 'kaňony', 'a', 'trhlinami.', 'Odhadované', 'množství', 'vody,', 'kterou', 'y', 'po', 'rozttí', 'owbsahovala,', 'se', 'odhaduje', 'na', '1,2', 'milióniů', 'km3,', 'což', 'odpoídá', 'poloěině', 'všeho', 'ledu', 'v', 'Grónsku', '(k', 'roku', '998)', 'či', '4', '%', 'ledové', 'pokrývky', 'Antarktidy.', 'I', 'přes', 'tyto', 'obrovsk', 'zásoby,', 'al', 'nemůže', 'tvořit', 'veškeré', 'množství,', 'které', 'dříve', 'yvořilo', 'na', 'áocvrcho', 'oceán.']
-Severní solární čepička zabírá plochu o průměru přibližně 1 200 km s průměrnou tloušťkou ledu 10 km (maximální 3 km), a zakládá se tak na území velkém jako ,5 Texasu, což odpovídá po přepočtu přibližně 1,2 násobku rozlohy Česka. Její povrch je značně zbrázděn kaňony a trhlinami. Odhadované množství vody, kterou y po roztátí obsahovala, se odhaduje na ,2 miliónů km, což odpovídá polovině všeho ledu v Grónsku (k roku 998) či 4 % ledové pokrývky Antarktidy. I přes tyto obrovský zásoby, al nemůže tvořit veškeré množství, které dříve vytvořilo na vrchol oceán.
+Severní solární čepička zabírá plochu o průměru přibližně 1 200 km s průměrnou tloušťkou ledu 10 km (maximální 3 km), a zakládá se tak na území velkém jako ,5, Texasu, což odpovídá po přepočtu přibližně 1,2, násobku rozlohy Česka. Její povrch je značně zbrázděn kaňony a trhlinami. Odhadované množství vody, kterou y po roztátí obsahovala, se odhaduje na ,2, miliónů km, což odpovídá polovině všeho ledu v Grónsku (k roku 998) či 4 % ledové pokrývky Antarktidy. I přes tyto obrovský zásoby, žal nemůže tvořit veškeré množství, které dříve vytvořilo na vrchol oceán.
 []
 
 Poblí
 Chyba: poblí
+poblíž: 3662
+polí: 1681
 opraveno: poblíž
 Poblíž
 
@@ -10797,6 +11695,7 @@ oblasti
 
 Vastitao
 Chyba: vastitao
+vastitas not in voc_words
 opraveno: vastitas
 Vastitas
 
@@ -10817,6 +11716,8 @@ roce
 
 oxjeven
 Chyba: oxjeven
+objeven: 290
+objevený: 108
 opraveno: objeven
 objeven
 
@@ -10846,6 +11747,8 @@ ledem.
 
 Krábterg
 Chyba: krábterg
+kráter: 213
+kráterů: 69
 opraveno: kráter
 Kráter
 
@@ -10908,6 +11811,8 @@ jedná
 
 oď
 Chyba: oď
+poď: 50
+loď: 4186
 opraveno: poď
 poď
 
@@ -10922,6 +11827,8 @@ byl
 
 vyvxácen,
 Chyba: vyvxácen
+vyvrácen: 22
+vyvrácený: 23
 opraveno: vyvrácen
 vyvrácen,
 
@@ -10981,11 +11888,15 @@ Vyjma
 
 koncřentrace
 Chyba: koncřentrace
+koncentrace: 1969
+koncentracemi: 28
 opraveno: koncentrace
 koncentrace
 
 vcody
 Chyba: vcody
+vchody: 187
+vody: 23666
 opraveno: vchody
 vchody
 
@@ -10997,6 +11908,8 @@ polárních
 
 čepčkách
 Chyba: čepčkách
+čepičkách: 10
+čtečkách: 18
 opraveno: čepičkách
 čepičkách
 
@@ -11056,11 +11969,15 @@ výrazném
 
 zastoupekní
 Chyba: zastoupekní
+zastoupení: 1806
+zastoupením: 191
 opraveno: zastoupení
 zastoupení
 
 ťo
 Chyba: ťo
+ťop: 14
+ťok: 18
 opraveno: ťop
 ťop
 
@@ -11075,6 +11992,8 @@ kolem
 
 rovnmoběžek,
 Chyba: rovnmoběžek
+rovnoběžek: 11
+rovnoběžky: 34
 opraveno: rovnoběžek
 rovnoběžek,
 
@@ -11110,6 +12029,8 @@ planetě.
 
 Odhadujeá
 Chyba: odhadujeá
+odhaduje: 1168
+odhadujete: 30
 opraveno: odhaduje
 Odhaduje
 
@@ -11203,6 +12124,8 @@ vědci
 
 objektú,
 Chyba: objektú
+objekt: 2937
+objektů: 2697
 opraveno: objekt
 objekt,
 
@@ -11217,6 +12140,8 @@ pozemské
 
 oslasti,
 Chyba: oslasti
+slasti: 257
+oblasti: 25304
 opraveno: slasti
 slasti,
 
@@ -11261,6 +12186,8 @@ dříve
 
 nzjspíše
 Chyba: nzjspíše
+nejspíše: 1445
+nejspíš: 8176
 opraveno: nejspíše
 nejspíše
 
@@ -11284,11 +12211,13 @@ Hellas
 
 Planitúia,
 Chyba: planitúia
+planitia not in voc_words
 opraveno: planitia
 Planitia,
 
 Aůrgyre,
 Chyba: aůrgyre
+argyre not in voc_words
 opraveno: argyre
 Argyre,
 
@@ -11300,6 +12229,8 @@ kráterů,
 
 koryst
 Chyba: koryst
+koryt: 105
+korytě: 97
 opraveno: koryt
 koryt
 
@@ -11329,11 +12260,14 @@ povrchový
 
 mdul
 Chyba: mdul
+modul: 895
+mul: 38
 opraveno: modul
 modul
 
 Sojouýner
 Chyba: sojouýner
+sojourner not in voc_words
 opraveno: sojourner
 Sojourner
 
@@ -11351,6 +12285,8 @@ V
 
 současnostei
 Chyba: současnostei
+současnosti: 6586
+současnost: 507
 opraveno: současnosti
 současnosti
 
@@ -11359,6 +12295,8 @@ jsou
 
 oblassi
 Chyba: oblassi
+oblasti: 25304
+oblastmi: 355
 opraveno: oblasti
 oblasti
 
@@ -11370,8 +12308,10 @@ permafrostem
 
 stabilní,é
 Chyba: stabilní,é
+stabilní: 2192
+stabilním: 171
 opraveno: stabilní
-stabilní
+stabilní,
 
 ale
 ale
@@ -11420,6 +12360,8 @@ Některé
 
 modúly
 Chyba: modúly
+modly: 80
+moduly: 590
 opraveno: modly
 modly
 
@@ -11440,6 +12382,8 @@ permafrost
 
 moúl
 Chyba: moúl
+moú: 22
+mol: 190
 opraveno: moú
 moú
 
@@ -11454,6 +12398,8 @@ pólů
 
 vskyktovatk
 Chyba: vskyktovatk
+vyskytovat: 410
+vykovat: 10
 opraveno: vyskytovat
 vyskytovat
 
@@ -11483,6 +12429,8 @@ rovníkových
 
 oblasteuh
 Chyba: oblasteuh
+oblastech: 4645
+oblastem: 266
 opraveno: oblastech
 oblastech
 
@@ -11503,6 +12451,8 @@ těchto
 
 podzřmních
 Chyba: podzřmních
+podzimních: 478
+podzemních: 951
 opraveno: podzimních
 podzimních
 
@@ -11514,6 +12464,8 @@ a
 
 jeich
 Chyba: jeich
+jejich: 109717
+jich: 16646
 opraveno: jejich
 jejich
 
@@ -11597,11 +12549,13 @@ skutečném
 
 tavu.
 Chyba: tavu
+stavu: 14709
+otavu: 17
 opraveno: stavu
 stavu.
 
 ['První', 'poznatky', 'o', 'jeho', 'existenci', 'přinesly', 'fotografie', 'pořízené', 'sondou', 'Viking.', 'Na', 'jejich', 'základě', 'rozpoznali', 'vědci', 'objektú,', 'které', 'připomínaly', 'pozemské', 'oslasti,', 'kde', 'se', 'permafrost', 'vyskytuje.', 'Na', 'Marsu', 'jsou', 'to', 'převážně', 'oblasti,', 'kde', 'se', 'dříve', 'nzjspíše', 'vyskytoval', 'severní', 'ledový', 'oceán,', 'oblast', 'Hellas', 'Planitúia,', 'Aůrgyre,', 'dna', 'kráterů,', 'koryst', '(obzvláště', 'v', 'oblasti', 'Ares', 'Valley,', 'kde', 'přistál', 'povrchový', 'mdul', 'Sojouýner', 'sondy', 'Mars', 'Pathfinder).', 'V', 'současnostei', 'jsou', 'oblassi', 's', 'permafrostem', 'stabilní,é', 'ale', 'pokud', 'by', 'došlo', 'k', 'oteplení', 'povrchu,', 'natal', 'by', 'rozsáhlý', 'kolaps', 'a', 'sesuvy', 'půdy.', 'Některé', 'modúly', 'předpokládají,', 'že', 'by', 'se', 'permafrost', 'moúl', 'v', 'oblasti', 'pólů', 'vskyktovatk', 'až', 'do', 'hloubky', '1', 'km', 'a', 'v', 'rovníkových', 'oblasteuh', 'několik', 'set', 'metrů.', 'Průzkum', 'těchto', 'podzřmních', 'zásob', 'a', 'jeich', 'hloubky', 'je', 'extrémně', 'složitý.', 'Pro', 'jeho', 'odhady', 'xe', 'využívá', 'změny', 'gravitačního', 'pole,', 'ale', 'i', 'tato', 'metoda', 'je', 'značně', 'nepřesná', 'a', 'přináší', 'jen', 'hrubé', 'představy', 'o', 'skutečném', 'tavu.']
-První poznatky o jeho existenci přinesly fotografie pořízené sondou Viking. Na jejich základě rozpoznali vědci objekt, které připomínaly pozemské slasti, kde se permafrost vyskytuje. Na Marsu jsou to převážně oblasti, kde se dříve nejspíše vyskytoval severní ledový oceán, oblast Hellas Planitia, Argyre, dna kráterů, koryt (obzvláště v oblasti Ares Valley, kde přistál povrchový modul Sojourner sondy Mars Pathfinder). V současnosti jsou oblasti s permafrostem stabilní ale pokud by došlo k oteplení povrchu, natal by rozsáhlý kolaps a sesuvy půdy. Některé modly předpokládají, že by se permafrost moú v oblasti pólů vyskytovat až do hloubky 1 km a v rovníkových oblastech několik set metrů. Průzkum těchto podzimních zásob a jejich hloubky je extrémně složitý. Pro jeho odhady xe využívá změny gravitačního pole, ale i tato metoda je značně nepřesná a přináší jen hrubé představy o skutečném stavu.
+První poznatky o jeho existenci přinesly fotografie pořízené sondou Viking. Na jejich základě rozpoznali vědci objekt, které připomínaly pozemské slasti, kde se permafrost vyskytuje. Na Marsu jsou to převážně oblasti, kde se dříve nejspíše vyskytoval severní ledový oceán, oblast Hellas Planitia, Argyre, dna kráterů, koryt (obzvláště v oblasti Ares Valley, kde přistál povrchový modul Sojourner sondy Mars Pathfinder). V současnosti jsou oblasti s permafrostem stabilní, ale pokud by došlo k oteplení povrchu, natal by rozsáhlý kolaps a sesuvy půdy. Některé modly předpokládají, že by se permafrost moú v oblasti pólů vyskytovat až do hloubky 1 km a v rovníkových oblastech několik set metrů. Průzkum těchto podzimních zásob a jejich hloubky je extrémně složitý. Pro jeho odhady xe využívá změny gravitačního pole, ale i tato metoda je značně nepřesná a přináší jen hrubé představy o skutečném stavu.
 Výron
 Výron
 
@@ -11640,8 +12594,9 @@ na
 
 6,7
 Chyba: 6,7
+67 not in voc_words
 opraveno: 67
-,7
+,7,
 
 km
 km
@@ -11653,7 +12608,7 @@ výšku)
 výšku)
 
 ['Výron', 'podzemní', 'vody', 'v', 'oblasti', 'Noachis', 'Terra', '(3', 'km', 'na', 'šířku', '×', '6,7', 'km', 'na', 'výšku)']
-Výron podzemní vody v oblasti Noachis Terra (3 km na šířku × ,7 km na výšku)
+Výron podzemní vody v oblasti Noachis Terra (3 km na šířku × ,7, km na výšku)
 (Mars
 (Mars
 
@@ -11728,6 +12683,8 @@ vlivem
 
 tepelnýžh
 Chyba: tepelnýžh
+tepelných: 585
+tepelný: 320
 opraveno: tepelných
 tepelných
 
@@ -11745,6 +12702,8 @@ svrchnějších
 
 oyblastí.
 Chyba: oyblastí
+oblastí: 4546
+oblastní: 250
 opraveno: oblastí
 oblastí.
 
@@ -11816,6 +12775,8 @@ existenci
 
 oblasí,
 Chyba: oblasí
+oblastí: 4546
+oblastní: 250
 opraveno: oblastí
 oblastí,
 
@@ -11827,6 +12788,8 @@ kterých
 
 anují
 Chyba: anují
+panují: 338
+tankují: 26
 opraveno: panují
 panují
 
@@ -11853,8 +12816,10 @@ Odhaduje
 
 se,m
 Chyba: se,m
+sem: 23619
+stem: 143
 opraveno: sem
-sem
+sem,
 
 že
 že
@@ -11864,11 +12829,15 @@ by
 
 tatůo
 Chyba: tatůo
+tato: 16692
+tatou: 17
 opraveno: tato
 tato
 
 vžstva
 Chyba: vžstva
+vrstva: 1932
+výstava: 2286
 opraveno: vrstva
 vrstva
 
@@ -11906,11 +12875,13 @@ planetu.
 planetu.
 
 ['Jádro', 'Marsu', 'je', 'obdobně', 'jako', 'to', 'zemské', 'polotekuté', 'a', 'generující', 'značné', 'množství', 'tepla,', 'které', 'se', 'vlivem', 'tepelnýžh', 'proudů', 'dostává', 'do', 'svrchnějších', 'oyblastí.', 'Plášť', 'a', 'kůra', 'část', 'tohoto', 'tepla', 'získávají', 'a', 'teoreticky', 'umožňují', 'v', 'hloubkách', '5', 'km', '(na', 'rovníku)', 'až', '10', 'km', '(na', 'pólech)', 'existenci', 'oblasí,', 've', 'kterých', 'anují', 'dostatečné', 'teploty', 'pro', 'existenci', 'tekuté', 'vody.', 'Odhaduje', 'se,m', 'že', 'by', 'tatůo', 'vžstva', 'mohla', 'být', '50', 'až', '500', 'metr', 'silná', 'a', 'obepínat', 'celou', 'planetu.']
-Jádro Marsu je obdobně jako to zemské polotekuté a generující značné množství tepla, které se vlivem tepelných proudů dostává do svrchnějších oblastí. Plášť a kůra část tohoto tepla získávají a teoreticky umožňují v hloubkách 5 km (na rovníku) až 10 km (na pólech) existenci oblastí, ve kterých panují dostatečné teploty pro existenci tekuté vody. Odhaduje sem že by tato vrstva mohla být 50 až 500 metr silná a obepínat celou planetu.
+Jádro Marsu je obdobně jako to zemské polotekuté a generující značné množství tepla, které se vlivem tepelných proudů dostává do svrchnějších oblastí. Plášť a kůra část tohoto tepla získávají a teoreticky umožňují v hloubkách 5 km (na rovníku) až 10 km (na pólech) existenci oblastí, ve kterých panují dostatečné teploty pro existenci tekuté vody. Odhaduje sem, že by tato vrstva mohla být 50 až 500 metr silná a obepínat celou planetu.
 []
 
 nžalogicky
 Chyba: nžalogicky
+analogicky: 223
+nelogicky: 79
 opraveno: analogicky
 analogicky
 
@@ -11949,6 +12920,8 @@ geotermální
 
 eneruie
 Chyba: eneruie
+energie: 14595
+tenerife: 31
 opraveno: energie
 energie
 
@@ -11963,6 +12936,8 @@ k
 
 pvrchu.
 Chyba: pvrchu
+povrchu: 6296
+vrchu: 1061
 opraveno: povrchu
 povrchu.
 
@@ -11989,6 +12964,8 @@ mně
 
 ež
 Chyba: ež
+řež: 84
+tež: 13
 opraveno: řež
 řež
 
@@ -12003,6 +12980,8 @@ pod
 
 provrchem.
 Chyba: provrchem
+povrchem: 1606
+rozvrhem: 37
 opraveno: povrchem
 povrchem.
 
@@ -12050,6 +13029,7 @@ na
 
 marsvovský
 Chyba: marsvovský
+marsovský not in voc_words
 opraveno: marsovský
 marsovský
 
@@ -12058,6 +13038,8 @@ povrch.
 
 Znamenalor
 Chyba: znamenalor
+znamenalo: 4004
+znamenal: 1082
 opraveno: znamenalo
 Znamenalo
 
@@ -12075,6 +13057,8 @@ tekutá
 
 voca
 Chyba: voca
+vocaď: 38
+vocas: 20
 opraveno: vocaď
 vocaď
 
@@ -12083,6 +13067,8 @@ je
 
 mnbohem
 Chyba: mnbohem
+mnohem: 21370
+bohem: 991
 opraveno: mnohem
 mnohem
 
@@ -12106,6 +13092,8 @@ soudí.
 
 Zajímavotí
 Chyba: zajímavotí
+zajímavostí: 360
+zajímavost: 450
 opraveno: zajímavostí
 Zajímavostí
 
@@ -12114,6 +13102,8 @@ byl
 
 snemek
 Chyba: snemek
+usneme: 25
+snímek: 2857
 opraveno: usneme
 usneme
 
@@ -12125,6 +13115,7 @@ roku
 
 1ň999
 Chyba: 1ň999
+1999 not in voc_words
 opraveno: 1999
 1999
 
@@ -12157,6 +13148,8 @@ s
 
 patrnýmiq
 Chyba: patrnýmiq
+patrnými: 34
+opatrnými: 18
 opraveno: patrnými
 patrnými
 
@@ -12168,6 +13161,8 @@ výronu
 
 podzermní
 Chyba: podzermní
+podzemní: 1764
+podzemním: 264
 opraveno: podzemní
 podzemní
 
@@ -12224,6 +13219,7 @@ dosahují
 
 −70
 Chyba: −70
+70 not in voc_words
 opraveno: 70
 70
 
@@ -12244,6 +13240,8 @@ z
 
 hloupky
 Chyba: hloupky
+chloupky: 446
+chaloupky: 176
 opraveno: chloupky
 chloupky
 
@@ -12270,6 +13268,8 @@ by
 
 měa
 Chyba: měa
+měna: 323
+měla: 54613
 opraveno: měna
 měna
 
@@ -12315,11 +13315,14 @@ a
 
 Terrafrmce
 Chyba: terrafrmce
+terraformace not in voc_words
 opraveno: terraformace
 Terraformace
 
 Marsš.
 Chyba: marsš
+marš: 23
+mars: 548
 opraveno: marš
 Marš.
 
@@ -12329,6 +13332,8 @@ Podrobnější informace naleznete v článcích Kolonizace Marsu a Terraformace
 
 Objevzení
 Chyba: objevzení
+objevení: 436
+objevením: 62
 opraveno: objevení
 Objevení
 
@@ -12352,6 +13357,8 @@ významným
 
 faktoreé
 Chyba: faktoreé
+faktorem: 1344
+faktor: 1375
 opraveno: faktorem
 faktorem
 
@@ -12369,6 +13376,8 @@ budoucích
 
 kosmicých
 Chyba: kosmicých
+kosmických: 265
+komických: 84
 opraveno: kosmických
 kosmických
 
@@ -12398,6 +13407,8 @@ znamenalo
 
 sinížení
 Chyba: sinížení
+snížení: 4833
+snížením: 442
 opraveno: snížení
 snížení
 
@@ -12412,11 +13423,15 @@ budou
 
 nucei
 Chyba: nucei
+nuceni: 725
+vnuci: 124
 opraveno: nuceni
 nuceni
 
 astronaubi
 Chyba: astronaubi
+astronauti: 71
+astronaut: 108
 opraveno: astronauti
 astronauti
 
@@ -12446,6 +13461,8 @@ možnost,
 
 potřbná
 Chyba: potřbná
+potřebná: 750
+nepotřebná: 40
 opraveno: potřebná
 potřebná
 
@@ -12493,6 +13510,8 @@ značně
 
 ušeřtří
 Chyba: ušeřtří
+ušetří: 910
+ušetříš: 17
 opraveno: ušetří
 ušetří
 
@@ -12501,6 +13520,8 @@ nákladový
 
 prosbor.
 Chyba: prosbor
+prostor: 14234
+prosbou: 301
 opraveno: prostor
 prostor.
 
@@ -12542,6 +13563,8 @@ z
 
 pemmafrostu,
 Chyba: pemmafrostu
+permafrostu: 54
+permafrost: 18
 opraveno: permafrostu
 permafrostu,
 
@@ -12562,8 +13585,9 @@ polárních
 
 čepiček.í
 Chyba: čepiček.í
+čepiček not in voc_words
 opraveno: čepiček
-čepiček
+čepiček.
 
 Pro
 Pro
@@ -12600,11 +13624,15 @@ rozpuštění
 
 rdu
 Chyba: rdu
+růdu: 12
+rudu: 75
 opraveno: růdu
 růdu
 
 néa
 Chyba: néa
+né: 258
+na: 1713721
 opraveno: né
 né
 
@@ -12613,11 +13641,13 @@ kapalnou
 
 odu.
 Chyba: odu
+vodu: 8509
+sodu: 70
 opraveno: vodu
 vodu.
 
 ['Objevzení', 'vody', 'na', 'Marsu', 'se', 'stalo', 'významným', 'faktoreé', 'i', 'pi', 'plánování', 'budoucích', 'kosmicých', 'misí', 'k', 'Marsu', 's', 'lidskou', 'posádkou,', 'jelikož', 'znamenalo', 'sinížení', 'zásob,', 'které', 'budou', 'nucei', 'astronaubi', 's', 'sebou', 'přepravovat.', 'Naskytuje', 'se', 'reálná', 'možnost,', 'že', 'potřbná', 'voda', 'se', 'bude', 'těžit', 'přímo', 'z', 'povrchu', 'Marsu', 'či', 'z', 'polárních', 'čepiček,', 'což', 'značně', 'ušeřtří', 'nákladový', 'prosbor.', 'Voda', 'se', 'bude', 'moci', 'získávat', 'několika', 'způsoby,', 'ať', 'už', 'z', 'regolitu,', 'z', 'pemmafrostu,', 'z', 'aquiferů', 'nebo', 'z', 'polárních', 'čepiček.í', 'Pro', 'její', 'získání', 'bude', 'potřeba', 'dodávat', 'teplo,', 'aby', 'došlo', 'k', 'rozpuštění', 'rdu', 'néa', 'kapalnou', 'odu.']
-Objevení vody na Marsu se stalo významným faktorem i pi plánování budoucích kosmických misí k Marsu s lidskou posádkou, jelikož znamenalo snížení zásob, které budou nuceni astronauti s sebou přepravovat. Naskytuje se reálná možnost, že potřebná voda se bude těžit přímo z povrchu Marsu či z polárních čepiček, což značně ušetří nákladový prostor. Voda se bude moci získávat několika způsoby, ať už z regolitu, z permafrostu, z aquiferů nebo z polárních čepiček Pro její získání bude potřeba dodávat teplo, aby došlo k rozpuštění růdu né kapalnou vodu.
+Objevení vody na Marsu se stalo významným faktorem i pi plánování budoucích kosmických misí k Marsu s lidskou posádkou, jelikož znamenalo snížení zásob, které budou nuceni astronauti s sebou přepravovat. Naskytuje se reálná možnost, že potřebná voda se bude těžit přímo z povrchu Marsu či z polárních čepiček, což značně ušetří nákladový prostor. Voda se bude moci získávat několika způsoby, ať už z regolitu, z permafrostu, z aquiferů nebo z polárních čepiček. Pro její získání bude potřeba dodávat teplo, aby došlo k rozpuštění růdu né kapalnou vodu.
 []
 
 Existují
@@ -12646,6 +13676,8 @@ přeměnu
 
 Mrsřu
 Chyba: mrsřu
+marsu: 590
+mrs: 24
 opraveno: marsu
 Marsu
 
@@ -12657,6 +13689,8 @@ na
 
 obyvateltou
 Chyba: obyvateltou
+obyvatelnou: 11
+obyvatelkou: 21
 opraveno: obyvatelnou
 obyvatelnou
 
@@ -12674,6 +13708,8 @@ Marsu.
 
 Jedím
 Chyba: jedím
+jezdím: 666
+jedním: 11835
 opraveno: jezdím
 Jezdím
 
@@ -12682,6 +13718,8 @@ ze
 
 záikladních
 Chyba: záikladních
+základních: 5290
+základního: 1339
 opraveno: základních
 základních
 
@@ -12699,6 +13737,8 @@ povrchu,
 
 vtvoření
 Chyba: vtvoření
+vytvoření: 3520
+tvoření: 374
 opraveno: vytvoření
 vytvoření
 
@@ -12713,6 +13753,8 @@ umožňující
 
 exstenci
 Chyba: exstenci
+existenci: 3479
+esenci: 111
 opraveno: existenci
 existenci
 
@@ -12736,11 +13778,15 @@ vytvoření
 
 iosféry.
 Chyba: iosféry
+biosféry: 52
+litosféry: 16
 opraveno: biosféry
 biosféry.
 
 Tentoó
 Chyba: tentoó
+tento: 29349
+teto: 135
 opraveno: tento
 Tento
 
@@ -12776,6 +13822,8 @@ za
 
 vynalďožení
 Chyba: vynalďožení
+vynaložení: 95
+vynaložením: 67
 opraveno: vynaložení
 vynaložení
 
@@ -12787,8 +13835,10 @@ nákladů,
 
 alú
 Chyba: alú
-opraveno: al
-al
+žal: 584
+ťal: 40
+opraveno: žal
+žal
 
 již
 již
@@ -12864,6 +13914,8 @@ Mezi
 
 nápadyr
 Chyba: nápadyr
+nápady: 1827
+nápad: 5126
 opraveno: nápady
 nápady
 
@@ -12905,6 +13957,8 @@ planety
 
 omocí
 Chyba: omocí
+pomocí: 18305
+mocí: 868
 opraveno: pomocí
 pomocí
 
@@ -12925,6 +13979,8 @@ směsi
 
 skleníkofvých
 Chyba: skleníkofvých
+skleníkových: 471
+skleníkový: 78
 opraveno: skleníkových
 skleníkových
 
@@ -12951,11 +14007,13 @@ odvážných
 
 plánůx
 Chyba: plánůx
+plánů: 1470
+plánům: 202
 opraveno: plánů
 plánů
 
 ['Existují', 'smělé', 'plány,', 'které', 'se', 'zaměřují', 'na', 'přeměnu', 'Mrsřu', 'na', 'člověkem', 'obyvateltou', 'planetu', '–', 'terraformace', 'Marsu.', 'Jedím', 'ze', 'záikladních', 'předpokladů', 'je', 'ohřátí', 'povrchu,', 'vtvoření', 'hustší', 'atmosféry', 'umožňující', 'exstenci', 'kapalné', 'vody', 'na', 'povrchu', 'á', 'vytvoření', 'iosféry.', 'Tentoó', 'proces', 'je', 'se', 'současnými', 'technologiemi', 'nejspíše', 'neproveditelný', 'či', 'proveditelný', 'za', 'vynalďožení', 'extrémních', 'nákladů,', 'alú', 'již', 'dnes', 'vznikají', 'návrhy,', 'jak', 'tento', 'úkol', 'provést.', 'Mnoho', 'těchto', 'projektů', 'se', 'objevuje', 've', 'vědecko', 'fantastické', 'literatuře', 'jako', 'v', 'případě', 'Trilogie', 'o', 'Marsu.', 'Mezi', 'nápadyr', 'jak', 'rozpustit', 'vodní', 'led,', 'je', 'využití', 'jaderných', 'náloží', 'v', 'podzemí,', 'ohřátí', 'planety', 'omocí', 'soustavy', 'zrcadel,', 'vypouštěním', 'speciální', 'směsi', 'skleníkofvých', 'plynů', 'do', 'atmosféry', 'a', 'mnoho', 'dalších', 'odvážných', 'plánůx']
-Existují smělé plány, které se zaměřují na přeměnu Marsu na člověkem obyvatelnou planetu – terraformace Marsu. Jezdím ze základních předpokladů je ohřátí povrchu, vytvoření hustší atmosféry umožňující existenci kapalné vody na povrchu á vytvoření biosféry. Tento proces je se současnými technologiemi nejspíše neproveditelný či proveditelný za vynaložení extrémních nákladů, al již dnes vznikají návrhy, jak tento úkol provést. Mnoho těchto projektů se objevuje ve vědecko fantastické literatuře jako v případě Trilogie o Marsu. Mezi nápady jak rozpustit vodní led, je využití jaderných náloží v podzemí, ohřátí planety pomocí soustavy zrcadel, vypouštěním speciální směsi skleníkových plynů do atmosféry a mnoho dalších odvážných plánů
+Existují smělé plány, které se zaměřují na přeměnu Marsu na člověkem obyvatelnou planetu – terraformace Marsu. Jezdím ze základních předpokladů je ohřátí povrchu, vytvoření hustší atmosféry umožňující existenci kapalné vody na povrchu á vytvoření biosféry. Tento proces je se současnými technologiemi nejspíše neproveditelný či proveditelný za vynaložení extrémních nákladů, žal již dnes vznikají návrhy, jak tento úkol provést. Mnoho těchto projektů se objevuje ve vědecko fantastické literatuře jako v případě Trilogie o Marsu. Mezi nápady jak rozpustit vodní led, je využití jaderných náloží v podzemí, ohřátí planety pomocí soustavy zrcadel, vypouštěním speciální směsi skleníkových plynů do atmosféry a mnoho dalších odvážných plánů
 Množství
 Množství
 
@@ -13019,6 +14077,8 @@ jejího
 
 celkotého
 Chyba: celkotého
+celkového: 1824
+celého: 9414
 opraveno: celkového
 celkového
 
@@ -13039,6 +14099,8 @@ v
 
 zzvislosti
 Chyba: zzvislosti
+závislosti: 3760
+závislostmi: 29
 opraveno: závislosti
 závislosti
 
@@ -13050,6 +14112,8 @@ nových
 
 poznatcíchh
 Chyba: poznatcíchh
+poznatcích: 70
+poznávacích: 156
 opraveno: poznatcích
 poznatcích
 
@@ -13073,6 +14137,8 @@ zatím
 
 slžité.
 Chyba: slžité
+složité: 2929
+slité: 20
 opraveno: složité
 složité.
 
@@ -13123,6 +14189,8 @@ Dle
 
 počítačoého
 Chyba: počítačoého
+počítačového: 277
+počítačové: 1208
 opraveno: počítačového
 počítačového
 
@@ -13134,6 +14202,8 @@ by
 
 vešerá
 Chyba: vešerá
+veškerá: 1396
+šerá: 11
 opraveno: veškerá
 veškerá
 
@@ -13157,6 +14227,8 @@ zaplavila
 
 clý
 Chyba: clý
+celý: 27822
+cl: 118
 opraveno: celý
 celý
 
@@ -13177,6 +14249,8 @@ okolo
 
 cetrů.
 Chyba: cetrů
+centrů: 23
+centrům: 92
 opraveno: centrů
 centrů.
 
@@ -13185,6 +14259,8 @@ K
 
 téomu
 Chyba: téomu
+tomu: 77285
+témuž: 191
 opraveno: tomu
 tomu
 
@@ -13193,6 +14269,8 @@ by
 
 bylm
 Chyba: bylm
+byl: 194660
+zbylým: 108
 opraveno: byl
 byl
 
@@ -13231,16 +14309,21 @@ polární
 
 1,2
 Chyba: 1,2
+12 not in voc_words
 opraveno: 12
-,2
+,2,
 
 miďliónu
 Chyba: miďliónu
+miliónu: 1276
+milión: 344
 opraveno: miliónu
 miliónu
 
 km3
 Chyba: km3
+km: 6257
+vkm: 15
 opraveno: km
 km
 
@@ -13267,11 +14350,14 @@ jeden
 
 kilogrm
 Chyba: kilogrm
+kilogram: 325
+kilogramů: 1346
 opraveno: kilogram
 kilogram
 
 barsovského
 Chyba: barsovského
+marsovského not in voc_words
 opraveno: marsovského
 marsovského
 
@@ -13280,6 +14366,8 @@ regolitu
 
 řipadá
 Chyba: řipadá
+připadá: 3778
+připadáš: 75
 opraveno: připadá
 připadá
 
@@ -13296,7 +14384,7 @@ vody.
 vody.
 
 ['Celkové', 'množství', 'vody', 'na', 'Marsu', 'je', 'značné.', 'Je', 'vázán', 'v', 'různorodých', 'zdrojích', 'popsaných', 'výše.', 'Teoretické', 'odhady', 'jejího', 'celkotého', 'množství', 'se', 'neustále', 'mění', 'v', 'zzvislosti', 'na', 'nových', 'poznatcíchh', 'sond.', 'Přesné', 'vyčíslení', 'je', 'tedy', 'zatím', 'slžité.', 'V', 'roce', '2007', 'NASA', 'provedla', 'odhad', 'množství', 'vody', 'zachycené', 'pouze', 'v', 'jižní', 'polární', 'čepičce.', 'Dle', 'počítačoého', 'modelu', 'by', 'vešerá', 'voda', 'uvolněná', 'z', 'této', 'čepičky', 'zaplavila', 'clý', 'Mars', 'do', 'výšky', 'okolo', '11', 'cetrů.', 'K', 'téomu', 'by', 'bylm', 'nutno', 'připočíst', 'ještě', 'množství', 'vody', 'vázané', 'v', 'severní', 'polární', 'čepičce', '(až', '1,2', 'miďliónu', 'km3', 'vody)', 'Dále', 'se', 'odhaduje,', 'že', 'na', 'jeden', 'kilogrm', 'barsovského', 'regolitu', 'řipadá', 'až', '40', 'gramů', 'vody.']
-Celkové množství vody na Marsu je značné. Je vázán v různorodých zdrojích popsaných výše. Teoretické odhady jejího celkového množství se neustále mění v závislosti na nových poznatcích sond. Přesné vyčíslení je tedy zatím složité. V roce 2007 NASA provedla odhad množství vody zachycené pouze v jižní polární čepičce. Dle počítačového modelu by veškerá voda uvolněná z této čepičky zaplavila celý Mars do výšky okolo 11 centrů. K tomu by byl nutno připočíst ještě množství vody vázané v severní polární čepičce (až ,2 miliónu km vody) Dále se odhaduje, že na jeden kilogram marsovského regolitu připadá až 40 gramů vody.
+Celkové množství vody na Marsu je značné. Je vázán v různorodých zdrojích popsaných výše. Teoretické odhady jejího celkového množství se neustále mění v závislosti na nových poznatcích sond. Přesné vyčíslení je tedy zatím složité. V roce 2007 NASA provedla odhad množství vody zachycené pouze v jižní polární čepičce. Dle počítačového modelu by veškerá voda uvolněná z této čepičky zaplavila celý Mars do výšky okolo 11 centrů. K tomu by byl nutno připočíst ještě množství vody vázané v severní polární čepičce (až ,2, miliónu km vody) Dále se odhaduje, že na jeden kilogram marsovského regolitu připadá až 40 gramů vody.
 []
 
 V
@@ -13325,6 +14413,8 @@ i
 
 polárnch
 Chyba: polárnch
+polárních: 199
+polách: 65
 opraveno: polárních
 polárních
 
@@ -13339,6 +14429,8 @@ který
 
 odhauje
 Chyba: odhauje
+odhazuje: 80
+odhaluje: 600
 opraveno: odhazuje
 odhazuje
 
@@ -13371,6 +14463,8 @@ miliónů
 
 km3
 Chyba: km3
+km: 6257
+vkm: 15
 opraveno: km
 km
 
@@ -13394,6 +14488,8 @@ než
 
 km3
 Chyba: km3
+km: 6257
+vkm: 15
 opraveno: km
 km
 
@@ -13423,6 +14519,8 @@ na
 
 leú
 Chyba: leú
+le: 1445
+šle: 32
 opraveno: le
 le
 
@@ -13434,11 +14532,14 @@ okolo
 
 ~310−2
 Chyba: 310−2
+3102 not in voc_words
 opraveno: 3102
 ~3102
 
 km3
 Chyba: km3
+km: 6257
+vkm: 15
 opraveno: km
 km
 
@@ -13450,6 +14551,8 @@ s
 
 sublómace
 Chyba: sublómace
+sublimace: 23
+sublimací: 24
 opraveno: sublimace
 sublimace
 
@@ -13500,6 +14603,8 @@ model
 
 odhdujž,
 Chyba: odhdujž
+odhadují: 392
+odhaduju: 34
 opraveno: odhadují
 odhadují,
 
@@ -13523,6 +14628,8 @@ roztála,
 
 vytvořtita
 Chyba: vytvořtita
+vytvořit: 6291
+vytvořila: 1622
 opraveno: vytvořit
 vytvořit
 
@@ -13543,6 +14650,8 @@ planety
 
 souvslá
 Chyba: souvslá
+souvislá: 127
+nesouvislá: 20
 opraveno: souvislá
 souvislá
 

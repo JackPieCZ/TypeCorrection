@@ -21,15 +21,20 @@ def find_all(s, ch): #finding all accurences
 
 
 file1=os.path.join(here, "syn2015_word_utf8.tsv") #set path for vocabulary
-vocabulary = open(file1, "r", encoding="utf8")
-voc=[]
-raw_line = vocabulary.readline()
+voc_file = open(file1, "r", encoding="utf8")
+voc_words = []
+voc_freq = {}
+raw_line = voc_file.readline()
+current_line=1
 while raw_line: #reading line by line and taking the second item (after tab)
-	split_line=re.split(r'\t+', raw_line)
-	voc.append(split_line[1].lower())
-	raw_line=vocabulary.readline()
-for i in range(0,20000): #adding numbers
-	voc.append(str(i))
+    split_line=re.split(r'\t+', raw_line)
+    voc_words.append(split_line[1].lower())
+    if split_line[1].lower() not in voc_freq:
+        voc_freq.update({split_line[1].lower(): split_line[2]})
+    raw_line = voc_file.readline()
+voc_words = list(dict.fromkeys(voc_words)) #removing duplicates
+for i in range(20000):
+    voc_words.append(str(i))
 
 file2=os.path.join(here,"voda_errors.txt") #path for file to correct
 file_chyby = open(file2, "r", encoding="utf8")
@@ -48,14 +53,13 @@ user_slovnik = ['abode', 'aquifer', 'aquiferů', 'argyre', 'anody','bazaltovém'
 "sureyor",'surveyor', 'svahového', 'svrchnějších', 'terraformace', 'transportované', 'trojného', 'ustávání', 'vallis', 'vastitas', 
 'vysočin', 'vysočinami', 'vysychajících','whewell', 'zarovnány', 'zařezávání', 'zbrázděn', 'zlomkovou'] #special words that are missing in voc
 for wd in user_slovnik:
-	voc.append(wd)
+	voc_words.append(wd)
 restricted_slovnik = ["ktoré","proc","al","sita","vz","onda","tri","dísy","peyo","tk","leem","dě","anody"] #removing some confusing words
 for wd in restricted_slovnik:
 	try:
-		voc.remove(wd)
+		voc_words.remove(wd)
 	except:
 		pass
-voc = list(dict.fromkeys(voc)) #removing duplicates
 
 file3=os.path.join(here,"voda_opraveno.txt") #path for final correct file
 file_opraveno = open(file3, "w", encoding="utf8")
@@ -99,14 +103,24 @@ for veta in na_opravu:
             index_cap+=1
         slovo = slovo.lower()
         
-        if slovo not in voc:
+        if slovo not in voc_words:
             if (slovo.isnumeric() is False) and ("×" not in slovo):
                 if len(slovo)==0:
                     slovo=""
                 else:
                     print("Chyba: "+slovo, file=file_out)
-                    oprava = difflib.get_close_matches(slovo, voc, n=1)
+                    oprava = difflib.get_close_matches(slovo, voc_words, n=2)
                     slovo=oprava[0]
+                    try:
+                        print(oprava[0]+": "+ voc_freq.get(oprava[0]), file=file_out)
+                        print(oprava[1]+": "+ voc_freq.get(oprava[1]), file=file_out)
+                        """if int(voc_freq.get(oprava[1])) > int(voc_freq.get(oprava[0])):
+                            print("Slovo změněno z "+oprava[0]+" na "+oprava[1], file=file_out)
+                            slovo = oprava[1]"""
+                    except TypeError:
+                        print(oprava[0]+" not in voc_words", file=file_out)
+                    except IndexError:
+                        pass
                     print("opraveno: "+slovo, file=file_out)
         
         slovo = prefix + slovo + sufix
