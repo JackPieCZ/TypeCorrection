@@ -68,6 +68,9 @@ file_out = open(file4, "w", encoding="utf8")
 veta_now = 0
 veta_all = len(na_opravu)
 """
+#možnost využít API MFF pro korektor vět
+#funguje hůř než současná verze skriptu - proto je odkomentovaná
+
 na_opravu2 = []
 for veta in na_opravu:
     veta_now +=1
@@ -92,13 +95,13 @@ for veta in na_opravu:
     split_veta=veta.split()
     for slovo in split_veta:
         print(slovo, file=file_out)
-        capitals = []
+        capitals = [] #indexy písmen které jsou velkými písmeny
         index_cap = 0
         prefix = ""
         sufix = ""
         spec_znaky = "().,?!;:…„“–-×%=~°'−"
         slovo_raw = slovo
-        for ch in slovo:
+        for ch in slovo:  #odstranění speciálních znaků na začátku slova
             if ch in spec_znaky:
                 prefix=prefix+ch
             else:
@@ -109,7 +112,7 @@ for veta in na_opravu:
             print("prefix: "+prefix, file=file_out)
         slovo = slovo.replace(prefix,"")
         if len(slovo)>1:
-            for ch in slovo[::-1]:
+            for ch in slovo[::-1]: #odstranění speciálních znaků na konci slova
                 if ch in spec_znaky:
                     sufix=sufix+ch
                 else:
@@ -121,7 +124,7 @@ for veta in na_opravu:
             print("sufix: "+sufix, file=file_out)
         slovo = slovo.replace(sufix,"")
         
-        for ch in slovo:
+        for ch in slovo: #hledání velkých písmen
             if ch.istitle():
                 capitals.append(index_cap)
             index_cap+=1
@@ -129,27 +132,29 @@ for veta in na_opravu:
         print("Capitals: "+str(capitals), file=file_out)
         
         if slovo not in voc_words:
-            if (slovo.isnumeric() is False) and ("×" not in slovo):
+            if (slovo.isnumeric() is False) and ("×" not in slovo): #např 3x3, 16x10,...
                 slovo_test = slovo.replace(",","")
-                if slovo_test.isnumeric() is False:
+                if slovo_test.isnumeric() is False: #např 10,8; 3,3;...
                     if len(slovo)==0:
                         slovo=""
                     else:
                         print("Chyba: "+slovo, file=file_out)
                         oprava = difflib.get_close_matches(slovo, voc_words, n=2)
                         try:
-                            slovo=oprava[0]
+                            slovo=oprava[0] #nejvíc vyhovující slovo
                             print(oprava[0]+": "+ voc_freq.get(oprava[0]), file=file_out)
-                            print(oprava[1]+": "+ voc_freq.get(oprava[1]), file=file_out)
-                            #if int(voc_freq.get(oprava[1])) > int(voc_freq.get(oprava[0])):
-                                #print("Slovo změněno z "+oprava[0]+" na "+oprava[1], file=file_out)
-                                #slovo = oprava[1]
+                            print(oprava[1]+": "+ voc_freq.get(oprava[1]), file=file_out) #druhé nejvíc vyhovující slovo
+                            """
+                            #možnost nahradit slovo druhým nejvíc vyhovujícím slovem pokud je častější (nefunguje dobře ve všech případech)
+                            if int(voc_freq.get(oprava[1])) > int(voc_freq.get(oprava[0])):
+                                print("Slovo změněno z "+oprava[0]+" na "+oprava[1], file=file_out) 
+                                slovo = oprava[1]"""
                         except TypeError:
                             print(oprava[0]+" not in voc_words", file=file_out)
                         except IndexError:
                             pass
                         print("opraveno: "+slovo, file=file_out)
-        if capitals != []:
+        if capitals != []: #vracení velkých písmen
             for i in capitals:
                 if i == 0:
                     slovo = slovo[0].upper() +slovo[1:]
@@ -157,7 +162,7 @@ for veta in na_opravu:
                     if len(slovo)>1:
                         slovo = slovo[:i] + slovo[i].upper() + slovo[i+1:]
 
-        slovo = prefix + slovo + sufix
+        slovo = prefix + slovo + sufix #vracení speciálních znaků
 
         print(slovo, file=file_out)
         print("", file=file_out)
