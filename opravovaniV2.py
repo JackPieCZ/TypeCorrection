@@ -52,7 +52,7 @@ user_slovnik = ["3d",'abode', 'aquifer', 'aquiferů', 'argyre', 'anody','bazalto
 'vysočin', 'vysočinami', 'vysychajících','whewell', 'zarovnány', 'zařezávání', 'zbrázděn', 'zlomkovou'] #special words that are missing in voc
 for wd in user_slovnik:
 	voc_words.append(wd)
-restricted_slovnik = ["ktoré","proc","al","sita","vz","onda","tri","dísy","peyo","tk","leem","dě","anody"] #removing some confusing words
+restricted_slovnik = ["ktoré","proc","al","sita","vz","onda","tri","dísy","peyo","tk","leem","dě","anody","roc","race","tonda"] #removing some confusing words
 for wd in restricted_slovnik:
 	try:
 		voc_words.remove(wd)
@@ -134,14 +134,15 @@ for veta in na_opravu:
         if slovo not in voc_words:
             if (slovo.isnumeric() is False) and ("×" not in slovo): #např 3x3, 16x10,...
                 slovo_test = slovo.replace(",","")
-                if slovo_test.isnumeric() is False: #např 10,8; 3,3;...
+                slovo_test = slovo_test.replace("×","")
+                if slovo_test.isnumeric() is False: #např 10,8; 3x3;...
                     if len(slovo)==0:
                         slovo=""
                     else:
                         print("Chyba: "+slovo, file=file_out)
                         oprava = difflib.get_close_matches(slovo, voc_words, n=2)
                         try:
-                            slovo=oprava[0] #nejvíc vyhovující slovo
+                            novy_slovo=oprava[0] #nejvíc vyhovující slovo
                             print(oprava[0]+": "+ voc_freq.get(oprava[0]), file=file_out)
                             print(oprava[1]+": "+ voc_freq.get(oprava[1]), file=file_out) #druhé nejvíc vyhovující slovo
                             """
@@ -154,6 +155,10 @@ for veta in na_opravu:
                         except IndexError:
                             pass
                         print("opraveno: "+slovo, file=file_out)
+                        
+                        if slovo[-2]==".":
+                            novy_slovo+="."
+                        slovo = novy_slovo
         if capitals != []: #vracení velkých písmen
             for i in capitals:
                 if i == 0:

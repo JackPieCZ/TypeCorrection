@@ -27,7 +27,7 @@ Capitals: []
 Chyba: veškeuré
 veškeré: 5299
 veškerém: 49
-opraveno: veškeré
+opraveno: veškeuré
 veškeré
 
 vody,
@@ -77,7 +77,7 @@ Capitals: []
 Chyba: vnak
 vak: 325
 vaniak: 31
-opraveno: vak
+opraveno: vnak
 vak
 
 nemá
@@ -125,7 +125,7 @@ Capitals: []
 Chyba: odobném
 podobném: 700
 ozdobném: 15
-opraveno: podobném
+opraveno: odobném
 podobném
 
 pozemskému.
@@ -150,7 +150,7 @@ Capitals: []
 Chyba: ossáhlé
 obsáhlé: 213
 rozsáhlé: 1997
-opraveno: obsáhlé
+opraveno: ossáhlé
 obsáhlé
 
 oblasti
@@ -166,7 +166,7 @@ Capitals: []
 Chyba: vohdy
 vody: 23666
 úvody: 23
-opraveno: vody
+opraveno: vohdy
 vody
 
 v
@@ -311,7 +311,7 @@ Capitals: []
 Chyba: exisítenci
 existenci: 3479
 neexistenci: 125
-opraveno: existenci
+opraveno: exisítenci
 existenci
 
 kapalné
@@ -444,7 +444,7 @@ Capitals: [0]
 Chyba: manrsu
 marsu: 590
 mansu: 13
-opraveno: marsu
+opraveno: manrsu
 Marsu
 
 tekoucí
@@ -469,7 +469,7 @@ Capitals: []
 Chyba: vyskyovala
 vyskytovala: 128
 vyskytoval: 164
-opraveno: vyskytovala
+opraveno: vyskyovala
 vyskytovala,
 
 tvořeila
@@ -477,7 +477,7 @@ Capitals: []
 Chyba: tvořeila
 tvořila: 735
 utvořila: 90
-opraveno: tvořila
+opraveno: tvořeila
 tvořila
 
 ouvislěé
@@ -485,7 +485,7 @@ Capitals: []
 Chyba: ouvislěé
 souvislé: 229
 souvislém: 28
-opraveno: souvislé
+opraveno: ouvislěé
 souvislé
 
 vodní
@@ -555,7 +555,7 @@ Capitals: []
 Chyba: vodzy
 vozy: 2446
 vody: 23666
-opraveno: vozy
+opraveno: vodzy
 vozy
 
 na
@@ -587,7 +587,7 @@ Capitals: []
 Chyba: existje
 existuje: 8599
 existuješ: 28
-opraveno: existuje
+opraveno: existje
 existuje
 
 celá
@@ -611,7 +611,7 @@ Capitals: []
 Chyba: nepřmých
 nepřímých: 165
 přímých: 639
-opraveno: nepřímých
+opraveno: nepřmých
 nepřímých
 
 důkazů
@@ -658,7 +658,7 @@ Capitals: []
 Chyba: měřcní
 měřicí: 433
 měření: 4491
-opraveno: měřicí
+opraveno: měřcní
 měřicí,
 
 erodovaných
@@ -671,7 +671,7 @@ Capitals: []
 Chyba: krátežrů
 kráterů: 69
 kráter: 213
-opraveno: kráterů
+opraveno: krátežrů
 kráterů,
 
 či
@@ -687,7 +687,7 @@ Capitals: []
 Chyba: pťřímo
 přímo: 28866
 přímou: 1080
-opraveno: přímo
+opraveno: pťřímo
 přímo
 
 spojených
@@ -711,15 +711,15 @@ Capitals: []
 Chyba: vody.ě
 vodě: 6178
 vody: 23666
-opraveno: vodě
-vodě
+opraveno: vody.ě
+vodě.
 
 Díey
 Capitals: [0]
 Chyba: díey
 idey: 11
 díže: 16
-opraveno: idey
+opraveno: díey
 Idey
 
 zásobám
@@ -744,7 +744,7 @@ Capitals: []
 Chyba: pravděpoobné
 pravděpodobné: 2158
 pravděpodobném: 18
-opraveno: pravděpodobné
+opraveno: pravděpoobné
 pravděpodobné,
 
 že
@@ -774,17 +774,17 @@ zásoby
 proc
 Capitals: []
 Chyba: proc
-roc: 13
 pro: 340094
-opraveno: roc
-roc
+poc: 28
+opraveno: proc
+pro
 
 budoucd
 Capitals: []
 Chyba: budoucd
 budoucí: 4396
 budou: 46865
-opraveno: budoucí
+opraveno: budoucd
 budoucí
 
 kosmické
@@ -805,7 +805,7 @@ Capitals: []
 planetě.
 
 ['O', 'výskytu', 'vodzy', 'na', 'povrchu', 'či', 'pod', 'jeho', 'povrchem', 'existje', 'celá', 'řada', 'přímých', 'i', 'nepřmých', 'důkazů', 'jako', 'v', 'podobě', 'říčních', 'koryt,', 'polárních', 'oblastí,', 'spektrometrických', 'měřcní,', 'erodovaných', 'krátežrů,', 'či', 'minerálů', 'pťřímo', 'spojených', 's', 'existencí', 'kapalné', 'vody.ě', 'Díey', 'zásobám', 'kapalné', 'vody', 'je', 'pravděpoobné,', 'že', 'se', 'značně', 'zmenší', 'potřebné', 'zásoby', 'proc', 'budoucd', 'kosmické', 'mise', 'k', 'planetě.']
-O výskytu vozy na povrchu či pod jeho povrchem existuje celá řada přímých i nepřímých důkazů jako v podobě říčních koryt, polárních oblastí, spektrometrických měřicí, erodovaných kráterů, či minerálů přímo spojených s existencí kapalné vodě Idey zásobám kapalné vody je pravděpodobné, že se značně zmenší potřebné zásoby roc budoucí kosmické mise k planetě.
+O výskytu vozy na povrchu či pod jeho povrchem existuje celá řada přímých i nepřímých důkazů jako v podobě říčních koryt, polárních oblastí, spektrometrických měřicí, erodovaných kráterů, či minerálů přímo spojených s existencí kapalné vodě. Idey zásobám kapalné vody je pravděpodobné, že se značně zmenší potřebné zásoby pro budoucí kosmické mise k planetě.
 []
 
 Historie
@@ -922,7 +922,7 @@ Capitals: []
 Chyba: ktré
 které: 231755
 kté: 25
-opraveno: které
+opraveno: ktré
 které
 
 on
@@ -938,7 +938,7 @@ Capitals: []
 Chyba: ejprře
 nejprve: 7319
 vepře: 101
-opraveno: nejprve
+opraveno: ejprře
 nejprve
 
 pokládal
@@ -972,7 +972,7 @@ Capitals: []
 Chyba: přeďkladu
 překladu: 1373
 překlad: 1171
-opraveno: překladu
+opraveno: přeďkladu
 překladu,
 
 kdy
@@ -996,7 +996,7 @@ Capitals: []
 Chyba: příuodníckh
 přívodních: 30
 přírodních: 2811
-opraveno: přívodních
+opraveno: příuodníckh
 přívodních
 
 kanálů
@@ -1012,7 +1012,7 @@ Capitals: []
 Chyba: uměple
 uměle: 1121
 umělec: 1282
-opraveno: uměle
+opraveno: uměple
 uměle
 
 vytvýořené,
@@ -1021,7 +1021,7 @@ Capitals: []
 Chyba: vytvýořené
 vytvořené: 820
 vytvořeném: 59
-opraveno: vytvořené
+opraveno: vytvýořené
 vytvořené,
 
 se
@@ -1033,7 +1033,7 @@ Capitals: []
 Chyba: zaaly
 zaťaly: 14
 začaly: 6389
-opraveno: zaťaly
+opraveno: zaaly
 zaťaly
 
 kolem
@@ -1045,7 +1045,7 @@ Capitals: [0]
 Chyba: magrsu
 marsu: 590
 masu: 496
-opraveno: marsu
+opraveno: magrsu
 Marsu
 
 šířit
@@ -1086,7 +1086,7 @@ Capitals: []
 Chyba: přvvádět
 přivádět: 118
 převádět: 170
-opraveno: přivádět
+opraveno: přvvádět
 přivádět
 
 z
@@ -1098,7 +1098,7 @@ Capitals: []
 Chyba: polárníóh
 polárního: 113
 polárních: 199
-opraveno: polárního
+opraveno: polárníóh
 polárního
 
 čepiček
@@ -1117,7 +1117,7 @@ vysóychajících
 Capitals: []
 Chyba: vysóychajících
 vysychajících not in voc_words
-opraveno: vysychajících
+opraveno: vysóychajících
 vysychajících
 
 oblastí
@@ -1134,7 +1134,7 @@ Capitals: []
 Chyba: rovzníku
 rovníku: 186
 rovník: 41
-opraveno: rovníku
+opraveno: rovzníku
 rovníku.
 
 Pozdější
@@ -1150,7 +1150,7 @@ Capitals: []
 Chyba: vyvrátilg
 vyvrátil: 156
 vyzvrátil: 17
-opraveno: vyvrátil
+opraveno: vyvrátilg
 vyvrátil
 
 existenci
@@ -1174,7 +1174,7 @@ Capitals: []
 Chyba: fotografiké
 fotografické: 378
 fotografickém: 37
-opraveno: fotografické
+opraveno: fotografiké
 fotografické
 
 snímky
@@ -1194,7 +1194,7 @@ Capitals: []
 Chyba: představuí
 představují: 3927
 představí: 2836
-opraveno: představují
+opraveno: představuí
 představují
 
 že
@@ -1214,7 +1214,7 @@ Capitals: []
 Chyba: povúchu
 povrchu: 6296
 povrch: 4839
-opraveno: povrchu
+opraveno: povúchu
 povrchu
 
 nachází
@@ -1260,7 +1260,7 @@ Capitals: []
 Chyba: atmoféry
 atmosféry: 1410
 atmosfér: 42
-opraveno: atmosféry
+opraveno: atmoféry
 atmosféry
 
 louhodobější
@@ -1268,7 +1268,7 @@ Capitals: []
 Chyba: louhodobější
 dlouhodobější: 264
 dlouhodobějším: 58
-opraveno: dlouhodobější
+opraveno: louhodobější
 dlouhodobější
 
 ýskyt
@@ -1276,7 +1276,7 @@ Capitals: []
 Chyba: ýskyt
 výskyt: 1784
 výskytů: 107
-opraveno: výskyt
+opraveno: ýskyt
 výskyt
 
 kapalné
@@ -1374,7 +1374,7 @@ Capitals: []
 Chyba: keré
 které: 231755
 kerné: 12
-opraveno: které
+opraveno: keré
 které
 
 vznikly
@@ -1386,7 +1386,7 @@ Capitals: []
 Chyba: vdní
 vědní: 303
 vídní: 125
-opraveno: vědní
+opraveno: vdní
 vědní
 
 činností.
@@ -1416,7 +1416,7 @@ Capitals: []
 Chyba: klryta
 kryta: 75
 ukryta: 133
-opraveno: kryta
+opraveno: klryta
 kryta,
 
 huoké
@@ -1424,7 +1424,7 @@ Capitals: []
 Chyba: huoké
 hluboké: 2479
 hořké: 441
-opraveno: hluboké
+opraveno: huoké
 hluboké
 
 kanxály,
@@ -1433,7 +1433,7 @@ Capitals: []
 Chyba: kanxály
 kanály: 858
 kanálky: 140
-opraveno: kanály
+opraveno: kanxály
 kanály,
 
 kaňony
@@ -1470,7 +1470,7 @@ Capitals: []
 Chyba: pobřežwní
 pobřežní: 490
 pobřežním: 45
-opraveno: pobřežní
+opraveno: pobřežwní
 pobřežní
 
 útvary.
@@ -1483,7 +1483,7 @@ Capitals: [0]
 Chyba: následujícít
 následující: 5565
 následujícím: 1654
-opraveno: následující
+opraveno: následujícít
 Následující
 
 sonde
@@ -1491,7 +1491,7 @@ Capitals: []
 Chyba: sonde
 sond: 195
 onde: 87
-opraveno: sond
+opraveno: sonde
 sond
 
 Mars
@@ -1512,7 +1512,7 @@ Capitals: [0]
 Chyba: glčbal
 global: 357
 líbal: 368
-opraveno: global
+opraveno: glčbal
 Global
 
 Surveyor,
@@ -1537,7 +1537,7 @@ Capitals: []
 Chyba: rvě
 révě: 28
 ervě: 10
-opraveno: révě
+opraveno: rvě
 révě
 
 povxrchová
@@ -1545,7 +1545,7 @@ Capitals: []
 Chyba: povxrchová
 povrchová: 353
 povrchově: 133
-opraveno: povrchová
+opraveno: povxrchová
 povrchová
 
 vozítka
@@ -1561,7 +1561,7 @@ Capitals: [0]
 Chyba: exploaation
 exploration: 14
 exploataci: 24
-opraveno: exploration
+opraveno: exploaation
 Exploration
 
 Rover
@@ -1610,7 +1610,7 @@ Capitals: []
 Chyba: tekouc
 tekoucí: 634
 tekoucím: 17
-opraveno: tekoucí
+opraveno: tekouc
 tekoucí
 
 vody
@@ -1626,7 +1626,7 @@ Capitals: []
 Chyba: povrchó
 povrch: 4839
 povrchů: 427
-opraveno: povrch
+opraveno: povrchó
 povrch
 
 planety.
@@ -1639,7 +1639,7 @@ Capitals: [0]
 Chyba: nškteří
 někteří: 7232
 kteří: 70238
-opraveno: někteří
+opraveno: nškteří
 Někteří
 
 vědci
@@ -1651,7 +1651,7 @@ Capitals: []
 Chyba: dokoúce
 dokonce: 38145
 doktorce: 111
-opraveno: dokonce
+opraveno: dokoúce
 dokonce
 
 tvrdí,
@@ -1692,7 +1692,7 @@ Capitals: []
 Capitals: []
 Chyba: 000ť
 9000 not in voc_words
-opraveno: 9000
+opraveno: 000ť
 9000
 
 mohutnější
@@ -1757,7 +1757,7 @@ Capitals: []
 Chyba: sondhu
 sondu: 223
 sondou: 223
-opraveno: sondu
+opraveno: sondhu
 sondu
 
 Mars
@@ -1795,7 +1795,7 @@ Capitals: []
 Chyba: naznčil
 naznačil: 1430
 naznačily: 66
-opraveno: naznačil
+opraveno: naznčil
 naznačil,
 
 že
@@ -1860,7 +1860,7 @@ Capitals: []
 Chyba: nachúází
 nachází: 6779
 nadchází: 31
-opraveno: nachází
+opraveno: nachúází
 nachází.
 
 Pozdějnší
@@ -1868,7 +1868,7 @@ Capitals: [0]
 Chyba: pozdějnší
 pozdější: 1891
 pozdějším: 525
-opraveno: pozdější
+opraveno: pozdějnší
 Pozdější
 
 studie
@@ -1880,7 +1880,7 @@ Capitals: []
 Chyba: al
 žal: 584
 ťal: 40
-opraveno: žal
+opraveno: al
 žal
 
 vyvrátily
@@ -1968,7 +1968,7 @@ Capitals: []
 Chyba: využívjí
 využívají: 2834
 vyžívají: 31
-opraveno: využívají
+opraveno: využívjí
 využívají
 
 k
@@ -2021,7 +2021,7 @@ Capitals: []
 Chyba: zákadu
 základu: 1351
 základnu: 967
-opraveno: základu
+opraveno: zákadu
 základu.
 
 Mezi
@@ -2057,7 +2057,7 @@ Capitals: []
 Chyba: pozrování
 pozorování: 2569
 pozorováním: 392
-opraveno: pozorování
+opraveno: pozrování
 pozorování
 
 planety,
@@ -2091,7 +2091,7 @@ Capitals: []
 Chyba: paineslo
 přineslo: 1132
 zaneslo: 18
-opraveno: přineslo
+opraveno: paineslo
 přineslo
 
 informce
@@ -2099,7 +2099,7 @@ Capitals: []
 Chyba: informce
 informace: 15837
 inform: 10
-opraveno: informace
+opraveno: informce
 informace
 
 o
@@ -2111,7 +2111,7 @@ Capitals: []
 Chyba: existencz
 existencí: 442
 existenci: 3479
-opraveno: existencí
+opraveno: existencz
 existencí
 
 polárních
@@ -2152,7 +2152,7 @@ Capitals: []
 Chyba: jenm
 jenom: 32422
 jen: 206709
-opraveno: jenom
+opraveno: jenm
 jenom
 
 na
@@ -2211,7 +2211,7 @@ Capitals: []
 Chyba: loženy
 vloženy: 94
 uloženy: 810
-opraveno: vloženy
+opraveno: loženy
 vloženy.
 
 ['Vědci', 'využívjí', 'k', 'detekci', 'vody', 'celou', 'řadu', 'vědeckých', 'přístrojů', 'založených', 'na', 'různém', 'fyzikálním', 'zákadu.', 'Mezi', 'nejjednodušší', 'a', 'nejstarší', 'metody', 'patří', 'optické', 'pozrování', 'planety,', 'které', 'už', 'v', '17.', 'století', 'paineslo', 'informce', 'o', 'existencz', 'polárních', 'čepiček', 'Marsu.', 'Astronomové', 'ale', 'tehdy', 'byli', 'odkázáni', 'jenm', 'na', 'optická', 'pozorování,', 'a', 'tak', 'nemohli', 'jasně', 'určit,', 'z', 'čeho', 'jsou', 'čepičky', 'loženy.']
@@ -2338,7 +2338,7 @@ Capitals: []
 Chyba: aómerixký
 americký: 3063
 amerik: 27
-opraveno: americký
+opraveno: aómerixký
 americký
 
 astronom
@@ -2350,7 +2350,7 @@ Capitals: [0]
 Chyba: percióval
 percival: 12
 special: 100
-opraveno: percival
+opraveno: percióval
 Percival
 
 Lowell
@@ -2376,7 +2376,7 @@ Capitals: []
 Chyba: pozdrji
 později: 29508
 pozdravuji: 16
-opraveno: později
+opraveno: pozdrji
 později
 
 v
@@ -2397,7 +2397,7 @@ Capitals: [0]
 Chyba: mxrs
 mrs: 24
 mrsa: 11
-opraveno: mrs
+opraveno: mxrs
 „Mrs
 
 ašnd
@@ -2405,7 +2405,7 @@ Capitals: []
 Chyba: ašnd
 and: 2619
 sand: 31
-opraveno: and
+opraveno: ašnd
 and
 
 its
@@ -2476,7 +2476,7 @@ Capitals: []
 Chyba: ačal
 začal: 23433
 načal: 72
-opraveno: začal
+opraveno: ačal
 začal
 
 americký
@@ -2496,7 +2496,7 @@ Capitals: [0]
 Chyba: wýllaqe
 wallace: 149
 williame: 207
-opraveno: wallace
+opraveno: wýllaqe
 Wallace
 
 Campbell
@@ -2515,7 +2515,7 @@ spektroskopiké
 Capitals: []
 Chyba: spektroskopiké
 spektroskopické not in voc_words
-opraveno: spektroskopické
+opraveno: spektroskopiké
 spektroskopické
 
 analýzy
@@ -2541,7 +2541,7 @@ Capitals: []
 Chyba: prďokázaly
 prokázaly: 458
 prokázal: 888
-opraveno: prokázaly
+opraveno: prďokázaly
 prokázaly,
 
 že
@@ -2553,7 +2553,7 @@ Capitals: []
 Chyba: atmosféa
 atmosféra: 1996
 atmosfér: 42
-opraveno: atmosféra
+opraveno: atmosféa
 atmosféra
 
 nebsahujer
@@ -2561,7 +2561,7 @@ Capitals: []
 Chyba: nebsahujer
 neobsahuje: 550
 nestahuje: 10
-opraveno: neobsahuje
+opraveno: nebsahujer
 neobsahuje
 
 žádnou
@@ -2614,7 +2614,7 @@ Capitals: []
 Chyba: nacháep
 nacházet: 643
 nacházel: 1107
-opraveno: nacházet
+opraveno: nacháep
 nacházet
 
 v
@@ -2671,7 +2671,7 @@ Capitals: []
 Chyba: dokonálejšíc
 dokonalejších: 25
 dokonalejší: 332
-opraveno: dokonalejších
+opraveno: dokonálejšíc
 dokonalejších
 
 teleskopů
@@ -2696,7 +2696,7 @@ Capitals: []
 Chyba: kmanály
 kanály: 858
 manuály: 89
-opraveno: kanály
+opraveno: kmanály
 kanály
 
 na
@@ -2736,7 +2736,7 @@ Capitals: []
 Chyba: jnednalo
 jednalo: 2305
 nedalo: 2078
-opraveno: jednalo
+opraveno: jnednalo
 jednalo
 
 o
@@ -2785,7 +2785,7 @@ Capitals: []
 Chyba: rvní
 rovní: 29
 první: 69640
-opraveno: rovní
+opraveno: rvní
 rovní
 
 globálnír
@@ -2793,7 +2793,7 @@ Capitals: []
 Chyba: globálnír
 globální: 2313
 globálním: 525
-opraveno: globální
+opraveno: globálnír
 globální
 
 mapa
@@ -2805,7 +2805,7 @@ Capitals: []
 Chyba: planetyé
 planety: 2265
 planetky: 63
-opraveno: planety
+opraveno: planetyé
 planety
 
 pořízaná
@@ -2813,7 +2813,7 @@ Capitals: []
 Chyba: pořízaná
 pořízená: 64
 pořezaná: 14
-opraveno: pořízená
+opraveno: pořízaná
 pořízená
 
 sondou
@@ -3043,7 +3043,7 @@ Capitals: []
 Chyba: fotografiín
 fotografií: 3179
 fotografiím: 98
-opraveno: fotografií
+opraveno: fotografiín
 fotografií
 
 První
@@ -3092,7 +3092,7 @@ Capitals: []
 Chyba: solčasnsti
 současnosti: 6586
 současnost: 507
-opraveno: současnosti
+opraveno: solčasnsti
 současnosti
 
 nenacháí,
@@ -3101,7 +3101,7 @@ Capitals: []
 Chyba: nenacháí
 nenachází: 226
 nenacházím: 66
-opraveno: nenachází
+opraveno: nenacháí
 nenachází,
 
 ale
@@ -3154,7 +3154,7 @@ Capitals: []
 Chyba: sitóac
 situací: 2925
 situaci: 15605
-opraveno: situací
+opraveno: sitóac
 situací
 
 jiná.
@@ -3171,7 +3171,7 @@ Capitals: []
 Chyba: ukazlvaly
 ukazovaly: 419
 ukazoval: 1130
-opraveno: ukazovaly
+opraveno: ukazlvaly
 ukazovaly
 
 říční
@@ -3197,7 +3197,7 @@ Capitals: []
 Chyba: připůmínající
 připomínající: 1540
 připomínajícím: 194
-opraveno: připomínající
+opraveno: připůmínající
 připomínající
 
 poďbřeží
@@ -3205,7 +3205,7 @@ Capitals: []
 Chyba: poďbřeží
 pobřeží: 4306
 pobřežím: 132
-opraveno: pobřeží
+opraveno: poďbřeží
 pobřeží
 
 a
@@ -3234,7 +3234,7 @@ Capitals: []
 Chyba: erxistoval
 existoval: 702
 existovaly: 711
-opraveno: existoval
+opraveno: erxistoval
 existoval
 
 velká
@@ -3246,7 +3246,7 @@ Capitals: []
 Chyba: pravděpodobnost,h
 pravděpodobnost: 1740
 pravděpodobností: 1989
-opraveno: pravděpodobnost
+opraveno: pravděpodobnost,h
 pravděpodobnost
 
 že
@@ -3275,7 +3275,7 @@ Capitals: [0]
 Chyba: sokučasně
 současně: 7741
 současný: 2299
-opraveno: současně
+opraveno: sokučasně
 Současně
 
 došlo
@@ -3312,7 +3312,7 @@ Capitals: []
 Chyba: pději
 ději: 218
 později: 29508
-opraveno: ději
+opraveno: pději
 ději
 
 podrobně
@@ -3345,7 +3345,7 @@ Capitals: []
 Chyba: teré
 terén: 933
 které: 231755
-opraveno: terén
+opraveno: teré
 terén
 
 přistály
@@ -3389,7 +3389,7 @@ Capitals: []
 Chyba: porobná
 podrobná: 149
 porovná: 59
-opraveno: podrobná
+opraveno: porobná
 podrobná
 
 meteorologická
@@ -3438,7 +3438,7 @@ Capitals: []
 Chyba: využéívají
 využívají: 2834
 vyžívají: 31
-opraveno: využívají
+opraveno: využéívají
 využívají
 
 i
@@ -3491,7 +3491,7 @@ Capitals: []
 Chyba: mginulosti
 minulosti: 10167
 minulost: 2420
-opraveno: minulosti
+opraveno: mginulosti
 minulosti
 
 tak
@@ -3512,7 +3512,7 @@ Capitals: []
 Chyba: soíčasnosti
 současnosti: 6586
 současnost: 507
-opraveno: současnosti
+opraveno: soíčasnosti
 současnosti,
 
 na
@@ -3585,7 +3585,7 @@ Capitals: [0]
 Chyba: globol
 global: 357
 lobo: 21
-opraveno: global
+opraveno: globol
 Global
 
 Surveyor,
@@ -3602,7 +3602,7 @@ Capitals: [0]
 Chyba: expreós
 expres: 130
 expresí: 18
-opraveno: expres
+opraveno: expreós
 Expres
 
 a
@@ -3631,7 +3631,7 @@ Capitals: [0]
 Chyba: odssey
 odyssey: 31
 odessy: 20
-opraveno: odyssey
+opraveno: odssey
 Odyssey,
 
 která
@@ -3687,7 +3687,7 @@ sufix: ,
 Capitals: []
 Chyba: spektrometfem
 spektrometrem not in voc_words
-opraveno: spektrometrem
+opraveno: spektrometfem
 spektrometrem,
 
 čidlem
@@ -3823,7 +3823,7 @@ Capitals: []
 Chyba: kjncentrace
 koncentrace: 1969
 koncentracemi: 28
-opraveno: koncentrace
+opraveno: kjncentrace
 koncentrace
 
 vodíku
@@ -3909,7 +3909,7 @@ Capitals: []
 Chyba: poniknout
 proniknout: 1158
 podniknout: 627
-opraveno: proniknout
+opraveno: poniknout
 proniknout
 
 řádvě
@@ -3917,7 +3917,7 @@ Capitals: []
 Chyba: řádvě
 řádově: 762
 řádně: 1836
-opraveno: řádově
+opraveno: řádvě
 řádově
 
 jen
@@ -3929,7 +3929,7 @@ Capitals: []
 Chyba: několpik
 několik: 43038
 několika: 25060
-opraveno: několik
+opraveno: několpik
 několik
 
 desítek
@@ -3945,7 +3945,7 @@ Capitals: []
 Chyba: péod
 pod: 73838
 zpod: 1364
-opraveno: pod
+opraveno: péod
 pod
 
 povrch
@@ -3993,7 +3993,7 @@ Capitals: []
 Chyba: ráci
 rámci: 19554
 rájci: 32
-opraveno: rámci
+opraveno: ráci
 rámci
 
 cylé
@@ -4001,7 +4001,7 @@ Capitals: []
 Chyba: cylé
 celé: 30032
 úchylné: 41
-opraveno: celé
+opraveno: cylé
 celé
 
 članety.
@@ -4010,7 +4010,7 @@ Capitals: []
 Chyba: članety
 planety: 2265
 anety: 39
-opraveno: planety
+opraveno: članety
 planety.
 
 ['Mimo', 'přímého', 'pozorování', 'povrchových', 'projevů', 'vody', 'se', 'využéívají', 'i', 'další', 'fyzikální', 'zařízení', 'pro', 'detekci', 'vody,', 'a', 'to', 'jak', 'v', 'mginulosti', 'tak', 'i', 't', 'soíčasnosti,', 'na', 'palubě', 'obíhajících', 'sond.', 'Aktuálně', 'se', 'pro', 'hledání', 'vod', 'využívá', 'několik', 'druhů', 'přístrojů', 'na', 'sondách', 'Mars', 'Globol', 'Surveyor,', 'Mars', 'Expreós', 'a', 'hlavně', 'na', 'sondě', 'Mars', 'Odssey,', 'která', 'je', 'pro', 'detekci', 'vody', 'a', 'určování', 'chemického', 'složení', 'povrchu', 'vybavena', 'neutronovým', 'spektrometfem,', 'čidlem', 'gama', 'zření', 'a', 'detektorem', 'vysokoenergetických', 'neutronů.', 'Tyto', 'přístroje', 'mají', 'za', 'úkol', 'detekovat', 'přítomnost', 'množství', 'protonů', 'v', 'jádrech', 'atomů,', 'jenž', 'naznačují', 'výskyt', 'vody.', 'Na', 'základě', 'těchto', 'měření', 'se', 'zjistilo,', 'že', 'velká', 'kjncentrace', 'vodíku', 'je', 'v', 'oblasti', 'pólů,', 'což', 'odpovídá', 'složení', 'polárních', 'čepiček', 'z', 'vodního', 'ledu.', 'Problémem', 'těchto', 'zařízení', 'je', 'jejich', 'schopnost', 'poniknout', 'řádvě', 'jen', 'několpik', 'desítek', 'centimetrů', 'péod', 'povrch', 'planety', 'a', 'nemožnost', 'tak', 'zjistit', 'skutečné', 'zásoby', 'vody', 'v', 'ráci', 'cylé', 'članety.']
@@ -4022,7 +4022,7 @@ Capitals: [0]
 Chyba: daším
 dalším: 9148
 dražším: 73
-opraveno: dalším
+opraveno: daším
 Dalším
 
 prostředkem,
@@ -4084,7 +4084,7 @@ Capitals: []
 Chyba: operujícg
 operující: 61
 operují: 136
-opraveno: operující
+opraveno: operujícg
 operující
 
 pfímo
@@ -4092,7 +4092,7 @@ Capitals: []
 Chyba: pfímo
 přímo: 28866
 písmo: 741
-opraveno: přímo
+opraveno: pfímo
 přímo
 
 na
@@ -4109,7 +4109,7 @@ Capitals: []
 Chyba: panety
 planety: 2265
 panty: 146
-opraveno: planety
+opraveno: panety
 planety,
 
 které
@@ -4169,7 +4169,7 @@ Capitals: []
 Chyba: působeoím
 působením: 1143
 působím: 128
-opraveno: působením
+opraveno: působeoím
 působením
 
 vody.
@@ -4198,7 +4198,7 @@ Capitals: []
 Chyba: barsu
 basu: 164
 baru: 2957
-opraveno: basu
+opraveno: barsu
 basu
 
 úpěšně
@@ -4206,7 +4206,7 @@ Capitals: []
 Chyba: úpěšně
 úspěšně: 3664
 útěšně: 18
-opraveno: úspěšně
+opraveno: úpěšně
 úspěšně
 
 přistály
@@ -4268,7 +4268,7 @@ Capitals: [0]
 Chyba: pathfider
 pathfinder: 19
 panther: 29
-opraveno: pathfinder
+opraveno: pathfider
 Pathfinder,
 
 kttré
@@ -4276,7 +4276,7 @@ Capitals: []
 Chyba: kttré
 které: 231755
 kté: 25
-opraveno: které
+opraveno: kttré
 které
 
 zkozumal
@@ -4284,7 +4284,7 @@ Capitals: []
 Chyba: zkozumal
 zkoumal: 762
 zkoumaly: 71
-opraveno: zkoumal
+opraveno: zkozumal
 zkoumal
 
 oblast
@@ -4305,7 +4305,7 @@ Capitals: [0]
 Chyba: vz
 zvz: 10
 v–z: 31
-opraveno: zvz
+opraveno: vz
 Zvz
 
 současnosti
@@ -4371,7 +4371,7 @@ Capitals: []
 Chyba: pportunity
 opportunity: 33
 oportunisty: 11
-opraveno: opportunity
+opraveno: pportunity
 opportunity
 
 (místo
@@ -4423,7 +4423,11 @@ V
 
 race
 Capitals: []
-race
+Chyba: race
+trace: 18
+rance: 75
+opraveno: race
+trace
 
 208
 Capitals: []
@@ -4442,7 +4446,7 @@ Capitals: []
 Chyba: seveení
 svezení: 137
 svedení: 46
-opraveno: svezení
+opraveno: seveení
 svezení
 
 polární
@@ -4458,7 +4462,7 @@ Capitals: []
 Chyba: ralší
 raší: 72
 zralí: 71
-opraveno: raší
+opraveno: ralší
 raší
 
 americká
@@ -4499,7 +4503,7 @@ Capitals: []
 Chyba: složevní
 složení: 3644
 složením: 461
-opraveno: složení
+opraveno: složevní
 složení
 
 regolitu,
@@ -4528,7 +4532,7 @@ Capitals: []
 Chyba: ody
 vody: 23666
 sody: 134
-opraveno: vody
+opraveno: ody
 vody
 
 na
@@ -4556,10 +4560,10 @@ Capitals: []
 onda
 Capitals: []
 Chyba: onda
-tonda: 209
 sonda: 386
-opraveno: tonda
-tonda
+sonda: 386
+opraveno: onda
+sonda
 
 potvrdila
 Capitals: []
@@ -4583,7 +4587,7 @@ Capitals: []
 Chyba: forě
 formě: 4924
 for: 1163
-opraveno: formě
+opraveno: forě
 formě
 
 ledu,
@@ -4604,7 +4608,7 @@ Capitals: []
 Chyba: několk
 několik: 43038
 několika: 25060
-opraveno: několik
+opraveno: několk
 několik
 
 centimetrů
@@ -4620,7 +4624,7 @@ Capitals: []
 Chyba: poérchem
 povrchem: 1606
 porche: 12
-opraveno: povrchem
+opraveno: poérchem
 povrchem
 
 Marsu.
@@ -4629,7 +4633,7 @@ Capitals: [0]
 Marsu.
 
 ['Daším', 'prostředkem,', 'jak', 'se', 'voda', 'na', 'Marsu', 'hledá,', 'jsou', 'pojízdná', 'vozítka', 'či', 'nepohyblivé', 'sondy', 'operujícg', 'pfímo', 'na', 'povrchu', 'panety,', 'které', 'mohou', 'provádět', 'přímou', 'chemickou', 'analýzu', 'povrchových', 'hornin', 'a', 'tak', 'detekovat', 'minerály', 'vzniklé', 'působeoím', 'vody.', 'V', 'minulosti', 'na', 'povrchu', 'barsu', 'úpěšně', 'přistály', 'nepohyblivé', 'sondy', 'Viking,', 'dále', 'pak', 'pojízdné', 'vozítko', 'Sojourner', 'v', 'rámci', 'mise', 'Mars', 'Pathfider,', 'kttré', 'zkozumal', 'oblast', 'Ares', 'Vallis.', 'Vz', 'současnosti', 'se', 'na', 'povrchu', 'nacházejí', 'dvě', 'funkční', 'vozítka', 'Spirit', '(místo', 'přistání', 'kráter', 'Gusev)', 'a', 'pportunity', '(místo', 'přistání', 'pláň', 'Meridiani)', 'v', 'rámci', 'mise', 'Mars', 'Exploration', 'Rover.', 'V', 'race', '208', 'přistála', 'v', 'seveení', 'polární', 'oblasti', 'ralší', 'americká', 'sonda', 'Phoenix,', 'která', 'má', 'za', 'úkol', 'zkoumat', 'složevní', 'regolitu,', 'obsah', 'ledu', 'a', 'historii', 'ody', 'na', 'planetě.', '31.', 'července', '2008', 'onda', 'potvrdila', 'přítomnost', 'vody,', 've', 'forě', 'ledu,', 'který', 'našla', 'několk', 'centimetrů', 'pod', 'poérchem', 'Marsu.']
-Dalším prostředkem, jak se voda na Marsu hledá, jsou pojízdná vozítka či nepohyblivé sondy operující přímo na povrchu planety, které mohou provádět přímou chemickou analýzu povrchových hornin a tak detekovat minerály vzniklé působením vody. V minulosti na povrchu basu úspěšně přistály nepohyblivé sondy Viking, dále pak pojízdné vozítko Sojourner v rámci mise Mars Pathfinder, které zkoumal oblast Ares Vallis. Zvz současnosti se na povrchu nacházejí dvě funkční vozítka Spirit (místo přistání kráter Gusev) a opportunity (místo přistání pláň Meridiani) v rámci mise Mars Exploration Rover. V race 208 přistála v svezení polární oblasti raší americká sonda Phoenix, která má za úkol zkoumat složení regolitu, obsah ledu a historii vody na planetě. 31. července 2008 tonda potvrdila přítomnost vody, ve formě ledu, který našla několik centimetrů pod povrchem Marsu.
+Dalším prostředkem, jak se voda na Marsu hledá, jsou pojízdná vozítka či nepohyblivé sondy operující přímo na povrchu planety, které mohou provádět přímou chemickou analýzu povrchových hornin a tak detekovat minerály vzniklé působením vody. V minulosti na povrchu basu úspěšně přistály nepohyblivé sondy Viking, dále pak pojízdné vozítko Sojourner v rámci mise Mars Pathfinder, které zkoumal oblast Ares Vallis. Zvz současnosti se na povrchu nacházejí dvě funkční vozítka Spirit (místo přistání kráter Gusev) a opportunity (místo přistání pláň Meridiani) v rámci mise Mars Exploration Rover. V trace 208 přistála v svezení polární oblasti raší americká sonda Phoenix, která má za úkol zkoumat složení regolitu, obsah ledu a historii vody na planetě. 31. července 2008 sonda potvrdila přítomnost vody, ve formě ledu, který našla několik centimetrů pod povrchem Marsu.
 Minulost
 Capitals: [0]
 Minulost
@@ -4689,7 +4693,7 @@ Capitals: []
 Chyba: dnehní
 nehoní: 22
 dnešní: 7824
-opraveno: nehoní
+opraveno: dnehní
 nehoní
 
 době
@@ -4705,7 +4709,7 @@ Capitals: []
 Chyba: jasřá
 jasná: 1567
 jas: 609
-opraveno: jasná
+opraveno: jasřá
 jasná
 
 shoda
@@ -4772,7 +4776,7 @@ Capitals: []
 Chyba: tzrii
 torrii: 17
 tercii: 34
-opraveno: torrii
+opraveno: tzrii
 torrii,
 
 že
@@ -4854,7 +4858,7 @@ Capitals: []
 Chyba: objevovčla
 objevovala: 297
 objevovat: 1397
-opraveno: objevovala
+opraveno: objevovčla
 objevovala
 
 jen
@@ -4903,7 +4907,7 @@ Capitals: []
 Chyba: hozpuštěn
 rozpuštěn: 45
 opuštěn: 113
-opraveno: rozpuštěn
+opraveno: hozpuštěn
 rozpuštěn
 
 půdní
@@ -4924,7 +4928,7 @@ Capitals: []
 Chyba: čiností
 činností: 3581
 činnostní: 14
-opraveno: činností
+opraveno: čiností
 činností.
 
 Druhá
@@ -4936,7 +4940,7 @@ Capitals: []
 Chyba: čát
 část: 24779
 čt: 1453
-opraveno: část
+opraveno: čát
 část
 
 zastává
@@ -4981,7 +4985,7 @@ Capitals: []
 Chyba: hčustší
 hustší: 247
 hustším: 16
-opraveno: hustší
+opraveno: hčustší
 hustší
 
 atmosférou,
@@ -5022,7 +5026,7 @@ Capitals: []
 Chyba: dlší
 delší: 6669
 další: 75741
-opraveno: delší
+opraveno: dlší
 delší
 
 časové
@@ -5060,7 +5064,7 @@ Capitals: []
 Chyba: přepoklbá
 přepokládá: 11
 přepokládat: 18
-opraveno: přepokládá
+opraveno: přepoklbá
 přepokládá,
 
 že
@@ -5097,7 +5101,7 @@ Capitals: []
 Chyba: olceánem
 oceánem: 327
 volánem: 11
-opraveno: oceánem
+opraveno: olceánem
 oceánem,
 
 který
@@ -5200,7 +5204,7 @@ Capitals: []
 Chyba: obdobíi
 obdobími: 108
 období: 20401
-opraveno: obdobími
+opraveno: obdobíi
 obdobími
 
 noachianu.
@@ -5225,7 +5229,7 @@ Capitals: []
 Chyba: běheťm
 během: 28013
 oběhem: 56
-opraveno: během
+opraveno: běheťm
 během
 
 hesperianu
@@ -5258,7 +5262,7 @@ Capitals: []
 Chyba: vroda
 voda: 9764
 roda: 21
-opraveno: voda
+opraveno: vroda
 voda
 
 se
@@ -5270,7 +5274,7 @@ Capitals: []
 Chyba: přemnila
 přeměnila: 87
 přeměnil: 100
-opraveno: přeměnila
+opraveno: přemnila
 přeměnila
 
 v
@@ -5319,7 +5323,7 @@ Capitals: []
 Chyba: prostčr
 prostor: 14234
 prost: 72
-opraveno: prostor
+opraveno: prostčr
 prostor.
 
 ['Dle', 'této', 'teorie', 'se', 'přepoklbá,', 'že', 'v', 'minulosti', 'byl', 'povrch', 'Marsu', 'zaplaven', 'olceánem,', 'který', 'se', 'rozkládal', 'nejspíš', 'na', 'severní', 'polokouli', 'v', 'oblasti', 'nížin,', 'jelikož', 'jižní', 'část', 'planety', 'je', 'tvořena', 'tzv.', 'Jižními', 'vysočinami.', 'Tento', 'oceán', 'existoval', 'v', 'obdobíi', 'noachianu.', 'Vlivem', 'ochlazování', 'planety', 'běheťm', 'hesperianu', 'došlo', 'k', 'jeho', 'zamrznutí.', 'Povrchová', 'vroda', 'se', 'přemnila', 'v', 'led', 'a', 'část', 'ji', 'zřejmě', 'unikla', 'i', 'do', 'kosmického', 'prostčr.']
@@ -5351,7 +5355,7 @@ Capitals: []
 Chyba: zmrzlpho
 zmrzlého: 60
 zmrzlo: 24
-opraveno: zmrzlého
+opraveno: zmrzlpho
 zmrzlého
 
 ledu
@@ -5379,7 +5383,7 @@ Capitals: [0]
 Chyba: díy
 díry: 1921
 díly: 2134
-opraveno: díry
+opraveno: díy
 Díry
 
 fotografickým
@@ -5407,7 +5411,7 @@ Capitals: [0]
 Chyba: mťarsu
 marsu: 590
 masu: 496
-opraveno: marsu
+opraveno: mťarsu
 Marsu
 
 rozlišeny
@@ -5473,7 +5477,7 @@ Capitals: []
 Chyba: reikty
 relikty: 161
 relikt: 85
-opraveno: relikty
+opraveno: reikty
 relikty
 
 peo
@@ -5481,7 +5485,7 @@ Capitals: []
 Chyba: peo
 peso: 26
 pero: 929
-opraveno: peso
+opraveno: peo
 peso
 
 rychlém
@@ -5522,7 +5526,7 @@ Capitals: []
 Chyba: fktiviáy
 efektivity: 498
 aktivity: 5296
-opraveno: efektivity
+opraveno: fktiviáy
 efektivity.
 
 Přeldpokldá
@@ -5530,7 +5534,7 @@ Capitals: [0]
 Chyba: přeldpokldá
 předpokládá: 2226
 předpokládáš: 12
-opraveno: předpokládá
+opraveno: přeldpokldá
 Předpokládá
 
 se,
@@ -5551,7 +5555,7 @@ Capitals: []
 Chyba: poddobný
 podobný: 3777
 podrobný: 389
-opraveno: podobný
+opraveno: poddobný
 podobný
 
 onrovský
@@ -5559,7 +5563,7 @@ Capitals: []
 Chyba: onrovský
 orlovský: 15
 obrovský: 3610
-opraveno: orlovský
+opraveno: onrovský
 orlovský
 
 únik
@@ -5587,7 +5591,7 @@ sufix: ,
 Capitals: [0]
 Chyba: mďarineris
 marineris not in voc_words
-opraveno: marineris
+opraveno: mďarineris
 Marineris,
 
 které
@@ -5607,7 +5611,7 @@ Capitals: []
 Chyba: dávé
 dávné: 903
 dvé: 13
-opraveno: dávné
+opraveno: dávé
 dávné
 
 historii
@@ -5706,7 +5710,7 @@ Capitals: [0]
 Chyba: elyium
 elysium: 13
 helium: 205
-opraveno: elysium
+opraveno: elyium
 Elysium
 
 Planitia,
@@ -5727,7 +5731,7 @@ Capitals: []
 Chyba: lenové
 členové: 3997
 lednové: 146
-opraveno: členové
+opraveno: lenové
 členové
 
 mosře
@@ -5735,7 +5739,7 @@ Capitals: []
 Chyba: mosře
 moře: 8516
 mose: 11
-opraveno: moře
+opraveno: mosře
 moře
 
 viditelné
@@ -5751,7 +5755,7 @@ Capitals: []
 Chyba: dneoních
 dnešních: 1593
 nočních: 1034
-opraveno: dnešních
+opraveno: dneoních
 dnešních
 
 dnů.
@@ -5785,7 +5789,7 @@ Capitals: []
 Chyba: zmďna
 změna: 4357
 záměna: 246
-opraveno: změna
+opraveno: zmďna
 změna
 
 způsobila,
@@ -5806,7 +5810,7 @@ Capitals: []
 Chyba: klimatiké
 klimatické: 569
 klimatickém: 51
-opraveno: klimatické
+opraveno: klimatiké
 klimatické
 
 podmínky
@@ -5834,7 +5838,7 @@ Capitals: []
 Chyba: zmůnily
 změnily: 993
 zmínily: 15
-opraveno: změnily
+opraveno: zmůnily
 změnily
 
 tk,
@@ -5843,7 +5847,7 @@ Capitals: []
 Chyba: tk
 čtk: 1575
 tžk: 32
-opraveno: čtk
+opraveno: tk
 čtk,
 
 že
@@ -5871,7 +5875,7 @@ Capitals: []
 Chyba: porchu
 povrchu: 6296
 poruchu: 511
-opraveno: povrchu
+opraveno: porchu
 povrchu
 
 přestaúla
@@ -5879,7 +5883,7 @@ Capitals: []
 Chyba: přestaúla
 přestala: 2326
 přestal: 3018
-opraveno: přestala
+opraveno: přestaúla
 přestala
 
 existovat.q
@@ -5887,8 +5891,8 @@ Capitals: []
 Chyba: existovat.q
 existovat: 2247
 neexistovat: 15
-opraveno: existovat
-existovat
+opraveno: existovat.q
+existovat.
 
 Dle
 Capitals: [0]
@@ -5978,7 +5982,7 @@ Capitals: []
 Chyba: žg
 ž: 232
 g: 8821
-opraveno: ž
+opraveno: žg
 ž
 
 proces
@@ -5994,7 +5998,7 @@ Capitals: []
 Chyba: xnohem
 mnohem: 21370
 rohem: 722
-opraveno: mnohem
+opraveno: xnohem
 mnohem
 
 pozvolnější
@@ -6035,7 +6039,7 @@ Capitals: []
 Chyba: aktiyvity
 aktivity: 5296
 aktivisty: 174
-opraveno: aktivity
+opraveno: aktiyvity
 aktivity,
 
 což
@@ -6092,7 +6096,7 @@ Capitals: []
 Chyba: prostorup
 prostoru: 13155
 prostoupí: 34
-opraveno: prostoru
+opraveno: prostorup
 prostoru
 
 což
@@ -6125,7 +6129,7 @@ Capitals: []
 Chyba: současnvsti
 současnosti: 6586
 současnost: 507
-opraveno: současnosti
+opraveno: současnvsti
 současnosti
 
 se
@@ -6183,7 +6187,7 @@ Capitals: []
 Chyba: becnější
 obecnější: 359
 obecnějším: 65
-opraveno: obecnější
+opraveno: becnější
 obecnější
 
 shoda
@@ -6220,7 +6224,7 @@ Capitals: []
 Chyba: ďovrchu
 povrchu: 6296
 vrchu: 1061
-opraveno: povrchu
+opraveno: ďovrchu
 povrchu
 
 nacházela
@@ -6265,7 +6269,7 @@ Capitals: []
 let.
 
 ['Otevřenou', 'otázkou', 'zůstává,', 'jaká', 'zmďna', 'způsobila,', 'že', 'se', 'klimatiké', 'podmínky', 'na', 'povrchu', 'Marsu', 'radikálně', 'zmůnily', 'tk,', 'že', 'tekoucí', 'voda', 'na', 'jeho', 'porchu', 'přestaúla', 'existovat.q', 'Dle', 'některých', 'teorií', 'globální', 'změnu', 'způsobil', 'impakt', 'obrovského', 'tělesa,', 'které', 'změnilo', 'rotační', 'dobu', 'či', 'orientaci', 'rotační', 'osy.', 'Další', 'teorie', 'předpokládají,', 'žg', 'proces', 'byl', 'xnohem', 'pozvolnější', 'a', 'že', 'docházelo', 'k', 'postupnému', 'ustávání', 'sopečné', 'aktiyvity,', 'což', 'vedlo', 'k', 'ochlazování', 'planety.', 'Část', 'atmosféry', 'současně', 'unikala', 'do', 'okolního', 'kosmického', 'prostorup', 'což', 'celý', 'proces', 'zamrznutí', 'urychlilo.', 'V', 'současnvsti', 'se', 'ned', 'jasně', 'říci,', 'co', 'se', 'přesně', 'v', 'historii', 'na', 'Marsu', 'stalo.', 'becnější', 'shoda', 'panuje', 'v', 'tom,', 'že', 'se', 'na', 'ďovrchu', 'nacházela', 'tekoucí', 'voda', 'přibližně', 'před', '4', 'až', '3,5', 'miliardami', 'let.']
-Otevřenou otázkou zůstává, jaká změna způsobila, že se klimatické podmínky na povrchu Marsu radikálně změnily čtk, že tekoucí voda na jeho povrchu přestala existovat Dle některých teorií globální změnu způsobil impakt obrovského tělesa, které změnilo rotační dobu či orientaci rotační osy. Další teorie předpokládají, ž proces byl mnohem pozvolnější a že docházelo k postupnému ustávání sopečné aktivity, což vedlo k ochlazování planety. Část atmosféry současně unikala do okolního kosmického prostoru což celý proces zamrznutí urychlilo. V současnosti se ned jasně říci, co se přesně v historii na Marsu stalo. obecnější shoda panuje v tom, že se na povrchu nacházela tekoucí voda přibližně před 4 až 3,5 miliardami let.
+Otevřenou otázkou zůstává, jaká změna způsobila, že se klimatické podmínky na povrchu Marsu radikálně změnily čtk, že tekoucí voda na jeho povrchu přestala existovat. Dle některých teorií globální změnu způsobil impakt obrovského tělesa, které změnilo rotační dobu či orientaci rotační osy. Další teorie předpokládají, ž proces byl mnohem pozvolnější a že docházelo k postupnému ustávání sopečné aktivity, což vedlo k ochlazování planety. Část atmosféry současně unikala do okolního kosmického prostoru což celý proces zamrznutí urychlilo. V současnosti se ned jasně říci, co se přesně v historii na Marsu stalo. obecnější shoda panuje v tom, že se na povrchu nacházela tekoucí voda přibližně před 4 až 3,5 miliardami let.
 Řeky
 Capitals: [0]
 Řeky
@@ -6276,7 +6280,7 @@ Ma'aéim
 Capitals: [0]
 Chyba: ma'aéim
 ma'adim not in voc_words
-opraveno: ma'adim
+opraveno: ma'aéim
 Ma'adim
 
 Vallis
@@ -6313,7 +6317,7 @@ Capitals: []
 Chyba: obliasti
 oblasti: 25304
 oblastmi: 355
-opraveno: oblasti
+opraveno: obliasti
 oblasti
 
 kráteru
@@ -6335,7 +6339,7 @@ Capitals: []
 Chyba: kráer
 kráter: 213
 kráner: 86
-opraveno: kráter
+opraveno: kráer
 kráter,
 
 který
@@ -6347,7 +6351,7 @@ Capitals: []
 Chyba: dosahujée
 dosahuje: 2509
 nedosahuje: 256
-opraveno: dosahuje
+opraveno: dosahujée
 dosahuje
 
 průměru
@@ -6358,7 +6362,7 @@ průměru
 Capitals: []
 Chyba: 17h0
 170 not in voc_words
-opraveno: 170
+opraveno: 17h0
 170
 
 km)
@@ -6387,7 +6391,7 @@ Capitals: []
 Chyba: ejsnadněji
 nejsnadněji: 91
 snadněji: 826
-opraveno: nejsnadněji
+opraveno: ejsnadněji
 nejsnadněji
 
 rozpoznatelné
@@ -6407,7 +6411,7 @@ Capitals: []
 Chyba: tekoňcí
 tekoucí: 634
 tekoucím: 17
-opraveno: tekoucí
+opraveno: tekoňcí
 tekoucí
 
 vodou
@@ -6431,7 +6435,7 @@ Capitals: []
 Chyba: minulsti
 minulosti: 10167
 minulost: 2420
-opraveno: minulosti
+opraveno: minulsti
 minulosti
 
 jsou
@@ -6447,7 +6451,7 @@ Capitals: []
 Chyba: řníční
 říční: 643
 říčním: 126
-opraveno: říční
+opraveno: řníční
 říční
 
 sítě,
@@ -6489,7 +6493,7 @@ Capitals: []
 Chyba: oďlast
 oblast: 6122
 last: 126
-opraveno: oblast
+opraveno: oďlast
 oblast,
 
 ze
@@ -6501,7 +6505,7 @@ Capitals: []
 Chyba: keré
 které: 231755
 kerné: 12
-opraveno: které
+opraveno: keré
 které
 
 vodu
@@ -6538,7 +6542,7 @@ Capitals: []
 Chyba: říek
 říček: 50
 řízek: 217
-opraveno: říček
+opraveno: říek
 říček
 
 a
@@ -6555,7 +6559,7 @@ Capitals: []
 Chyba: řteré
 terén: 933
 které: 231755
-opraveno: terén
+opraveno: řteré
 terén
 
 pak
@@ -6591,7 +6595,7 @@ Capitals: []
 Chyba: severnígh
 severního: 529
 severních: 596
-opraveno: severního
+opraveno: severnígh
 severního
 
 nížin.
@@ -6608,7 +6612,7 @@ Capitals: []
 Chyba: korytú
 koryt: 105
 korytě: 97
-opraveno: koryt
+opraveno: korytú
 koryt
 
 mají
@@ -6620,7 +6624,7 @@ Capitals: []
 Chyba: shodn
 shodně: 615
 shodný: 325
-opraveno: shodně
+opraveno: shodn
 shodně
 
 znaky
@@ -6686,7 +6690,7 @@ Capitals: []
 Chyba: ťedimenty
 sedimenty: 440
 pedimenty: 87
-opraveno: sedimenty
+opraveno: ťedimenty
 sedimenty
 
 či
@@ -6744,7 +6748,7 @@ Capitals: []
 Chyba: muwelo
 muselo: 3786
 ujelo: 70
-opraveno: muselo
+opraveno: muwelo
 muselo
 
 být
@@ -6810,7 +6814,7 @@ Capitals: []
 Chyba: tekoucž
 tekoucí: 634
 tekoucím: 17
-opraveno: tekoucí
+opraveno: tekoucž
 tekoucí
 
 vodou,
@@ -6856,7 +6860,7 @@ Capitals: []
 Chyba: jejitch
 jejich: 109717
 jejichž: 12502
-opraveno: jejich
+opraveno: jejitch
 jejich
 
 vznik
@@ -6896,7 +6900,7 @@ Capitals: []
 Chyba: pqčasm
 počasím: 284
 časům: 78
-opraveno: počasím
+opraveno: pqčasm
 počasím
 
 umožňujícím
@@ -6946,7 +6950,7 @@ Capitals: []
 Chyba: teplejšíě
 teplejší: 427
 teplejším: 61
-opraveno: teplejší
+opraveno: teplejšíě
 teplejší
 
 a
@@ -6982,7 +6986,7 @@ Capitals: []
 Chyba: řečisště
 řečiště: 235
 řečištěm: 52
-opraveno: řečiště
+opraveno: řečisště
 řečiště
 
 spíše
@@ -7002,7 +7006,7 @@ Capitals: []
 Chyba: leem
 letem: 212
 lesem: 1100
-opraveno: letem
+opraveno: leem
 letem
 
 či
@@ -7031,7 +7035,7 @@ Capitals: [0]
 Chyba: předpoklád
 předpokládá: 2226
 předpokládáš: 12
-opraveno: předpokládá
+opraveno: předpoklád
 Předpokládá
 
 se,
@@ -7056,7 +7060,7 @@ Capitals: []
 Chyba: povrkhu
 povrchu: 6296
 podvrhu: 26
-opraveno: povrchu
+opraveno: povrkhu
 povrchu
 
 planety
@@ -7072,7 +7076,7 @@ Capitals: []
 Chyba: přibltžnzě
 přibližně: 7729
 přibližný: 106
-opraveno: přibližně
+opraveno: přibltžnzě
 přibližně
 
 v
@@ -7091,7 +7095,7 @@ před
 Capitals: []
 Chyba: 3u5
 35 not in voc_words
-opraveno: 35
+opraveno: 3u5
 35
 
 miliarúami
@@ -7099,7 +7103,7 @@ Capitals: []
 Chyba: miliarúami
 miliardami: 331
 miliarda: 240
-opraveno: miliardami
+opraveno: miliarúami
 miliardami
 
 let.
@@ -7153,7 +7157,7 @@ Capitals: []
 Chyba: řěíční
 říční: 643
 říčním: 126
-opraveno: říční
+opraveno: řěíční
 říční
 
 údolí
@@ -7173,7 +7177,7 @@ Capitals: []
 Chyba: svémh
 svém: 23165
 svému: 10576
-opraveno: svém
+opraveno: svémh
 svém
 
 dě
@@ -7181,7 +7185,7 @@ Capitals: []
 Chyba: dě
 ódě: 13
 idě: 23
-opraveno: ódě
+opraveno: dě
 ódě
 
 vyhloubené
@@ -7201,7 +7205,7 @@ Capitals: []
 Chyba: ktetým
 kterým: 16215
 tekutým: 82
-opraveno: kterým
+opraveno: ktetým
 kterým
 
 voda
@@ -7279,7 +7283,7 @@ Capitals: []
 Chyba: násleným
 následným: 431
 následnými: 67
-opraveno: následným
+opraveno: násleným
 následným
 
 zřícením
@@ -7308,7 +7312,7 @@ Capitals: []
 Chyba: tunýelu
 tunelu: 1922
 tunel: 924
-opraveno: tunelu
+opraveno: tunýelu
 tunelu.
 
 ['Předpoklád', 'se,', 'že', 'řeky', 'z', 'povrkhu', 'planety', 'zmizely', 'přibltžnzě', 'v', 'době', 'před', '3u5', 'miliarúami', 'let.', 'Proti', 'teorii', 'o', 'povrchových', 'řekách', 'hovoří', 'fakt,', 'že', 'některá', 'potenciální', 'řěíční', 'údolí', 'nemají', 'na', 'svémh', 'dě', 'vyhloubené', 'říční', 'koryto', 'ktetým', 'voda', 'proudí.', 'Někteří', 'vědci', 'se', 'domnívají,', 'že', 'takto', 'vzniklá', 'údolí', 'mohla', 'vzniknout', 'proudící', 'vodou', 'pod', 'zemí', 'a', 'násleným', 'zřícením', 'stropu', 'do', 'vzniklého', 'vodního', 'tunýelu.']
@@ -7332,7 +7336,7 @@ Capitals: []
 Chyba: obrovhská
 obrovská: 2171
 obrovský: 3610
-opraveno: obrovská
+opraveno: obrovhská
 obrovská
 
 řečiště
@@ -7369,7 +7373,7 @@ Capitals: []
 Chyba: dosťhovat
 dosahovat: 514
 dochovat: 13
-opraveno: dosahovat
+opraveno: dosťhovat
 dosahovat
 
 100
@@ -7397,7 +7401,7 @@ Capitals: []
 Chyba: šířvku
 šířku: 743
 šířkou: 221
-opraveno: šířku
+opraveno: šířvku
 šířku
 
 a
@@ -7429,7 +7433,7 @@ Capitals: []
 Chyba: dcélku
 délku: 1720
 délkou: 768
-opraveno: délku
+opraveno: dcélku
 délku
 
 vyskytujííí
@@ -7437,7 +7441,7 @@ Capitals: []
 Chyba: vyskytujííí
 vyskytující: 322
 vyskytují: 2373
-opraveno: vyskytující
+opraveno: vyskytujííí
 vyskytující
 
 se
@@ -7457,7 +7461,7 @@ Capitals: []
 Chyba: sevčrní
 severní: 3727
 severním: 840
-opraveno: severní
+opraveno: sevčrní
 severní
 
 polokouli.
@@ -7524,7 +7528,7 @@ Capitals: []
 Chyba: povrěchu
 povrchu: 6296
 povrch: 4839
-opraveno: povrchu
+opraveno: povrěchu
 povrchu
 
 Marsu
@@ -7541,7 +7545,7 @@ Capitals: []
 Chyba: ýznikají
 zanikají: 187
 vznikají: 3063
-opraveno: zanikají
+opraveno: ýznikají
 zanikají
 
 nejspíše
@@ -7573,7 +7577,7 @@ Capitals: []
 Chyba: vlivm
 vlivům: 494
 vlivem: 3917
-opraveno: vlivům
+opraveno: vlivm
 vlivům
 
 impaktů
@@ -7626,7 +7630,7 @@ Capitals: []
 Chyba: násqedným
 následným: 431
 následnými: 67
-opraveno: následným
+opraveno: násqedným
 následným
 
 únikem
@@ -7642,7 +7646,7 @@ Capitals: []
 Chyba: aody
 anody: 41
 ady: 46
-opraveno: anody
+opraveno: aody
 anody
 
 dro
@@ -7650,7 +7654,7 @@ Capitals: []
 Chyba: dro
 drop: 29
 dron: 34
-opraveno: drop
+opraveno: dro
 drop
 
 okolí.
@@ -7692,7 +7696,7 @@ Capitals: []
 Chyba: udeálostem
 událostem: 429
 událostmi: 499
-opraveno: událostem
+opraveno: udeálostem
 událostem
 
 došlo
@@ -7782,7 +7786,7 @@ Capitals: []
 Chyba: týak
 tak: 323183
 týna: 153
-opraveno: tak
+opraveno: týak
 tak
 
 obrovské,
@@ -7799,7 +7803,7 @@ Capitals: []
 Chyba: moo
 moto: 67
 moro: 26
-opraveno: moto
+opraveno: moo
 moto
 
 umožnit
@@ -7838,7 +7842,7 @@ Capitals: []
 Chyba: základzích
 základních: 5290
 základech: 591
-opraveno: základních
+opraveno: základzích
 základních
 
 otázek
@@ -7855,7 +7859,7 @@ Capitals: []
 Chyba: jestl
 jestli: 38404
 jest: 2308
-opraveno: jestli
+opraveno: jestl
 jestli
 
 n
@@ -7871,7 +7875,7 @@ Capitals: []
 Chyba: skutýčně
 skutečně: 19836
 uskutečněn: 56
-opraveno: skutečně
+opraveno: skutýčně
 skutečně
 
 existoal
@@ -7879,7 +7883,7 @@ Capitals: []
 Chyba: existoal
 existoval: 702
 existovaly: 711
-opraveno: existoval
+opraveno: existoal
 existoval
 
 komplexní
@@ -7974,7 +7978,7 @@ Capitals: []
 Chyba: eěxistence
 existence: 4366
 neexistence: 156
-opraveno: existence
+opraveno: eěxistence
 existence
 
 se
@@ -7990,7 +7994,7 @@ Capitals: []
 Chyba: áočítají
 počítají: 653
 čítají: 42
-opraveno: počítají
+opraveno: áočítají
 počítají
 
 geologické
@@ -8011,7 +8015,7 @@ Capitals: []
 Chyba: zdálicvě
 zdánlivě: 2573
 záliv: 227
-opraveno: zdánlivě
+opraveno: zdálicvě
 zdánlivě
 
 připomínďjí
@@ -8019,7 +8023,7 @@ Capitals: []
 Chyba: připomínďjí
 připomínají: 1480
 připomínající: 1540
-opraveno: připomínají
+opraveno: připomínďjí
 připomínají
 
 mořské
@@ -8094,7 +8098,7 @@ Capitals: []
 Chyba: zdánliově
 zdánlivě: 2573
 zdánlivý: 129
-opraveno: zdánlivě
+opraveno: zdánliově
 zdánlivě
 
 vhlazená
@@ -8102,7 +8106,7 @@ Capitals: []
 Chyba: vhlazená
 vyhlazená: 16
 vychlazená: 17
-opraveno: vyhlazená
+opraveno: vhlazená
 vyhlazená
 
 erozivní
@@ -8144,7 +8148,7 @@ Capitals: []
 Chyba: oceenské
 oceánské: 70
 mocenské: 412
-opraveno: oceánské
+opraveno: oceenské
 oceánské
 
 dno.
@@ -8186,7 +8190,7 @@ Capitals: []
 Chyba: ceán
 oceán: 984
 cen: 3755
-opraveno: oceán
+opraveno: ceán
 oceán
 
 pochází
@@ -8258,7 +8262,7 @@ Capitals: []
 Chyba: ýzkumu
 výzkumu: 5792
 výzkum: 4292
-opraveno: výzkumu
+opraveno: ýzkumu
 výzkumu
 
 se
@@ -8270,7 +8274,7 @@ Capitals: []
 Chyba: objevjily
 objevily: 2740
 objevil: 7408
-opraveno: objevily
+opraveno: objevjily
 objevily
 
 názory,
@@ -8316,7 +8320,7 @@ Capitals: []
 Chyba: oblastecí
 oblastech: 4645
 oblastí: 4546
-opraveno: oblastech
+opraveno: oblastecí
 oblastech:
 
 ['Myšlenka,', 'že', 'se', 'na', 'Marsu', 'vyskytoval', 'ceán', 'pochází', 'z', '80.', 'let', '20.', 'století,', 'ky', 'se', 'jí', 'začala', 'část', 'vědců', 'podrobněji', 'zaobírat.', 'Během', 'ýzkumu', 'se', 'objevjily', 'názory,', 'že', 'na', 'Marsu', 'mohl', 'existovat', 'oceán', 've', 'dvou', 'oblastecí:']
@@ -8335,7 +8339,7 @@ kOceanus
 Capitals: [1]
 Chyba: koceanus
 oceanus not in voc_words
-opraveno: oceanus
+opraveno: koceanus
 oCeanus
 
 Borealis)
@@ -8353,7 +8357,7 @@ Capitals: []
 Chyba: vodbní
 vodní: 4999
 úvodní: 1772
-opraveno: vodní
+opraveno: vodbní
 vodní
 
 plocha,
@@ -8411,7 +8415,7 @@ Capitals: []
 Chyba: pedstaven
 představen: 286
 představený: 154
-opraveno: představen
+opraveno: pedstaven
 představen
 
 v
@@ -8432,7 +8436,7 @@ Capitals: [0]
 Chyba: vanak
 vaniak: 31
 vana: 354
-opraveno: vaniak
+opraveno: vanak
 Vaniak
 
 tohoto
@@ -8444,7 +8448,7 @@ Capitals: []
 Chyba: oeánu
 oceánu: 1577
 ománu: 66
-opraveno: oceánu
+opraveno: oeánu
 oceánu
 
 popisuje
@@ -8464,7 +8468,7 @@ Capitals: []
 Chyba: ohromfné
 ohromné: 915
 ohromném: 102
-opraveno: ohromné
+opraveno: ohromfné
 ohromné
 
 záplavy
@@ -8504,7 +8508,7 @@ Capitals: []
 Chyba: cželkovém
 celkovém: 1035
 celkovému: 365
-opraveno: celkovém
+opraveno: cželkovém
 celkovém
 
 objemu
@@ -8573,7 +8577,7 @@ Capitals: []
 Chyba: ěřítku
 měřítku: 1369
 větříku: 45
-opraveno: měřítku
+opraveno: ěřítku
 měřítku
 
 (žádný
@@ -8594,7 +8598,7 @@ Capitals: []
 Chyba: tělusa
 tělesa: 1872
 tělu: 1442
-opraveno: tělesa
+opraveno: tělusa
 tělesa
 
 by
@@ -8614,7 +8618,7 @@ Capitals: []
 Chyba: zapříčinió
 zapříčinit: 99
 zapříčinil: 90
-opraveno: zapříčinit
+opraveno: zapříčinió
 zapříčinit
 
 takto
@@ -8626,7 +8630,7 @@ Capitals: []
 Chyba: rozsáhl
 rozsáhlý: 729
 rozsáhlé: 1997
-opraveno: rozsáhlý
+opraveno: rozsáhl
 rozsáhlý
 
 oteplení
@@ -8667,7 +8671,7 @@ Capitals: [0]
 Chyba: vypařovánlí
 vypařování: 55
 vypařováním: 11
-opraveno: vypařování
+opraveno: vypařovánlí
 Vypařování
 
 vdní
@@ -8675,7 +8679,7 @@ Capitals: []
 Chyba: vdní
 vědní: 303
 vídní: 125
-opraveno: vědní
+opraveno: vdní
 vědní
 
 páry
@@ -8699,7 +8703,7 @@ Capitals: []
 Chyba: obohtatýilo
 obohatilo: 39
 obohatil: 200
-opraveno: obohatilo
+opraveno: obohtatýilo
 obohatilo
 
 skeníkové
@@ -8707,7 +8711,7 @@ Capitals: []
 Chyba: skeníkové
 skleníkové: 92
 skleníkovém: 13
-opraveno: skleníkové
+opraveno: skeníkové
 skleníkové
 
 plyy,
@@ -8716,7 +8720,7 @@ Capitals: []
 Chyba: plyy
 plyny: 587
 polypy: 32
-opraveno: plyny
+opraveno: plyy
 plyny,
 
 což
@@ -8792,7 +8796,7 @@ Capitals: []
 Chyba: ížináci
 nížinách: 179
 ignáci: 52
-opraveno: nížinách
+opraveno: ížináci
 nížinách
 
 (Utopia
@@ -8819,7 +8823,7 @@ Capitals: []
 Chyba: přepokládané
 předpokládané: 390
 předpokládaném: 72
-opraveno: předpokládané
+opraveno: přepokládané
 předpokládané
 
 menší
@@ -8844,7 +8848,7 @@ Capitals: []
 Chyba: vyplňovalso
 vyplňovalo: 37
 vyplňoval: 95
-opraveno: vyplňovalo
+opraveno: vyplňovalso
 vyplňovalo
 
 oblast
@@ -8872,7 +8876,7 @@ Capitals: []
 Chyba: teoreticýy
 teoretický: 263
 teoreticky: 1263
-opraveno: teoretický
+opraveno: teoreticýy
 teoretický
 
 mřže
@@ -8880,7 +8884,7 @@ Capitals: []
 Chyba: mřže
 mříže: 779
 mže: 60
-opraveno: mříže
+opraveno: mřže
 mříže
 
 být
@@ -8892,7 +8896,7 @@ Capitals: []
 Chyba: pouz
 pouzí: 22
 pouze: 47696
-opraveno: pouzí
+opraveno: pouz
 pouzí
 
 zlomkovou
@@ -8908,7 +8912,7 @@ Capitals: []
 Chyba: většíh
 většího: 1812
 větších: 2863
-opraveno: většího
+opraveno: většíh
 většího
 
 oceánu
@@ -8919,7 +8923,7 @@ Oceaus
 Capitals: [0]
 Chyba: oceaus
 oceanus not in voc_words
-opraveno: oceanus
+opraveno: oceaus
 Oceanus
 
 Borelis.
@@ -8928,7 +8932,7 @@ Capitals: [0]
 Chyba: borelis
 borealis: 14
 boris: 619
-opraveno: borealis
+opraveno: borelis
 Borealis.
 
 Velká
@@ -8948,14 +8952,14 @@ Capitals: [0]
 Chyba: uopia
 utopia: 17
 opia: 79
-opraveno: utopia
+opraveno: uopia
 Utopia
 
 Plagitia
 Capitals: [0]
 Chyba: plagitia
 planitia not in voc_words
-opraveno: planitia
+opraveno: plagitia
 Planitia
 
 vykazuje
@@ -8975,7 +8979,7 @@ Capitals: []
 Chyba: přtomnosti
 přítomnosti: 3463
 přítomnost: 4230
-opraveno: přítomnosti
+opraveno: přtomnosti
 přítomnosti
 
 vody
@@ -9049,7 +9053,7 @@ Capitals: [0]
 Chyba: velikos
 velikost: 4305
 velikostí: 1764
-opraveno: velikost
+opraveno: velikos
 Velikost
 
 obrázku
@@ -9093,7 +9097,7 @@ Capitals: [0]
 Chyba: průhzkumná
 průzkumná: 42
 průzkumný: 45
-opraveno: průzkumná
+opraveno: průhzkumná
 Průzkumná
 
 vozítka
@@ -9137,7 +9141,7 @@ Capitals: []
 Chyba: vzikající
 vznikající: 927
 vznikajícím: 69
-opraveno: vznikající
+opraveno: vzikající
 vznikající
 
 během
@@ -9149,7 +9153,7 @@ Capitals: []
 Chyba: vypařovánín
 vypařování: 55
 vypařováním: 11
-opraveno: vypařování
+opraveno: vypařovánín
 vypařování
 
 mořské
@@ -9174,7 +9178,7 @@ Capitals: []
 Chyba: výsyt
 výskyt: 1784
 výskytů: 107
-opraveno: výskyt
+opraveno: výsyt
 výskyt
 
 na
@@ -9198,7 +9202,7 @@ Capitals: []
 Chyba: věce
 věnce: 343
 vědce: 790
-opraveno: věnce
+opraveno: věce
 věnce
 
 neznámý
@@ -9239,7 +9243,7 @@ Capitals: [0]
 Chyba: jelizkož
 jelikož: 3540
 elizko: 25
-opraveno: jelikož
+opraveno: jelizkož
 Jelikož
 
 má
@@ -9309,7 +9313,7 @@ Capitals: []
 Chyba: osah
 osahá: 11
 obsah: 5893
-opraveno: osahá
+opraveno: osah
 osahá
 
 železa
@@ -9407,7 +9411,7 @@ Capitals: []
 Chyba: karnbonátů
 karbonátů: 28
 karbonát: 16
-opraveno: karbonátů
+opraveno: karnbonátů
 karbonátů
 
 z
@@ -9419,7 +9423,7 @@ Capitals: []
 Chyba: tmosférického
 atmosférického: 81
 atmosférické: 120
-opraveno: atmosférického
+opraveno: tmosférického
 atmosférického
 
 oxidu
@@ -9444,7 +9448,7 @@ Capitals: []
 Chyba: fobře
 oboře: 108
 fobie: 87
-opraveno: oboře
+opraveno: fobře
 oboře
 
 pozorováno
@@ -9476,7 +9480,7 @@ noacianu
 Capitals: []
 Chyba: noacianu
 noachianu not in voc_words
-opraveno: noachianu
+opraveno: noacianu
 noachianu
 
 vypouštěla
@@ -9496,7 +9500,7 @@ Capitals: []
 Chyba: ůtále
 táhle: 39
 stále: 46371
-opraveno: táhle
+opraveno: ůtále
 táhle
 
 další
@@ -9528,7 +9532,7 @@ Capitals: []
 Chyba: oxiduč
 oxidu: 1137
 oxid: 713
-opraveno: oxidu
+opraveno: oxiduč
 oxidu
 
 uhličitého,
@@ -9553,7 +9557,7 @@ Capitals: []
 Chyba: kencentraci
 koncentraci: 959
 koncentracemi: 28
-opraveno: koncentraci
+opraveno: kencentraci
 koncentraci
 
 až
@@ -9573,7 +9577,7 @@ Capitals: []
 Chyba: setav
 sestav: 249
 stav: 10020
-opraveno: sestav
+opraveno: setav
 sestav
 
 (oxid
@@ -9688,7 +9692,7 @@ Capitals: []
 Chyba: vznkly
 vznikly: 2207
 vznikaly: 1004
-opraveno: vznikly
+opraveno: vznkly
 vznikly
 
 v
@@ -9704,7 +9708,7 @@ Capitals: []
 Chyba: hiátorii
 historii: 6675
 historici: 321
-opraveno: historii
+opraveno: hiátorii
 historii
 
 Marsu,
@@ -9725,7 +9729,7 @@ Capitals: []
 Chyba: známk
 známky: 2010
 známku: 588
-opraveno: známky
+opraveno: známk
 známky
 
 eroze,
@@ -9773,7 +9777,7 @@ Capitals: []
 Chyba: kteáé
 které: 231755
 která: 136824
-opraveno: které
+opraveno: kteáé
 které
 
 byly
@@ -9802,7 +9806,7 @@ Capitals: []
 Chyba: jsoě
 sově: 12
 soně: 19
-opraveno: sově
+opraveno: jsoě
 sově
 
 zcela
@@ -9847,7 +9851,7 @@ Capitals: [0]
 Chyba: většíl
 větší: 28679
 zvětší: 289
-opraveno: větší
+opraveno: většíl
 Větší
 
 koátery
@@ -9855,7 +9859,7 @@ Capitals: []
 Chyba: koátery
 krátery: 138
 kláštery: 189
-opraveno: krátery
+opraveno: koátery
 krátery
 
 nesou
@@ -9892,7 +9896,7 @@ Capitals: []
 Chyba: coq
 co: 246721
 lecoq: 12
-opraveno: co
+opraveno: coq
 co
 
 napovídá
@@ -9913,7 +9917,7 @@ Capitals: []
 Chyba: byy
 byty: 1829
 byly: 65335
-opraveno: byty
+opraveno: byy
 byty
 
 vystaveny
@@ -9925,7 +9929,7 @@ Capitals: []
 Chyba: vlhíkému
 vlhkému: 30
 vlhkém: 276
-opraveno: vlhkému
+opraveno: vlhíkému
 vlhkému
 
 klimatu
@@ -9950,7 +9954,7 @@ Capitals: [0]
 Chyba: krátery,i
 krátery: 138
 kráter: 213
-opraveno: krátery
+opraveno: krátery,i
 Krátery
 
 které
@@ -10025,7 +10029,7 @@ Capitals: []
 Chyba: mžné
 mužné: 93
 možné: 32841
-opraveno: mužné
+opraveno: mžné
 mužné,
 
 že
@@ -10041,7 +10045,7 @@ Capitals: []
 Chyba: tétor
 této: 42704
 tutor: 129
-opraveno: této
+opraveno: tétor
 této
 
 době
@@ -10118,7 +10122,7 @@ Capitals: []
 Chyba: jy
 jpy: 56
 joy: 72
-opraveno: jpy
+opraveno: jy
 jpy
 
 poměrně
@@ -10182,7 +10186,7 @@ Capitals: []
 Chyba: horni
 hornin: 1189
 horn: 118
-opraveno: hornin
+opraveno: horni
 hornin
 
 uplatněný
@@ -10235,7 +10239,7 @@ Capitals: []
 Chyba: silnějšd
 silnější: 3358
 silnějším: 264
-opraveno: silnější
+opraveno: silnějšd
 silnější
 
 stupeň
@@ -10290,7 +10294,7 @@ Capitals: []
 Chyba: způsobuejí
 způsobují: 992
 způsobující: 193
-opraveno: způsobují
+opraveno: způsobuejí
 způsobují,
 
 ale
@@ -10314,7 +10318,7 @@ Capitals: []
 Chyba: sílui
 sílu: 6716
 sílou: 76
-opraveno: sílu
+opraveno: sílui
 sílu
 
 pro
@@ -10335,7 +10339,7 @@ Capitals: []
 Chyba: eršozi
 erozi: 165
 verši: 201
-opraveno: erozi
+opraveno: eršozi
 erozi.
 
 K
@@ -10375,7 +10379,7 @@ Capitals: []
 Chyba: říyční
 říční: 643
 říčním: 126
-opraveno: říční
+opraveno: říyční
 říční
 
 síť
@@ -10403,7 +10407,7 @@ Capitals: []
 Chyba: vyplníěno
 vyplněno: 48
 vyplněnou: 45
-opraveno: vyplněno
+opraveno: vyplníěno
 vyplněno
 
 sedimenty
@@ -10439,7 +10443,7 @@ Capitals: []
 Chyba: připěmínající
 připomínající: 1540
 připomínajícím: 194
-opraveno: připomínající
+opraveno: připěmínající
 připomínající
 
 říční
@@ -10486,7 +10490,7 @@ Capitals: []
 Chyba: povzorovny
 pozorovány: 108
 pozorován: 129
-opraveno: pozorovány
+opraveno: povzorovny
 pozorovány
 
 oblasti,
@@ -10520,7 +10524,7 @@ Capitals: []
 Chyba: seěimentru
 sedimentu: 91
 sentimentu: 86
-opraveno: sedimentu
+opraveno: seěimentru
 sedimentu,
 
 které
@@ -10545,7 +10549,7 @@ Capitals: []
 Chyba: součšsných
 současných: 2371
 sloučených: 10
-opraveno: současných
+opraveno: součšsných
 současných
 
 znalostí)
@@ -10574,7 +10578,7 @@ spektrometróckýhh
 Capitals: []
 Chyba: spektrometróckýhh
 spektrometrických not in voc_words
-opraveno: spektrometrických
+opraveno: spektrometróckýhh
 spektrometrických
 
 měření
@@ -10651,7 +10655,7 @@ Capitals: []
 Chyba: kontaktzu
 kontaktu: 3172
 kontraktu: 365
-opraveno: kontaktu
+opraveno: kontaktzu
 kontaktu
 
 s
@@ -10687,7 +10691,7 @@ Capitals: []
 Chyba: přgvážně
 převážně: 4808
 vážně: 11299
-opraveno: převážně
+opraveno: přgvážně
 převážně
 
 bazaltovém
@@ -10781,7 +10785,7 @@ Capitals: []
 Chyba: evapoiů
 evaporitů: 10
 evapority: 17
-opraveno: evaporitů
+opraveno: evapoiů
 evaporitů
 
 vznikajících
@@ -10806,7 +10810,7 @@ Capitals: []
 Chyba: čáti
 části: 25209
 čti: 161
-opraveno: části
+opraveno: čáti
 části
 
 jsou
@@ -10818,7 +10822,7 @@ Capitals: []
 Chyba: dřenášeny
 přenášeny: 79
 přenášen: 59
-opraveno: přenášeny
+opraveno: dřenášeny
 přenášeny
 
 na
@@ -10843,7 +10847,7 @@ Capitals: []
 Chyba: zčačínďjí
 začínají: 3515
 začínaj: 34
-opraveno: začínají
+opraveno: zčačínďjí
 začínají
 
 postfpně
@@ -10851,7 +10855,7 @@ Capitals: []
 Chyba: postfpně
 postupně: 13846
 potupně: 86
-opraveno: postupně
+opraveno: postfpně
 postupně
 
 sedimentovat
@@ -10867,7 +10871,7 @@ Capitals: []
 Chyba: áytvářet
 vytvářet: 2380
 vyvářet: 16
-opraveno: vytvářet
+opraveno: áytvářet
 vytvářet
 
 nové
@@ -10941,7 +10945,7 @@ Capitals: []
 Chyba: byžy
 byty: 1829
 byly: 65335
-opraveno: byty
+opraveno: byžy
 byty
 
 unášehy
@@ -10949,7 +10953,7 @@ Capitals: []
 Chyba: unášehy
 unášeny: 22
 unášely: 21
-opraveno: unášeny
+opraveno: unášehy
 unášeny
 
 a
@@ -11003,7 +11007,7 @@ Capitals: []
 Chyba: živtot
 život: 37900
 životů: 1149
-opraveno: život
+opraveno: živtot
 život
 
 existoval,
@@ -11075,7 +11079,7 @@ Capitals: []
 Chyba: vysyytují
 vyskytují: 2373
 vyskytující: 322
-opraveno: vyskytují
+opraveno: vysyytují
 vyskytují,
 
 jsu
@@ -11083,7 +11087,7 @@ Capitals: []
 Chyba: jsu
 jsou: 235362
 jesu: 41
-opraveno: jsou
+opraveno: jsu
 jsou
 
 rozesety
@@ -11128,7 +11132,7 @@ Capitals: []
 Chyba: vyskytupjí
 vyskytují: 2373
 vyskytující: 322
-opraveno: vyskytují
+opraveno: vyskytupjí
 vyskytují
 
 v
@@ -11185,7 +11189,7 @@ sufix: ,
 Capitals: [0]
 Chyba: meridiahi
 meridiani not in voc_words
-opraveno: meridiani
+opraveno: meridiahi
 Meridiani,
 
 v
@@ -11204,7 +11208,7 @@ Marioeris
 Capitals: [0]
 Chyba: marioeris
 marineris not in voc_words
-opraveno: marineris
+opraveno: marioeris
 Marineris
 
 a
@@ -11224,7 +11228,7 @@ Capitals: []
 Chyba: čsti
 čísti: 22
 části: 25209
-opraveno: čísti
+opraveno: čsti
 čísti
 
 pánve
@@ -11237,7 +11241,7 @@ Capitals: [0]
 Chyba: hellšs
 hells: 18
 helšus: 10
-opraveno: hells
+opraveno: hellšs
 Hells.
 
 Některéu
@@ -11245,7 +11249,7 @@ Capitals: [0]
 Chyba: některéu
 některému: 244
 některé: 18292
-opraveno: některému
+opraveno: některéu
 Některému
 
 oblasti
@@ -11335,7 +11339,7 @@ Capitals: []
 Chyba: naú
 na: 1713721
 una: 39
-opraveno: na
+opraveno: naú
 na
 
 dně
@@ -11356,7 +11360,7 @@ Capitals: []
 Chyba: jeser
 jesper: 255
 jespere: 18
-opraveno: jesper
+opraveno: jeser
 jesper,
 
 které
@@ -11380,7 +11384,7 @@ Capitals: []
 Chyba: dúalší
 další: 75741
 dalším: 9148
-opraveno: další
+opraveno: dúalší
 další
 
 deprese
@@ -11396,7 +11400,7 @@ Capitals: []
 Chyba: povrchuý
 povrchu: 6296
 povrch: 4839
-opraveno: povrchu
+opraveno: povrchuý
 povrchu
 
 Jejich
@@ -11461,7 +11465,7 @@ Capitals: []
 Chyba: nacházla
 nacházela: 874
 naházela: 64
-opraveno: nacházela
+opraveno: nacházla
 nacházela
 
 na
@@ -11579,7 +11583,7 @@ Capitals: []
 Chyba: bezejmennéeho
 bezejmenného: 50
 bezejmenné: 91
-opraveno: bezejmenného
+opraveno: bezejmennéeho
 bezejmenného
 
 kráteru
@@ -11612,7 +11616,7 @@ Capitals: []
 Chyba: teoribe
 teorie: 6627
 theorie: 14
-opraveno: teorie
+opraveno: teoribe
 teorie
 
 vzniklé
@@ -11655,7 +11659,7 @@ Capitals: []
 Chyba: podmíynky
 podmínky: 9685
 upomínky: 77
-opraveno: podmínky
+opraveno: podmíynky
 podmínky
 
 na
@@ -11671,7 +11675,7 @@ Capitals: [0]
 Chyba: marsěu
 marsu: 590
 masu: 496
-opraveno: marsu
+opraveno: marsěu
 Marsu
 
 neuvožňují
@@ -11679,7 +11683,7 @@ Capitals: []
 Chyba: neuvožňují
 neuvolňují: 10
 neumožňují: 186
-opraveno: neuvolňují
+opraveno: neuvožňují
 neuvolňují
 
 existenci
@@ -11712,7 +11716,7 @@ Capitals: []
 Chyba: horiontu
 horizontu: 1328
 horizonu: 15
-opraveno: horizontu
+opraveno: horiontu
 horizontu,
 
 a
@@ -11811,7 +11815,7 @@ Capitals: []
 Chyba: jejú
 jej: 27077
 jejž: 1012
-opraveno: jej
+opraveno: jejú
 jej
 
 existenci
@@ -11827,7 +11831,7 @@ Capitals: []
 Chyba: povrcu
 povrchu: 6296
 pověru: 29
-opraveno: povrchu
+opraveno: povrcu
 povrchu
 
 zbyly
@@ -11899,7 +11903,7 @@ Capitals: []
 Chyba: součyasné
 současné: 11432
 současném: 1103
-opraveno: současné
+opraveno: součyasné
 současné
 
 době
@@ -11961,7 +11965,7 @@ Capitals: []
 Chyba: americkž
 americký: 3063
 americké: 5151
-opraveno: americký
+opraveno: americkž
 americký
 
 sonda
@@ -11977,7 +11981,7 @@ Capitals: [0]
 Chyba: gploubal
 global: 357
 hloubal: 37
-opraveno: global
+opraveno: gploubal
 Global
 
 Surveyor
@@ -11989,7 +11993,7 @@ Capitals: []
 Chyba: přnesla
 přinesla: 2752
 přenesla: 273
-opraveno: přinesla
+opraveno: přnesla
 přinesla
 
 snímky,
@@ -12052,7 +12056,7 @@ Capitals: []
 Chyba: ebo
 nebo: 231846
 lebo: 13
-opraveno: nebo
+opraveno: ebo
 nebo
 
 nachází.
@@ -12097,7 +12101,7 @@ Capitals: [0]
 Chyba: ceuntauri
 centauri: 120
 centuri: 35
-opraveno: centauri
+opraveno: ceuntauri
 Centauri
 
 Montes,
@@ -12130,7 +12134,7 @@ Capitals: []
 Chyba: vréstvaá
 vrstva: 1932
 vrstvám: 172
-opraveno: vrstva
+opraveno: vréstvaá
 vrstva
 
 sedimentů
@@ -12155,7 +12159,7 @@ Capitals: []
 Chyba: dšlo
 došlo: 14391
 šlo: 10990
-opraveno: došlo
+opraveno: dšlo
 došlo
 
 ke
@@ -12187,7 +12191,7 @@ Capitals: []
 Chyba: óejímu
 jejímu: 2764
 jejímuž: 88
-opraveno: jejímu
+opraveno: óejímu
 jejímu
 
 stékání
@@ -12224,7 +12228,7 @@ Capitals: []
 Chyba: spákulzce
 spekulace: 846
 pulzace: 32
-opraveno: spekulace
+opraveno: spákulzce
 spekulace
 
 o
@@ -12236,7 +12240,7 @@ Capitals: []
 Chyba: přežúvím
 přeživším: 24
 přežíváním: 11
-opraveno: přeživším
+opraveno: přežúvím
 přeživším
 
 mimozemském
@@ -12297,7 +12301,7 @@ Capitals: []
 Chyba: ěrbeiter
 reiter: 22
 orbiter: 12
-opraveno: reiter
+opraveno: ěrbeiter
 reiter
 
 však
@@ -12333,7 +12337,7 @@ Capitals: []
 Chyba: obsahujícrch
 obsahujících: 232
 obsahujícího: 99
-opraveno: obsahujících
+opraveno: obsahujícrch
 obsahujících
 
 vodu.
@@ -12379,7 +12383,7 @@ Capitals: []
 Chyba: sedámentů
 sedimentů: 371
 segmentů: 291
-opraveno: sedimentů
+opraveno: sedámentů
 sedimentů
 
 odlišného
@@ -12395,7 +12399,7 @@ Capitals: []
 Chyba: vznila
 věznila: 18
 vznikla: 4812
-opraveno: věznila
+opraveno: vznila
 věznila
 
 spíše
@@ -12432,7 +12436,7 @@ Capitals: []
 Chyba: hornminy
 horniny: 1110
 hornin: 1189
-opraveno: horniny
+opraveno: hornminy
 horniny
 
 jiného
@@ -12444,7 +12448,7 @@ Capitals: []
 Chyba: sftáří
 stáří: 3087
 stářím: 271
-opraveno: stáří
+opraveno: sftáří
 stáří
 
 poy
@@ -12452,7 +12456,7 @@ Capitals: []
 Chyba: poy
 pony: 21
 poly: 15
-opraveno: pony
+opraveno: poy
 pony
 
 příkrém
@@ -12505,7 +12509,7 @@ Capitals: []
 Chyba: některéc
 některé: 18292
 některém: 658
-opraveno: některé
+opraveno: některéc
 některé
 
 podmínky
@@ -12533,7 +12537,7 @@ Capitals: []
 Chyba: tkeploty
 teploty: 3920
 teplot: 1076
-opraveno: teploty
+opraveno: tkeploty
 teploty
 
 Atmosférický
@@ -12615,7 +12619,7 @@ Capitals: []
 Chyba: hodnjot
 hodnot: 3594
 hodnotě: 2851
-opraveno: hodnot
+opraveno: hodnjot
 hodnot
 
 tzv.
@@ -12758,7 +12762,7 @@ Capitals: []
 Chyba: atmosrférickou
 atmosférickou: 27
 atmosférického: 81
-opraveno: atmosférickou
+opraveno: atmosrférickou
 atmosférickou
 
 vodní
@@ -12783,7 +12787,7 @@ Capitals: []
 Chyba: omu
 tomu: 77285
 osmu: 13
-opraveno: tomu
+opraveno: omu
 tomu
 
 být
@@ -12795,7 +12799,7 @@ Capitals: []
 Chyba: vžndy
 vždy: 29044
 vždyť: 8179
-opraveno: vždy
+opraveno: vžndy
 vždy
 
 tak.
@@ -12849,7 +12853,7 @@ Capitals: []
 Chyba: kosmickéhoq
 kosmického: 323
 komického: 58
-opraveno: kosmického
+opraveno: kosmickéhoq
 kosmického
 
 prastorub
@@ -12857,7 +12861,7 @@ Capitals: []
 Chyba: prastorub
 prostoru: 13155
 rastru: 96
-opraveno: prostoru
+opraveno: prastorub
 prostoru
 
 jelikož
@@ -12869,7 +12873,7 @@ Capitals: [0]
 Chyba: msrs
 srs: 27
 mss: 10
-opraveno: srs
+opraveno: msrs
 Srs
 
 má
@@ -12894,7 +12898,7 @@ Capitals: []
 Chyba: polne
 prolne: 16
 polkne: 92
-opraveno: prolne
+opraveno: polne
 prolne,
 
 a
@@ -12931,7 +12935,7 @@ Capitals: []
 Chyba: prostqředí
 prostředí: 24203
 prostředím: 1259
-opraveno: prostředí
+opraveno: prostqředí
 prostředí.
 
 ['Nepatrná', 'část', 'vody', 'připadá', 'i', 'na', 'atmosrférickou', 'vodní', 'páru,', 'ale', 'nemuselo', 'omu', 'být', 'vžndy', 'tak.', 'Existují', 'teorie,', 'e', 'většina', 'vody', 'zmizela', 'z', 'Marsu', 'do', 'okolního', 'kosmickéhoq', 'prastorub', 'jelikož', 'Msrs', 'má', 'mnohem', 'slabší', 'gravitační', 'polne,', 'a', 'tak', 'částice', 'snadněji', 'unikají', 'do', 'okolního', 'prostqředí.']
@@ -12965,7 +12969,7 @@ Capitals: [0]
 Chyba: pathfander
 pathfinder: 19
 santander: 33
-opraveno: pathfinder
+opraveno: pathfander
 Pathfinder
 
 ['Ledové', 'mraky', 'z', 'pohledu', 'sondy', 'Mars', 'Pathfander']
@@ -12985,7 +12989,7 @@ Capitals: []
 Chyba: idformace
 informace: 15837
 deformace: 691
-opraveno: informace
+opraveno: idformace
 informace
 
 naleznete
@@ -12997,7 +13001,7 @@ Capitals: []
 Chyba: takf
 tak: 323183
 tlak: 5284
-opraveno: tak
+opraveno: takf
 tak
 
 v
@@ -13060,7 +13064,7 @@ Capitals: []
 Chyba: atmosfře
 atmosféře: 1384
 atmos: 15
-opraveno: atmosféře
+opraveno: atmosfře
 atmosféře
 
 Marsu
@@ -13085,7 +13089,7 @@ Capitals: []
 Chyba: ráry
 čáry: 1171
 sáry: 83
-opraveno: čáry
+opraveno: ráry
 čáry,
 
 což
@@ -13146,7 +13150,7 @@ Capitals: []
 Chyba: fzikálních
 fyzikálních: 555
 fiskálních: 51
-opraveno: fyzikálních
+opraveno: fzikálních
 fyzikálních
 
 modelů
@@ -13187,7 +13191,7 @@ Capitals: []
 Chyba: miliwrdami
 miliardami: 331
 miliarda: 240
-opraveno: miliardami
+opraveno: miliwrdami
 miliardami
 
 let
@@ -13220,7 +13224,7 @@ Capitals: []
 Chyba: ahtmosféru
 atmosféru: 2943
 atmosférou: 615
-opraveno: atmosféru
+opraveno: ahtmosféru
 atmosféru,
 
 terá
@@ -13228,7 +13232,7 @@ Capitals: []
 Chyba: terá
 která: 136824
 ter: 13
-opraveno: která
+opraveno: terá
 která
 
 existovala
@@ -13301,7 +13305,7 @@ Capitals: []
 Chyba: uchého
 suchého: 478
 uschlého: 30
-opraveno: suchého
+opraveno: uchého
 suchého
 
 ledu
@@ -13343,7 +13347,7 @@ Capitals: []
 Chyba: definitivsně
 definitivně: 2772
 definitivní: 1116
-opraveno: definitivně
+opraveno: definitivsně
 definitivně
 
 potvrdila,
@@ -13384,7 +13388,7 @@ Capitals: []
 Chyba: vz
 zvz: 10
 v–z: 31
-opraveno: zvz
+opraveno: vz
 zvz
 
 pevném
@@ -13438,7 +13442,7 @@ Capitals: []
 Chyba: výslgdky
 výsledky: 10005
 výstelky: 36
-opraveno: výsledky
+opraveno: výslgdky
 výsledky
 
 se
@@ -13454,7 +13458,7 @@ Capitals: []
 Chyba: interyretovat
 interpretovat: 687
 reinterpretovat: 19
-opraveno: interpretovat
+opraveno: interyretovat
 interpretovat
 
 více
@@ -13471,7 +13475,7 @@ Capitals: []
 Chyba: znik
 zánik: 539
 vznik: 3495
-opraveno: zánik
+opraveno: znik
 zánik
 
 ledových
@@ -13503,7 +13507,7 @@ Capitals: []
 Chyba: meverní
 severní: 3727
 severním: 840
-opraveno: severní
+opraveno: meverní
 severní
 
 polární
@@ -13556,7 +13560,7 @@ marsovskéwho
 Capitals: []
 Chyba: marsovskéwho
 marsovského not in voc_words
-opraveno: marsovského
+opraveno: marsovskéwho
 marsovského
 
 jara
@@ -13625,7 +13629,7 @@ Capitals: []
 Chyba: ovníkových
 rovníkových: 18
 slovníkových: 13
-opraveno: rovníkových
+opraveno: ovníkových
 rovníkových
 
 oblastí,
@@ -13674,7 +13678,7 @@ Capitals: []
 Chyba: ledoxch
 ledových: 494
 lenoch: 78
-opraveno: ledových
+opraveno: ledoxch
 ledových
 
 krytalků,
@@ -13683,7 +13687,7 @@ Capitals: []
 Chyba: krytalků
 krystalků: 101
 krystalů: 715
-opraveno: krystalků
+opraveno: krytalků
 krystalků,
 
 čímž
@@ -13711,7 +13715,7 @@ Capitals: []
 Chyba: tkořené
 tvořené: 515
 třené: 22
-opraveno: tvořené
+opraveno: tkořené
 tvořené
 
 zmrzlou
@@ -13736,7 +13740,7 @@ Capitals: []
 Chyba: maků
 mraků: 712
 macků: 35
-opraveno: mraků
+opraveno: maků
 mraků
 
 jk
@@ -13815,7 +13819,7 @@ Capitals: []
 Chyba: polárn
 polární: 539
 polárním: 116
-opraveno: polární
+opraveno: polárn
 polární
 
 čepičku
@@ -13835,7 +13839,7 @@ Capitals: []
 Chyba: výsledbů
 výsledků: 4315
 výsledkům: 700
-opraveno: výsledků
+opraveno: výsledbů
 výsledků
 
 měření
@@ -13927,7 +13931,7 @@ Capitals: []
 Chyba: vodnach
 vodnatých: 16
 vodných: 63
-opraveno: vodnatých
+opraveno: vodnach
 vodnatých
 
 zdrojů
@@ -14004,7 +14008,7 @@ Capitals: []
 Chyba: ledemf
 ledem: 634
 sledem: 89
-opraveno: ledem
+opraveno: ledemf
 ledem
 
 Polární
@@ -14024,7 +14028,7 @@ Capitals: []
 Chyba: vájemně
 vzájemně: 3814
 jemně: 3268
-opraveno: vzájemně
+opraveno: vájemně
 vzájemně
 
 rozdílné
@@ -14049,7 +14053,7 @@ Capitals: [0]
 Chyba: jižníj
 jižní: 4583
 jižním: 1013
-opraveno: jižní
+opraveno: jižníj
 Jižní
 
 čepička
@@ -14065,7 +14069,7 @@ Capitals: []
 Chyba: tvořea
 tvořena: 673
 utvořena: 19
-opraveno: tvořena
+opraveno: tvořea
 tvořena
 
 převážně
@@ -14099,7 +14103,7 @@ Capitals: []
 Chyba: úhličitý
 uhličitý: 388
 uhličitým: 111
-opraveno: uhličitý
+opraveno: úhličitý
 uhličitý)
 
 a
@@ -14165,7 +14169,7 @@ Capitals: []
 Chyba: nachůází
 nachází: 6779
 nadchází: 31
-opraveno: nachází
+opraveno: nachůází
 nachází
 
 možná
@@ -14227,7 +14231,7 @@ Capitals: []
 Chyba: seerní
 severní: 3727
 severním: 840
-opraveno: severní
+opraveno: seerní
 severní
 
 epička).
@@ -14236,7 +14240,7 @@ Capitals: []
 Chyba: epička
 čepička: 32
 epika: 20
-opraveno: čepička
+opraveno: epička
 čepička).
 
 Oproti
@@ -14326,7 +14330,7 @@ Capitals: [0]
 Chyba: objeení
 objevení: 436
 objevením: 62
-opraveno: objevení
+opraveno: objeení
 Objevení
 
 vodního
@@ -14371,7 +14375,7 @@ Capitals: []
 Chyba: byřl
 byl: 194660
 zbyl: 566
-opraveno: byl
+opraveno: byřl
 byl
 
 v
@@ -14424,7 +14428,7 @@ Capitals: []
 Chyba: většiia
 většina: 11758
 zvětšili: 39
-opraveno: většina
+opraveno: většiia
 většina
 
 atmosféry
@@ -14473,7 +14477,7 @@ Capitals: []
 Chyba: ondobně
 podobně: 11325
 ozdobně: 58
-opraveno: podobně
+opraveno: ondobně
 podobně
 
 jako
@@ -14526,7 +14530,7 @@ Capitals: []
 Chyba: noé
 nové: 32722
 né: 258
-opraveno: nové
+opraveno: noé
 nové
 
 poznatky
@@ -14629,7 +14633,7 @@ Capitals: []
 Chyba: zákýladě
 základě: 12976
 základně: 575
-opraveno: základě
+opraveno: zákýladě
 základě
 
 termálních
@@ -14653,7 +14657,7 @@ Capitals: [0]
 Chyba: glohal
 global: 357
 lhal: 519
-opraveno: global
+opraveno: glohal
 Global
 
 Surveyor
@@ -14686,7 +14690,7 @@ Capitals: []
 Chyba: vyšlóo
 vyšlo: 2409
 vyšlou: 79
-opraveno: vyšlo
+opraveno: vyšlóo
 vyšlo
 
 iajevo,
@@ -14695,7 +14699,7 @@ Capitals: []
 Chyba: iajevo
 najevo: 5133
 jevo: 11
-opraveno: najevo
+opraveno: iajevo
 najevo,
 
 že
@@ -14715,7 +14719,7 @@ Capitals: []
 Chyba: olast
 oblast: 6122
 last: 126
-opraveno: oblast
+opraveno: olast
 oblast
 
 zahřívá
@@ -14765,7 +14769,7 @@ Capitals: []
 Chyba: exisovat
 existovat: 2247
 neexistovat: 15
-opraveno: existovat
+opraveno: exisovat
 existovat,
 
 což
@@ -14798,7 +14802,7 @@ Capitals: []
 Chyba: olární
 solární: 1151
 polární: 539
-opraveno: solární
+opraveno: olární
 solární
 
 čepipka
@@ -14806,7 +14810,7 @@ Capitals: []
 Chyba: čepipka
 čepička: 32
 epika: 20
-opraveno: čepička
+opraveno: čepipka
 čepička
 
 zabírá
@@ -14830,7 +14834,7 @@ Capitals: []
 Chyba: přibliždně
 přibližně: 7729
 přibližný: 106
-opraveno: přibližně
+opraveno: přibliždně
 přibližně
 
 1
@@ -14858,7 +14862,7 @@ Capitals: []
 Chyba: tlouťkou
 tloušťkou: 190
 tloušťku: 320
-opraveno: tloušťkou
+opraveno: tlouťkou
 tloušťkou
 
 ledu
@@ -14869,7 +14873,7 @@ ledu
 Capitals: []
 Chyba: 1,0h
 10 not in voc_words
-opraveno: 10
+opraveno: 1,0h
 10
 
 km
@@ -14899,7 +14903,7 @@ Capitals: []
 Chyba: ízkládá
 zakládá: 664
 zakládám: 22
-opraveno: zakládá
+opraveno: ízkládá
 zakládá
 
 se
@@ -14944,7 +14948,7 @@ Capitals: []
 Chyba: oadpcvídá
 odpovídá: 6033
 zodpovídá: 224
-opraveno: odpovídá
+opraveno: oadpcvídá
 odpovídá
 
 po
@@ -15039,7 +15043,7 @@ Capitals: []
 Chyba: rozttí
 roztátí: 11
 roztát: 32
-opraveno: roztátí
+opraveno: rozttí
 roztátí
 
 owbsahovala,
@@ -15048,7 +15052,7 @@ Capitals: []
 Chyba: owbsahovala
 obsahovala: 538
 obsahoval: 514
-opraveno: obsahovala
+opraveno: owbsahovala
 obsahovala,
 
 se
@@ -15072,7 +15076,7 @@ Capitals: []
 Chyba: milióniů
 miliónů: 3075
 miliónům: 35
-opraveno: miliónů
+opraveno: milióniů
 miliónů
 
 km3,
@@ -15089,7 +15093,7 @@ Capitals: []
 Chyba: odpoídá
 odpovídá: 6033
 zodpovídá: 224
-opraveno: odpovídá
+opraveno: odpoídá
 odpovídá
 
 poloěině
@@ -15097,7 +15101,7 @@ Capitals: []
 Chyba: poloěině
 polovině: 7207
 polovin: 38
-opraveno: polovině
+opraveno: poloěině
 polovině
 
 všeho
@@ -15173,7 +15177,7 @@ Capitals: []
 Chyba: obrovsk
 obrovský: 3610
 obrovské: 4563
-opraveno: obrovský
+opraveno: obrovsk
 obrovský
 
 zásoby,
@@ -15186,7 +15190,7 @@ Capitals: []
 Chyba: al
 žal: 584
 ťal: 40
-opraveno: žal
+opraveno: al
 žal
 
 nemůže
@@ -15219,7 +15223,7 @@ Capitals: []
 Chyba: yvořilo
 vytvořilo: 465
 tvořilo: 390
-opraveno: vytvořilo
+opraveno: yvořilo
 vytvořilo
 
 na
@@ -15231,7 +15235,7 @@ Capitals: []
 Chyba: áocvrcho
 vrchol: 2239
 povrch: 4839
-opraveno: vrchol
+opraveno: áocvrcho
 vrchol
 
 oceán.
@@ -15248,7 +15252,7 @@ Capitals: [0]
 Chyba: poblí
 poblíž: 3662
 polí: 1681
-opraveno: poblíž
+opraveno: poblí
 Poblíž
 
 severního
@@ -15271,7 +15275,7 @@ Vastitao
 Capitals: [0]
 Chyba: vastitao
 vastitas not in voc_words
-opraveno: vastitas
+opraveno: vastitao
 Vastitas
 
 Borealis
@@ -15299,7 +15303,7 @@ Capitals: []
 Chyba: oxjeven
 objeven: 290
 objevený: 108
-opraveno: objeven
+opraveno: oxjeven
 objeven
 
 kráter,
@@ -15341,7 +15345,7 @@ Capitals: [0]
 Chyba: krábterg
 kráter: 213
 kráterů: 69
-opraveno: kráter
+opraveno: krábterg
 Kráter
 
 je
@@ -15427,7 +15431,7 @@ Capitals: []
 Chyba: oď
 poď: 50
 loď: 4186
-opraveno: poď
+opraveno: oď
 poď
 
 suchý
@@ -15448,7 +15452,7 @@ Capitals: []
 Chyba: vyvxácen
 vyvrácen: 22
 vyvrácený: 23
-opraveno: vyvrácen
+opraveno: vyvxácen
 vyvrácen,
 
 jelikož
@@ -15527,7 +15531,7 @@ Capitals: []
 Chyba: koncřentrace
 koncentrace: 1969
 koncentracemi: 28
-opraveno: koncentrace
+opraveno: koncřentrace
 koncentrace
 
 vcody
@@ -15535,7 +15539,7 @@ Capitals: []
 Chyba: vcody
 vchody: 187
 vody: 23666
-opraveno: vchody
+opraveno: vcody
 vchody
 
 v
@@ -15551,7 +15555,7 @@ Capitals: []
 Chyba: čepčkách
 čepičkách: 10
 čtečkách: 18
-opraveno: čepičkách
+opraveno: čepčkách
 čepičkách
 
 s
@@ -15633,7 +15637,7 @@ Capitals: []
 Chyba: zastoupekní
 zastoupení: 1806
 zastoupením: 191
-opraveno: zastoupení
+opraveno: zastoupekní
 zastoupení
 
 ťo
@@ -15641,7 +15645,7 @@ Capitals: []
 Chyba: ťo
 ťop: 14
 ťok: 18
-opraveno: ťop
+opraveno: ťo
 ťop
 
 oblastí
@@ -15663,7 +15667,7 @@ Capitals: []
 Chyba: rovnmoběžek
 rovnoběžek: 11
 rovnoběžky: 34
-opraveno: rovnoběžek
+opraveno: rovnmoběžek
 rovnoběžek,
 
 či
@@ -15712,7 +15716,7 @@ Capitals: [0]
 Chyba: odhadujeá
 odhaduje: 1168
 odhadujete: 30
-opraveno: odhaduje
+opraveno: odhadujeá
 Odhaduje
 
 se,
@@ -15841,7 +15845,7 @@ Capitals: []
 Chyba: objektú
 objekt: 2937
 objektů: 2697
-opraveno: objekt
+opraveno: objektú
 objekt,
 
 které
@@ -15862,7 +15866,7 @@ Capitals: []
 Chyba: oslasti
 slasti: 257
 oblasti: 25304
-opraveno: slasti
+opraveno: oslasti
 slasti,
 
 kde
@@ -15924,7 +15928,7 @@ Capitals: []
 Chyba: nzjspíše
 nejspíše: 1445
 nejspíš: 8176
-opraveno: nejspíše
+opraveno: nzjspíše
 nejspíše
 
 vyskytoval
@@ -15957,7 +15961,7 @@ sufix: ,
 Capitals: [0]
 Chyba: planitúia
 planitia not in voc_words
-opraveno: planitia
+opraveno: planitúia
 Planitia,
 
 Aůrgyre,
@@ -15965,7 +15969,7 @@ sufix: ,
 Capitals: [0]
 Chyba: aůrgyre
 argyre not in voc_words
-opraveno: argyre
+opraveno: aůrgyre
 Argyre,
 
 dna
@@ -15982,7 +15986,7 @@ Capitals: []
 Chyba: koryst
 koryt: 105
 korytě: 97
-opraveno: koryt
+opraveno: koryst
 koryt
 
 (obzvláště
@@ -16024,14 +16028,14 @@ Capitals: []
 Chyba: mdul
 modul: 895
 mul: 38
-opraveno: modul
+opraveno: mdul
 modul
 
 Sojouýner
 Capitals: [0]
 Chyba: sojouýner
 sojourner not in voc_words
-opraveno: sojourner
+opraveno: sojouýner
 Sojourner
 
 sondy
@@ -16056,7 +16060,7 @@ Capitals: []
 Chyba: současnostei
 současnosti: 6586
 současnost: 507
-opraveno: současnosti
+opraveno: současnostei
 současnosti
 
 jsou
@@ -16068,7 +16072,7 @@ Capitals: []
 Chyba: oblassi
 oblasti: 25304
 oblastmi: 355
-opraveno: oblasti
+opraveno: oblassi
 oblasti
 
 s
@@ -16084,7 +16088,7 @@ Capitals: []
 Chyba: stabilní,é
 stabilní: 2192
 stabilním: 171
-opraveno: stabilní
+opraveno: stabilní,é
 stabilní
 
 ale
@@ -16154,7 +16158,7 @@ Capitals: []
 Chyba: modúly
 modly: 80
 moduly: 590
-opraveno: modly
+opraveno: modúly
 modly
 
 předpokládají,
@@ -16183,7 +16187,7 @@ Capitals: []
 Chyba: moúl
 moú: 22
 mol: 190
-opraveno: moú
+opraveno: moúl
 moú
 
 v
@@ -16203,7 +16207,7 @@ Capitals: []
 Chyba: vskyktovatk
 vyskytovat: 410
 vykovat: 10
-opraveno: vyskytovat
+opraveno: vskyktovatk
 vyskytovat
 
 až
@@ -16243,7 +16247,7 @@ Capitals: []
 Chyba: oblasteuh
 oblastech: 4645
 oblastem: 266
-opraveno: oblastech
+opraveno: oblasteuh
 oblastech
 
 několik
@@ -16272,7 +16276,7 @@ Capitals: []
 Chyba: podzřmních
 podzimních: 478
 podzemních: 951
-opraveno: podzimních
+opraveno: podzřmních
 podzimních
 
 zásob
@@ -16288,7 +16292,7 @@ Capitals: []
 Chyba: jeich
 jejich: 109717
 jich: 16646
-opraveno: jejich
+opraveno: jeich
 jejich
 
 hloubky
@@ -16403,7 +16407,7 @@ Capitals: []
 Chyba: tavu
 stavu: 14709
 otavu: 17
-opraveno: stavu
+opraveno: tavu
 stavu.
 
 ['První', 'poznatky', 'o', 'jeho', 'existenci', 'přinesly', 'fotografie', 'pořízené', 'sondou', 'Viking.', 'Na', 'jejich', 'základě', 'rozpoznali', 'vědci', 'objektú,', 'které', 'připomínaly', 'pozemské', 'oslasti,', 'kde', 'se', 'permafrost', 'vyskytuje.', 'Na', 'Marsu', 'jsou', 'to', 'převážně', 'oblasti,', 'kde', 'se', 'dříve', 'nzjspíše', 'vyskytoval', 'severní', 'ledový', 'oceán,', 'oblast', 'Hellas', 'Planitúia,', 'Aůrgyre,', 'dna', 'kráterů,', 'koryst', '(obzvláště', 'v', 'oblasti', 'Ares', 'Valley,', 'kde', 'přistál', 'povrchový', 'mdul', 'Sojouýner', 'sondy', 'Mars', 'Pathfinder).', 'V', 'současnostei', 'jsou', 'oblassi', 's', 'permafrostem', 'stabilní,é', 'ale', 'pokud', 'by', 'došlo', 'k', 'oteplení', 'povrchu,', 'natal', 'by', 'rozsáhlý', 'kolaps', 'a', 'sesuvy', 'půdy.', 'Některé', 'modúly', 'předpokládají,', 'že', 'by', 'se', 'permafrost', 'moúl', 'v', 'oblasti', 'pólů', 'vskyktovatk', 'až', 'do', 'hloubky', '1', 'km', 'a', 'v', 'rovníkových', 'oblasteuh', 'několik', 'set', 'metrů.', 'Průzkum', 'těchto', 'podzřmních', 'zásob', 'a', 'jeich', 'hloubky', 'je', 'extrémně', 'složitý.', 'Pro', 'jeho', 'odhady', 'xe', 'využívá', 'změny', 'gravitačního', 'pole,', 'ale', 'i', 'tato', 'metoda', 'je', 'značně', 'nepřesná', 'a', 'přináší', 'jen', 'hrubé', 'představy', 'o', 'skutečném', 'tavu.']
@@ -16579,7 +16583,7 @@ Capitals: []
 Chyba: tepelnýžh
 tepelných: 585
 tepelný: 320
-opraveno: tepelných
+opraveno: tepelnýžh
 tepelných
 
 proudů
@@ -16604,7 +16608,7 @@ Capitals: []
 Chyba: oyblastí
 oblastí: 4546
 oblastní: 250
-opraveno: oblastí
+opraveno: oyblastí
 oblastí.
 
 Plášť
@@ -16705,7 +16709,7 @@ Capitals: []
 Chyba: oblasí
 oblastí: 4546
 oblastní: 250
-opraveno: oblastí
+opraveno: oblasí
 oblastí,
 
 ve
@@ -16721,7 +16725,7 @@ Capitals: []
 Chyba: anují
 panují: 338
 tankují: 26
-opraveno: panují
+opraveno: anují
 panují
 
 dostatečné
@@ -16758,7 +16762,7 @@ Capitals: []
 Chyba: se,m
 sem: 23619
 stem: 143
-opraveno: sem
+opraveno: se,m
 sem
 
 že
@@ -16774,7 +16778,7 @@ Capitals: []
 Chyba: tatůo
 tato: 16692
 tatou: 17
-opraveno: tato
+opraveno: tatůo
 tato
 
 vžstva
@@ -16782,7 +16786,7 @@ Capitals: []
 Chyba: vžstva
 vrstva: 1932
 výstava: 2286
-opraveno: vrstva
+opraveno: vžstva
 vrstva
 
 mohla
@@ -16839,7 +16843,7 @@ Capitals: []
 Chyba: nžalogicky
 analogicky: 223
 nelogicky: 79
-opraveno: analogicky
+opraveno: nžalogicky
 analogicky
 
 k
@@ -16892,7 +16896,7 @@ Capitals: []
 Chyba: eneruie
 energie: 14595
 tenerife: 31
-opraveno: energie
+opraveno: eneruie
 energie
 
 dostává
@@ -16913,7 +16917,7 @@ Capitals: []
 Chyba: pvrchu
 povrchu: 6296
 vrchu: 1061
-opraveno: povrchu
+opraveno: pvrchu
 povrchu.
 
 V
@@ -16949,7 +16953,7 @@ Capitals: []
 Chyba: ež
 řež: 84
 tež: 13
-opraveno: řež
+opraveno: ež
 řež
 
 500
@@ -16970,7 +16974,7 @@ Capitals: []
 Chyba: provrchem
 povrchem: 1606
 rozvrhem: 37
-opraveno: povrchem
+opraveno: provrchem
 povrchem.
 
 Některé
@@ -17034,7 +17038,7 @@ marsvovský
 Capitals: []
 Chyba: marsvovský
 marsovský not in voc_words
-opraveno: marsovský
+opraveno: marsvovský
 marsovský
 
 povrch.
@@ -17047,7 +17051,7 @@ Capitals: [0]
 Chyba: znamenalor
 znamenalo: 4004
 znamenal: 1082
-opraveno: znamenalo
+opraveno: znamenalor
 Znamenalo
 
 by
@@ -17072,7 +17076,7 @@ Capitals: []
 Chyba: voca
 vocaď: 38
 vocas: 20
-opraveno: vocaď
+opraveno: voca
 vocaď
 
 je
@@ -17084,7 +17088,7 @@ Capitals: []
 Chyba: mnbohem
 mnohem: 21370
 bohem: 991
-opraveno: mnohem
+opraveno: mnbohem
 mnohem
 
 blíže
@@ -17117,7 +17121,7 @@ Capitals: [0]
 Chyba: zajímavotí
 zajímavostí: 360
 zajímavost: 450
-opraveno: zajímavostí
+opraveno: zajímavotí
 Zajímavostí
 
 byl
@@ -17129,7 +17133,7 @@ Capitals: []
 Chyba: snemek
 usneme: 25
 snímek: 2857
-opraveno: usneme
+opraveno: snemek
 usneme
 
 z
@@ -17144,7 +17148,7 @@ roku
 Capitals: []
 Chyba: 1ň999
 1999 not in voc_words
-opraveno: 1999
+opraveno: 1ň999
 1999
 
 ukazující
@@ -17189,7 +17193,7 @@ Capitals: []
 Chyba: patrnýmiq
 patrnými: 34
 opatrnými: 18
-opraveno: patrnými
+opraveno: patrnýmiq
 patrnými
 
 stopami
@@ -17205,7 +17209,7 @@ Capitals: []
 Chyba: podzermní
 podzemní: 1764
 podzemním: 264
-opraveno: podzemní
+opraveno: podzermní
 podzemní
 
 vody.
@@ -17310,7 +17314,7 @@ Capitals: []
 Chyba: hloupky
 chloupky: 446
 chaloupky: 176
-opraveno: chloupky
+opraveno: hloupky
 chloupky
 
 okolo
@@ -17348,7 +17352,7 @@ Capitals: []
 Chyba: měa
 měna: 323
 měla: 54613
-opraveno: měna
+opraveno: měa
 měna
 
 být
@@ -17408,7 +17412,7 @@ Terrafrmce
 Capitals: [0]
 Chyba: terrafrmce
 terraformace not in voc_words
-opraveno: terraformace
+opraveno: terrafrmce
 Terraformace
 
 Marsš.
@@ -17417,7 +17421,7 @@ Capitals: [0]
 Chyba: marsš
 marš: 23
 mars: 548
-opraveno: marš
+opraveno: marsš
 Marš.
 
 ['Podrobnější', 'informace', 'naleznete', 'v', 'článcích', 'Kolonizace', 'Marsu', 'a', 'Terrafrmce', 'Marsš.']
@@ -17429,7 +17433,7 @@ Capitals: [0]
 Chyba: objevzení
 objevení: 436
 objevením: 62
-opraveno: objevení
+opraveno: objevzení
 Objevení
 
 vody
@@ -17461,7 +17465,7 @@ Capitals: []
 Chyba: faktoreé
 faktorem: 1344
 faktor: 1375
-opraveno: faktorem
+opraveno: faktoreé
 faktorem
 
 i
@@ -17485,7 +17489,7 @@ Capitals: []
 Chyba: kosmicých
 kosmických: 265
 komických: 84
-opraveno: kosmických
+opraveno: kosmicých
 kosmických
 
 misí
@@ -17526,7 +17530,7 @@ Capitals: []
 Chyba: sinížení
 snížení: 4833
 snížením: 442
-opraveno: snížení
+opraveno: sinížení
 snížení
 
 zásob,
@@ -17547,7 +17551,7 @@ Capitals: []
 Chyba: nucei
 nuceni: 725
 vnuci: 124
-opraveno: nuceni
+opraveno: nucei
 nuceni
 
 astronaubi
@@ -17555,7 +17559,7 @@ Capitals: []
 Chyba: astronaubi
 astronauti: 71
 astronaut: 108
-opraveno: astronauti
+opraveno: astronaubi
 astronauti
 
 s
@@ -17597,7 +17601,7 @@ Capitals: []
 Chyba: potřbná
 potřebná: 750
 nepotřebná: 40
-opraveno: potřebná
+opraveno: potřbná
 potřebná
 
 voda
@@ -17662,7 +17666,7 @@ Capitals: []
 Chyba: ušeřtří
 ušetří: 910
 ušetříš: 17
-opraveno: ušetří
+opraveno: ušeřtří
 ušetří
 
 nákladový
@@ -17675,7 +17679,7 @@ Capitals: []
 Chyba: prosbor
 prostor: 14234
 prosbou: 301
-opraveno: prostor
+opraveno: prosbor
 prostor.
 
 Voda
@@ -17734,7 +17738,7 @@ Capitals: []
 Chyba: pemmafrostu
 permafrostu: 54
 permafrost: 18
-opraveno: permafrostu
+opraveno: pemmafrostu
 permafrostu,
 
 z
@@ -17761,8 +17765,8 @@ polárních
 Capitals: []
 Chyba: čepiček.í
 čepiček not in voc_words
-opraveno: čepiček
-čepiček
+opraveno: čepiček.í
+čepiček.
 
 Pro
 Capitals: [0]
@@ -17814,7 +17818,7 @@ Capitals: []
 Chyba: rdu
 růdu: 12
 rudu: 75
-opraveno: růdu
+opraveno: rdu
 růdu
 
 néa
@@ -17822,7 +17826,7 @@ Capitals: []
 Chyba: néa
 né: 258
 na: 1713721
-opraveno: né
+opraveno: néa
 né
 
 kapalnou
@@ -17835,11 +17839,11 @@ Capitals: []
 Chyba: odu
 vodu: 8509
 sodu: 70
-opraveno: vodu
+opraveno: odu
 vodu.
 
 ['Objevzení', 'vody', 'na', 'Marsu', 'se', 'stalo', 'významným', 'faktoreé', 'i', 'pi', 'plánování', 'budoucích', 'kosmicých', 'misí', 'k', 'Marsu', 's', 'lidskou', 'posádkou,', 'jelikož', 'znamenalo', 'sinížení', 'zásob,', 'které', 'budou', 'nucei', 'astronaubi', 's', 'sebou', 'přepravovat.', 'Naskytuje', 'se', 'reálná', 'možnost,', 'že', 'potřbná', 'voda', 'se', 'bude', 'těžit', 'přímo', 'z', 'povrchu', 'Marsu', 'či', 'z', 'polárních', 'čepiček,', 'což', 'značně', 'ušeřtří', 'nákladový', 'prosbor.', 'Voda', 'se', 'bude', 'moci', 'získávat', 'několika', 'způsoby,', 'ať', 'už', 'z', 'regolitu,', 'z', 'pemmafrostu,', 'z', 'aquiferů', 'nebo', 'z', 'polárních', 'čepiček.í', 'Pro', 'její', 'získání', 'bude', 'potřeba', 'dodávat', 'teplo,', 'aby', 'došlo', 'k', 'rozpuštění', 'rdu', 'néa', 'kapalnou', 'odu.']
-Objevení vody na Marsu se stalo významným faktorem i pi plánování budoucích kosmických misí k Marsu s lidskou posádkou, jelikož znamenalo snížení zásob, které budou nuceni astronauti s sebou přepravovat. Naskytuje se reálná možnost, že potřebná voda se bude těžit přímo z povrchu Marsu či z polárních čepiček, což značně ušetří nákladový prostor. Voda se bude moci získávat několika způsoby, ať už z regolitu, z permafrostu, z aquiferů nebo z polárních čepiček Pro její získání bude potřeba dodávat teplo, aby došlo k rozpuštění růdu né kapalnou vodu.
+Objevení vody na Marsu se stalo významným faktorem i pi plánování budoucích kosmických misí k Marsu s lidskou posádkou, jelikož znamenalo snížení zásob, které budou nuceni astronauti s sebou přepravovat. Naskytuje se reálná možnost, že potřebná voda se bude těžit přímo z povrchu Marsu či z polárních čepiček, což značně ušetří nákladový prostor. Voda se bude moci získávat několika způsoby, ať už z regolitu, z permafrostu, z aquiferů nebo z polárních čepiček. Pro její získání bude potřeba dodávat teplo, aby došlo k rozpuštění růdu né kapalnou vodu.
 []
 
 Existují
@@ -17880,7 +17884,7 @@ Capitals: [0]
 Chyba: mrsřu
 marsu: 590
 mrs: 24
-opraveno: marsu
+opraveno: mrsřu
 Marsu
 
 na
@@ -17896,7 +17900,7 @@ Capitals: []
 Chyba: obyvateltou
 obyvatelnou: 11
 obyvatelkou: 21
-opraveno: obyvatelnou
+opraveno: obyvateltou
 obyvatelnou
 
 planetu
@@ -17922,7 +17926,7 @@ Capitals: [0]
 Chyba: jedím
 jezdím: 666
 jedním: 11835
-opraveno: jezdím
+opraveno: jedím
 Jezdím
 
 ze
@@ -17934,7 +17938,7 @@ Capitals: []
 Chyba: záikladních
 základních: 5290
 základního: 1339
-opraveno: základních
+opraveno: záikladních
 základních
 
 předpokladů
@@ -17959,7 +17963,7 @@ Capitals: []
 Chyba: vtvoření
 vytvoření: 3520
 tvoření: 374
-opraveno: vytvoření
+opraveno: vtvoření
 vytvoření
 
 hustší
@@ -17979,7 +17983,7 @@ Capitals: []
 Chyba: exstenci
 existenci: 3479
 esenci: 111
-opraveno: existenci
+opraveno: exstenci
 existenci
 
 kapalné
@@ -18012,7 +18016,7 @@ Capitals: []
 Chyba: iosféry
 biosféry: 52
 litosféry: 16
-opraveno: biosféry
+opraveno: iosféry
 biosféry.
 
 Tentoó
@@ -18020,7 +18024,7 @@ Capitals: [0]
 Chyba: tentoó
 tento: 29349
 teto: 135
-opraveno: tento
+opraveno: tentoó
 Tento
 
 proces
@@ -18068,7 +18072,7 @@ Capitals: []
 Chyba: vynalďožení
 vynaložení: 95
 vynaložením: 67
-opraveno: vynaložení
+opraveno: vynalďožení
 vynaložení
 
 extrémních
@@ -18085,7 +18089,7 @@ Capitals: []
 Chyba: alú
 žal: 584
 ťal: 40
-opraveno: žal
+opraveno: alú
 žal
 
 již
@@ -18192,7 +18196,7 @@ Capitals: []
 Chyba: nápadyr
 nápady: 1827
 nápad: 5126
-opraveno: nápady
+opraveno: nápadyr
 nápady
 
 jak
@@ -18250,7 +18254,7 @@ Capitals: []
 Chyba: omocí
 pomocí: 18305
 mocí: 868
-opraveno: pomocí
+opraveno: omocí
 pomocí
 
 soustavy
@@ -18279,7 +18283,7 @@ Capitals: []
 Chyba: skleníkofvých
 skleníkových: 471
 skleníkový: 78
-opraveno: skleníkových
+opraveno: skleníkofvých
 skleníkových
 
 plynů
@@ -18315,7 +18319,7 @@ Capitals: []
 Chyba: plánůx
 plánů: 1470
 plánům: 202
-opraveno: plánů
+opraveno: plánůx
 plánů
 
 ['Existují', 'smělé', 'plány,', 'které', 'se', 'zaměřují', 'na', 'přeměnu', 'Mrsřu', 'na', 'člověkem', 'obyvateltou', 'planetu', '–', 'terraformace', 'Marsu.', 'Jedím', 'ze', 'záikladních', 'předpokladů', 'je', 'ohřátí', 'povrchu,', 'vtvoření', 'hustší', 'atmosféry', 'umožňující', 'exstenci', 'kapalné', 'vody', 'na', 'povrchu', 'á', 'vytvoření', 'iosféry.', 'Tentoó', 'proces', 'je', 'se', 'současnými', 'technologiemi', 'nejspíše', 'neproveditelný', 'či', 'proveditelný', 'za', 'vynalďožení', 'extrémních', 'nákladů,', 'alú', 'již', 'dnes', 'vznikají', 'návrhy,', 'jak', 'tento', 'úkol', 'provést.', 'Mnoho', 'těchto', 'projektů', 'se', 'objevuje', 've', 'vědecko', 'fantastické', 'literatuře', 'jako', 'v', 'případě', 'Trilogie', 'o', 'Marsu.', 'Mezi', 'nápadyr', 'jak', 'rozpustit', 'vodní', 'led,', 'je', 'využití', 'jaderných', 'náloží', 'v', 'podzemí,', 'ohřátí', 'planety', 'omocí', 'soustavy', 'zrcadel,', 'vypouštěním', 'speciální', 'směsi', 'skleníkofvých', 'plynů', 'do', 'atmosféry', 'a', 'mnoho', 'dalších', 'odvážných', 'plánůx']
@@ -18407,7 +18411,7 @@ Capitals: []
 Chyba: celkotého
 celkového: 1824
 celého: 9414
-opraveno: celkového
+opraveno: celkotého
 celkového
 
 množství
@@ -18435,7 +18439,7 @@ Capitals: []
 Chyba: zzvislosti
 závislosti: 3760
 závislostmi: 29
-opraveno: závislosti
+opraveno: zzvislosti
 závislosti
 
 na
@@ -18451,7 +18455,7 @@ Capitals: []
 Chyba: poznatcíchh
 poznatcích: 70
 poznávacích: 156
-opraveno: poznatcích
+opraveno: poznatcíchh
 poznatcích
 
 sond.
@@ -18485,7 +18489,7 @@ Capitals: []
 Chyba: slžité
 složité: 2929
 slité: 20
-opraveno: složité
+opraveno: slžité
 složité.
 
 V
@@ -18554,7 +18558,7 @@ Capitals: []
 Chyba: počítačoého
 počítačového: 277
 počítačové: 1208
-opraveno: počítačového
+opraveno: počítačoého
 počítačového
 
 modelu
@@ -18570,7 +18574,7 @@ Capitals: []
 Chyba: vešerá
 veškerá: 1396
 šerá: 11
-opraveno: veškerá
+opraveno: vešerá
 veškerá
 
 voda
@@ -18602,7 +18606,7 @@ Capitals: []
 Chyba: clý
 celý: 27822
 cl: 118
-opraveno: celý
+opraveno: clý
 celý
 
 Mars
@@ -18631,7 +18635,7 @@ Capitals: []
 Chyba: cetrů
 centrů: 23
 centrům: 92
-opraveno: centrů
+opraveno: cetrů
 centrů.
 
 K
@@ -18643,7 +18647,7 @@ Capitals: []
 Chyba: téomu
 tomu: 77285
 témuž: 191
-opraveno: tomu
+opraveno: téomu
 tomu
 
 by
@@ -18655,7 +18659,7 @@ Capitals: []
 Chyba: bylm
 byl: 194660
 zbylým: 108
-opraveno: byl
+opraveno: bylm
 byl
 
 nutno
@@ -18712,7 +18716,7 @@ Capitals: []
 Chyba: miďliónu
 miliónu: 1276
 milión: 344
-opraveno: miliónu
+opraveno: miďliónu
 miliónu
 
 km3
@@ -18754,14 +18758,14 @@ Capitals: []
 Chyba: kilogrm
 kilogram: 325
 kilogramů: 1346
-opraveno: kilogram
+opraveno: kilogrm
 kilogram
 
 barsovského
 Capitals: []
 Chyba: barsovského
 marsovského not in voc_words
-opraveno: marsovského
+opraveno: barsovského
 marsovského
 
 regolitu
@@ -18773,7 +18777,7 @@ Capitals: []
 Chyba: řipadá
 připadá: 3778
 připadáš: 75
-opraveno: připadá
+opraveno: řipadá
 připadá
 
 až
@@ -18834,7 +18838,7 @@ Capitals: []
 Chyba: polárnch
 polárních: 199
 polách: 65
-opraveno: polárních
+opraveno: polárnch
 polárních
 
 oblastech
@@ -18855,7 +18859,7 @@ Capitals: []
 Chyba: odhauje
 odhazuje: 80
 odhaluje: 600
-opraveno: odhazuje
+opraveno: odhauje
 odhazuje
 
 množství
@@ -18965,7 +18969,7 @@ Capitals: []
 Chyba: leú
 le: 1445
 šle: 32
-opraveno: le
+opraveno: leú
 le
 
 a
@@ -18981,7 +18985,7 @@ prefix: ~
 Capitals: []
 Chyba: 310−2
 3102 not in voc_words
-opraveno: 3102
+opraveno: 310−2
 ~3102
 
 km3
@@ -19001,7 +19005,7 @@ Capitals: []
 Chyba: sublómace
 sublimace: 23
 sublimací: 24
-opraveno: sublimace
+opraveno: sublómace
 sublimace
 
 sezónních
@@ -19071,7 +19075,7 @@ Capitals: []
 Chyba: odhdujž
 odhadují: 392
 odhaduju: 34
-opraveno: odhadují
+opraveno: odhdujž
 odhadují,
 
 že
@@ -19104,7 +19108,7 @@ Capitals: []
 Chyba: vytvořtita
 vytvořit: 6291
 vytvořila: 1622
-opraveno: vytvořit
+opraveno: vytvořtita
 vytvořit
 
 by
@@ -19132,7 +19136,7 @@ Capitals: []
 Chyba: souvslá
 souvislá: 127
 nesouvislá: 20
-opraveno: souvislá
+opraveno: souvslá
 souvislá
 
 vodní
